@@ -1,3 +1,16 @@
 body{
-	background-color: lightblue;
+    background-image: url("assets/black_lozenge/black_lozenge.png");
+    background-repeat: repeat-y repeat-x;
+	/*background-color: #2B2B2B;*/
+	color: #F6F6F6;
+}
+.first-section{
+	margin-top: 100px;
+}
+.first-section h1{
+	color: #757575;
+}
+
+.second-section{
+	margin-top: 50px;
 }
