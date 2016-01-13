@@ -13,3 +13,8 @@ body{
 .container{
 	padding: 5%;
 }
+.img-rounded{
+	height:300px;
+	width: 300px;
+	border: 1px;
+}
