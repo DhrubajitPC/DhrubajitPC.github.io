@@ -16,7 +16,8 @@ body{
 .container{
 	padding-top: 5%;
 }
-.img-rounded{
+.img-circle{
 	height:300px;
 	border: 1px;
+	/*-webkit-filter: grayscale(1);*/
 }
