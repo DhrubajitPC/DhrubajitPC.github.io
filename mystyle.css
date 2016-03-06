@@ -1,6 +1,7 @@
 body{
-    background-image: url("assets/greyzz/greyzz.png");
+    background-image: url("assets/seamless_paper_texture/seamless_paper_texture.png");
     background-repeat: repeat-y repeat-x;
+    font-family: sans-serif;
 	/*background-color: #2B2B2B;*/
 	/*color: #F6F6F6;*/
 }
@@ -16,8 +17,10 @@ body{
 .container{
 	padding-top: 5%;
 }
-.img-circle{
-	height:300px;
-	border: 1px;
-	/*-webkit-filter: grayscale(1);*/
+.img-rounded{
+	height: 300px;
+	border: 1px solid;
+	filter: gray;
+  	filter: grayscale(1);
+	-webkit-filter: grayscale(1);
 }
