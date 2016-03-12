@@ -8,30 +8,60 @@
 	  	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
   		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  		<link href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.css" rel="stylesheet">
+  		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+			    $('#fullpage').fullpage({
+					navigation: true,
+					scrollBar: true,
+					anchors:['first-section', 'second-section', 'third-section'],
+					responsiveWidth: 900,
+					fixedElements: "#header",
+					// sectionsColor : ["rgba(55,71,79,0.85)", "rgba(40,53,147,0.85)", " rgba(239,108,0, 0.8)"]
+			    });
+			});
+		</script>
+
 	</head>
 	<body>
-		<div class = "container">
-			<div class = "col-md-6 col-xs-12 first-section">
-				<div class = "text-center">
-					<img src = "assets/my-pic8.jpg" class = "img-rounded"/>
-					<h1> Dhrubajit Paul Chowdhury </h1>
+		
+		<div id="fullpage">
+			
+			<nav class="navbar navbar-inverse navbar-fixed-top" id="header">
+			  <div class="container-fluid">
+		    	<div class="container">
+				    <div class="navbar-header">
+				    	<div class="collapse navbar-collapse">
+					    	<ul class="nav navbar-nav">
+					    		<li><a href="#first-section">Home</a></li>
+					    		<li><a href="#second-section">Projects</a></li>
+					    		<li><a href="#third-section">Games</a></li>
+					    	</ul>
+					    </div>
+					</div>
+			    </div>
+			</nav>
+
+		    <div class="section first-section container-fluid">
+		    	<div class = "container">
+			    	<div class="row">
+			    		<div class="col-xs-offset-4 col-xs-4 text-center">
+							<img src = "assets/my-pic44.jpg" class = "img-circle img-responsive"/>
+			    		</div>				
+					</div>
+					<div class="row personal-info">
+						<div class="col-md-12">
+							<h2> Dhrubajit Paul Chowdhury</h2>
+							<hr/>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec nulla sed nibh eleifend mattis. Quisque porttitor lectus in hendrerit ullamcorper. Sed vulputate leo et congue condimentum. Nam ac nisl nec nunc elementum pellentesque. Integer non aliquam nisi, a porttitor tellus. Maecenas non nisl et libero convallis semper a vitae.</p>
+						</div>
+					</div>
 				</div>
 			</div>
-			<div class = "col-md-6 col-xs-12 first-section">
-				<h2> About Me </h2>
-				<p>I am senior CS student in Singapore University of Technology and Design with a keen interest in learning new skills and meeting new people. Being a CS student, I have also developed a considerable liking for programming and enjoy working on cool and interesting projects.</p>
-				<p> I am a shy extrovert and outgoing person who likes travelling and interacting with people from different places. I enjoy listening to music and have picked up the guitar as a hobby hoping against hope to become a maestro some day when I wake up. In the meantime, I have equipped myself with the ability of making games to give people joy. Alright, let's not lie, I enjoy making games for myself more than the noble purpose of sharing joy. </p>
-
-				<p> Below I have shared some of my game projects you might like: </p>
-				<ul>
-					<li><a href="games/roll a ball/roll a ball.html"> Roll a Ball </a></li>
-					<li><a href="#"> quis nostrud exercitation </a></li>
-					<li><a href="#"> quis nostrud exercitation </a></li>
-				</ul>
-
-				<p> You can find my resume <a href="resume.pdf"> here. </a></p> 
-
-			</div>
+		    <div class="section second-section container-fluid">Some section</div>
+		    <div class="section third-section container-fluid">Some section</div>
 		</div>
 	</body>
 </html>
