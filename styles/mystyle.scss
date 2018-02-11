@@ -1,0 +1,67 @@
+$light: #f8f9fa;
+$dark: #343a40;
+$white: whitesmoke;
+
+@font-face {
+	font-family: "Fira Sans";
+	src: url("../assets/fira-sans/FiraSans-Light.otf");
+}
+
+@font-face {
+	font-family: "Proxima Nova Thin-webfont";
+	src: url("../assets/fonts/Mark\ Simonson\ -\ Proxima\ Nova\ Thin-webfont.ttf");
+}
+
+@font-face {
+	font-family: "Proxima Nova Alt Regular";
+	src: url("../assets/fonts/Mark\ Simonson\ -\ Proxima\ Nova\ Alt\ Regular-webfont.ttf");
+}
+
+* {
+	// font-family: "Fira Sans";
+	// font-family: "Proxima Nova Thin-webfont";
+	font-family: "Proxima Nova Alt Regular";
+}
+
+.footer {
+	padding: 20px;
+	height: 50px;
+	background-color: #f8f9fa;
+}
+
+.circle {
+	border-radius: 50%;
+}
+
+.img-circle {
+	border-radius: 50%;
+	width: 15%;
+	margin-bottom: 15px;
+}
+.bg-image {
+	background-image: url('https://ariomarketing.com/wp-content/uploads/2014/09/bg-mac.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: -60px;
+}
+.work-headings {
+	margin-top: 200px;
+	margin-bottom: 200px;
+	color: whitesmoke;
+}
+.navbar {
+	background: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+}	
+.content {
+	min-height: calc(100vh - 110px);
+}
+.index {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
