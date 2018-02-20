@@ -55,9 +55,10 @@
 	right: 0;
 }	
 .content {
-	min-height: calc(100vh - 110px);
+	min-height: calc(100vh - 50px);
 }
 .index {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
