@@ -40,6 +40,8 @@ $('#textarea')
 
 $('.text-wrap').addClass('form-control');
 $('.text-wrap')[0].style.padding = 0;
+$('.text-wrap')[0].style.height = '22px';
+// $('.text-core')[0].style.height = '22px';
 $('form').submit(e => {
   e.preventDefault();
   console.log(e);
