@@ -20,6 +20,10 @@
 	/* font-family: "Fira Sans"; */
 }
 
+h6 {
+	letter-spacing: 2px;
+}
+
 .footer {
 	padding: 20px;
 	height: 50px;
