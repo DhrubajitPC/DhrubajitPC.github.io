@@ -24,6 +24,10 @@ h6 {
 	letter-spacing: 2px;
 }
 
+p {
+	text-align: justify;
+}
+
 .footer {
 	padding: 20px;
 	height: 50px;
