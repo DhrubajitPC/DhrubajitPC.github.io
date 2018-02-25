@@ -1,15 +1,23 @@
 let scrollStart = 0;
 const navChange = $('#nav-change');
 const offset = navChange.offset().top;
-$(document).scroll( () => {
-    scrollStart = $(this).scrollTop();
-    if(scrollStart > offset - 75) {
-      $('.navbar').addClass('navbar-dark');
-      $('.navbar').addClass('bg-dark');
-    } else{
-      $('.navbar').removeClass('navbar-dark');
-      $('.navbar').removeClass('bg-dark');
+const elements = $('.nav-link')
+console.log('elements ', elements);
+$(document).scroll(() => {
+  scrollStart = $(this).scrollTop();
+  if(scrollStart > offset - 75) {
+    $('.navbar').addClass('navbar-light');
+    $('.navbar').addClass('bg-light');
+    for(let i = 0; i < elements.length; i++) {
+      elements[i].style.color = 'inherit';
     }
+  } else{
+    $('.navbar').removeClass('navbar-light');
+    $('.navbar').removeClass('bg-light');
+    for(let i = 0; i < elements.length; i++) {
+      elements[i].style.color = 'whitesmoke';
+    }
+  }
 });
 
 $('#textarea')
