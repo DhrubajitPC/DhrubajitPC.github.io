@@ -1,3 +1,16 @@
+let scrollStart = 0;
+const navChange = $('#nav-change');
+const offset = navChange.offset().top;
+$(document).scroll( () => {
+    scrollStart = $(this).scrollTop();
+    if(scrollStart > offset - 75) {
+      $('.navbar').addClass('navbar-dark');
+      $('.navbar').addClass('bg-dark');
+    } else{
+      $('.navbar').removeClass('navbar-dark');
+      $('.navbar').removeClass('bg-dark');
+    }
+});
 
 $('#textarea')
   .textext({

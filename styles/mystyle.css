@@ -56,14 +56,14 @@ p {
 	color: whitesmoke;
 }
 .navbar {
-	background: none;
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-}	
+	/* background: none; */
+	/* position: sticky; */
+	/* top: 0; */
+	/* left: 0; */
+	/* right: 0; */
+}
 .content {
-	min-height: calc(100vh - 50px);
+	min-height: calc(100vh - 110px);
 }
 .index {
 	display: flex;
