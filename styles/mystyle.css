@@ -44,7 +44,7 @@ p {
 	margin-bottom: 15px;
 }
 .bg-image {
-	background-image: url('https://ariomarketing.com/wp-content/uploads/2014/09/bg-mac.jpg');
+	background-image: url('../assets/bg/bg-mac.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -54,13 +54,6 @@ p {
 	margin-top: 200px;
 	margin-bottom: 200px;
 	color: whitesmoke;
-}
-.navbar {
-	/* background: none; */
-	/* position: sticky; */
-	/* top: 0; */
-	/* left: 0; */
-	/* right: 0; */
 }
 .content {
 	min-height: calc(100vh - 110px);
