@@ -70,14 +70,13 @@
   <p class="err" id="err" hidden></p>
   <div class="wrap" id="panel-status"><main id="grid"></main></div>
   <div class="wrap hidden" id="panel-apps">
+    <div class="tabs" id="agent-tabs" style="padding:16px 0 0">
+      <button class="tab on" data-agent="Alice" type="button">Alice</button>
+      <button class="tab" data-agent="Julie" type="button">Julie</button>
+      <button class="tab" data-agent="Mike" type="button">Mike</button>
+    </div>
     <div class="toolbar">
       <input id="q" type="search" placeholder="Search company or role" />
-      <select id="board">
-        <option value="">All boards</option>
-        <option>Germany</option>
-        <option>New Zealand</option>
-        <option>SEA / other</option>
-      </select>
       <select id="only">
         <option value="">All roles</option>
         <option value="applied">Applied / in progress</option>
@@ -87,7 +86,7 @@
     </div>
     <table>
       <thead>
-        <tr><th></th><th>Company</th><th>Role</th><th>Board</th><th>Status</th><th>Agent</th></tr>
+        <tr><th></th><th>Company</th><th>Role</th><th>Board</th><th>Status</th></tr>
       </thead>
       <tbody id="apptbody"></tbody>
     </table>
@@ -132,22 +131,22 @@
 
     let applications = [];
     let artifacts = [];
+    let agentTab = "Alice";
 
     function renderApps() {
       const q = document.getElementById("q").value.toLowerCase();
-      const board = document.getElementById("board").value;
       const only = document.getElementById("only").value;
       const ticks = loadTicks();
       const rows = applications.filter((a) => {
         const applied = a.applied || !!ticks[appKey(a)];
-        if (board && a.board !== board) return false;
+        if ((a.agent || "") !== agentTab) return false;
         if (only === "applied" && !applied) return false;
         if (only === "open" && applied) return false;
         const blob = (a.company + " " + a.role + " " + a.status).toLowerCase();
         return !q || blob.includes(q);
       });
       document.getElementById("appcount").textContent =
-        rows.length + " shown · " + applications.filter(a => a.applied || ticks[appKey(a)]).length + " ticked";
+        rows.length + " shown · " + rows.filter(a => a.applied || ticks[appKey(a)]).length + " ticked";
       document.getElementById("apptbody").innerHTML = rows.map((a) => {
         const key = appKey(a);
         const applied = a.applied || !!ticks[key];
@@ -160,7 +159,6 @@
           <td>${escapeHtml(a.role)}</td>
           <td>${escapeHtml(a.board)}</td>
           <td>${escapeHtml(a.status || (applied ? "applied" : "open"))}</td>
-          <td>${escapeHtml(a.agent)}</td>
         </tr>`;
       }).join("");
     }
@@ -219,17 +217,24 @@
       }
     }
 
-    document.querySelectorAll(".tab").forEach((t) => {
+    document.querySelectorAll(".tabs:not(#agent-tabs) .tab").forEach((t) => {
       t.addEventListener("click", () => {
-        document.querySelectorAll(".tab").forEach((x) => x.classList.remove("on"));
+        document.querySelectorAll(".tabs:not(#agent-tabs) .tab").forEach((x) => x.classList.remove("on"));
         t.classList.add("on");
         ["status", "apps", "arts"].forEach((id) => {
           document.getElementById("panel-" + id).classList.toggle("hidden", t.dataset.tab !== id);
         });
       });
     });
+    document.querySelectorAll("#agent-tabs .tab").forEach((t) => {
+      t.addEventListener("click", () => {
+        document.querySelectorAll("#agent-tabs .tab").forEach((x) => x.classList.remove("on"));
+        t.classList.add("on");
+        agentTab = t.dataset.agent;
+        renderApps();
+      });
+    });
     document.getElementById("q").addEventListener("input", renderApps);
-    document.getElementById("board").addEventListener("change", renderApps);
     document.getElementById("only").addEventListener("change", renderApps);
     document.getElementById("apptbody").addEventListener("change", (e) => {
       const box = e.target.closest("input.check");
