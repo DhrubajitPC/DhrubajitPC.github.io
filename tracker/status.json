@@ -1,0 +1,209 @@
+{
+  "generatedAt": "2026-08-23T13:23:32.723113+00:00",
+  "agents": [
+    {
+      "name": "Alice",
+      "id": "1cf9935e-e29d-4cd3-98fc-1fc35594f878",
+      "status": "active",
+      "lastSeen": "2026-08-23T13:23:25.694Z",
+      "eventCount": 175,
+      "ageSeconds": 7,
+      "recent": [
+        {
+          "ts": "2026-08-23T13:23:25.694Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:23:20.607Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "ts": "2026-08-23T13:23:19.187Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "ts": "2026-08-23T13:23:13.885Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:22:12.823Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:22:07.978Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "ts": "2026-08-23T13:22:06.965Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "ts": "2026-08-23T13:22:02.710Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        }
+      ],
+      "recentUrls": [
+        {
+          "url": "https://jobs.zalando.com/en/jobs/2724266",
+          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "url": "https://jobs.zalando.com/en/jobs/2724266",
+          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "url": "https://jobs.zalando.com/en/jobs/2724266",
+          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "url": "https://jobs.zalando.com/en/jobs/2724266",
+          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+        },
+        {
+          "url": "https://jobs.zalando.com/en/jobs/2724266",
+          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+        }
+      ]
+    },
+    {
+      "name": "Julie",
+      "id": "10148b2e-c8f2-4fe6-9fa4-3d6fdb5cb80b",
+      "status": "recent",
+      "lastSeen": "2026-08-23T13:20:10.614Z",
+      "eventCount": 78,
+      "ageSeconds": 202,
+      "recent": [
+        {
+          "ts": "2026-08-23T13:20:10.614Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:19:37.929Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:19:30.603Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:16:49.002Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:14:39.688Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:14:01.933Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:13:24.434Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:11:59.134Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        }
+      ],
+      "recentUrls": [
+        {
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da/screening/expired",
+          "title": "SmartRecruiters"
+        },
+        {
+          "url": "https://jobs.lever.co/propellerhead/d7437da0-daeb-47e8-9fd7-9a8b82b07f16/apply",
+          "title": "Propellerhead - Senior Software Engineer"
+        },
+        {
+          "url": "https://jobs.lever.co/propellerhead/d7437da0-daeb-47e8-9fd7-9a8b82b07f16",
+          "title": "Propellerhead - Senior Software Engineer"
+        },
+        {
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da/screening",
+          "title": "Preliminary questions - Senior Software Engineer (Front end) - Air New Zealand"
+        },
+        {
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "id": "351e02ad-15e5-4a2a-862b-9b1a83dec19b",
+      "status": "active",
+      "lastSeen": "2026-08-23T13:23:28.708Z",
+      "eventCount": 40,
+      "ageSeconds": 4,
+      "recent": [
+        {
+          "ts": "2026-08-23T13:23:28.708Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:21:26.001Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:20:14.674Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:19:19.282Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:16:01.570Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:14:17.463Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:13:56.316Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        },
+        {
+          "ts": "2026-08-23T13:13:24.238Z",
+          "kind": "shell",
+          "detail": "Running a command"
+        }
+      ],
+      "recentUrls": [
+        {
+          "url": "https://careers.airwallex.com/job/1c25c15f-8c14-4818-9a49-69087087323b/senior-software-engineer-frontend-business-accounts/",
+          "title": "Senior Software Engineer (Frontend), Business Accounts - Airwallex Careers"
+        },
+        {
+          "url": "https://accounts.google.com/v3/signin/identifier",
+          "title": "Google Drive: Sign-in"
+        }
+      ]
+    }
+  ]
+}
