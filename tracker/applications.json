@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-08-23T13:22:51.541272+00:00",
-  "appliedCount": 10,
-  "total": 108,
+  "generatedAt": "2026-08-23T13:27:11.141839+00:00",
+  "appliedCount": 9,
+  "total": 111,
   "applications": [
     {
       "board": "Germany",
-      "company": "Personio",
-      "role": "Senior Frontend Engineer (Money / compensation)",
-      "city": "Germany (WTTJ listing)",
-      "url": "https://app.welcometothejungle.com/jobs/oveLmjAX",
-      "status": "materials ready",
+      "company": "AMBOSS",
+      "role": "Senior Frontend Engineer",
+      "city": "Berlin / Remote-DE",
+      "url": "https://jobs.ashbyhq.com/amboss/e5fe2279-ae9d-45c1-a920-e2d0ff44221f/application",
+      "status": "applying",
       "applied": true,
       "agent": "Alice",
       "date": "",
-      "notes": "Welcome to the Jungle \u00b7 visa unknown"
+      "notes": "Ashby application form"
     },
     {
-      "board": "Germany",
-      "company": "Redcare Pharmacy",
-      "role": "Senior Engineer, Full Stack (Retail Media / AdTech Solutions) (m/f/d)",
-      "city": "Cologne",
-      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000141426362-senior-engineer-full-stack-retail-media-adtech-solutions-m-f-d-",
-      "status": "materials ready",
-      "applied": true,
       "agent": "Alice",
-      "date": "posted ~04 Aug 2026",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "board": "Germany",
+      "company": "Delivery Hero",
+      "role": "Senior Fullstack Software Engineer (Kotlin/Java/React) - Fintech",
+      "city": "",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000140595139-senior-fullstack-software-engineer-kotlin-java-react-fintech",
+      "status": "applying",
+      "applied": true,
+      "notes": "Screening / SmartRecruiters",
+      "date": "2026-08-23"
     },
     {
-      "board": "Germany",
-      "company": "Redcare Pharmacy",
-      "role": "Senior Frontend Engineer (m/f/d)",
-      "city": "Cologne",
-      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140259080-senior-frontend-engineer-m-f-d-",
-      "status": "materials ready",
-      "applied": true,
       "agent": "Alice",
-      "date": "posted ~28 Jul 2026",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
-    },
-    {
       "board": "Germany",
-      "company": "Redcare Pharmacy",
-      "role": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d)",
-      "city": "Berlin / Remote-DE",
-      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000141742248-senior-frontend-engineer-retail-media-adtech-solutions-m-f-d-",
-      "status": "materials ready",
+      "company": "Personio",
+      "role": "Senior Software Engineer \u2013 Backend / Fullstack (d/f/m)",
+      "city": "Germany",
+      "url": "https://www.personio.com/careers/3994eea1-edac-40c7-886b-61a92dfa813d/apply/",
+      "status": "applying",
       "applied": true,
-      "agent": "Alice",
-      "date": "posted ~05 Aug 2026",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "Cover letter drafted",
+      "date": "2026-08-23"
     },
     {
       "board": "Germany",
       "company": "Redcare Pharmacy",
       "role": "Senior Fullstack Engineer (m/f/d)",
       "city": "Berlin",
-      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134715389-senior-fullstack-engineer-m-f-d-",
-      "status": "materials ready",
+      "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/b1b1458d",
+      "status": "applying",
       "applied": true,
       "agent": "Alice",
       "date": "posted ~29 Jun 2026",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "Easy apply / preliminary questions"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "think-cell",
+      "role": "Software Engineer",
+      "city": "",
+      "url": "https://job-boards.eu.greenhouse.io/think-cell/jobs/4807325101",
+      "status": "applied",
+      "applied": true,
+      "notes": "Greenhouse confirmation: Thank you for applying",
+      "date": "2026-08-23"
     },
     {
       "board": "Germany",
@@ -73,55 +73,7 @@
       "applied": true,
       "agent": "Alice",
       "date": "",
-      "notes": "Zalando careers \u00b7 visa yes"
-    },
-    {
-      "board": "New Zealand",
-      "company": "Air New Zealand",
-      "role": "Senior Software Engineer (Front end)",
-      "city": "Auckland",
-      "url": "https://careers.airnewzealand.co.nz/job/senior-software-engineer-front-end-in-auckland-nz-jid-901",
-      "status": "Submit failed (server error)",
-      "applied": true,
-      "agent": "Julie",
-      "date": "2026-08-23",
-      "notes": "Form filled + cover letter; SmartRecruiters try-again error. Closed 23 Aug."
-    },
-    {
-      "board": "New Zealand",
-      "company": "Propellerhead",
-      "role": "Senior Software Engineer",
-      "city": "Auckland",
-      "url": "https://jobs.lever.co/propellerhead/d7437da0-daeb-47e8-9fd7-9a8b82b07f16",
-      "status": "Follow up later",
-      "applied": true,
-      "agent": "Dhrubajit (self)",
-      "date": "2026-08-23",
-      "notes": "No-AI policy; personal questions; Auckland interview at own cost."
-    },
-    {
-      "board": "New Zealand",
-      "company": "Xero",
-      "role": "Senior Engineer",
-      "city": "Wellington / Auckland",
-      "url": "https://careers.xero.com/jobs/d04a1911-d150-49bf-a3d3-4e6db01f0c2e/senior-engineer/",
-      "status": "Applying",
-      "applied": true,
-      "agent": "Julie",
-      "date": "2026-08-23",
-      "notes": "React + C# + AWS."
-    },
-    {
-      "board": "SEA / other",
-      "company": "Airwallex",
-      "role": "Senior Software Engineer (Frontend), Business Accounts",
-      "city": "",
-      "url": "https://careers.airwallex.com/job/1c25c15f-8c14-4818-9a49-69087087323b/senior-software-engineer-frontend-business-accounts/",
-      "status": "applying",
-      "applied": true,
-      "agent": "Mike",
-      "date": "2026-08-23",
-      "notes": ""
+      "notes": "Cover letter drafted; on job + privacy pages"
     },
     {
       "board": "Germany",
@@ -133,7 +85,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "posted 13 May 2026",
-      "notes": "JOIN \u00b7 visa unknown"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -145,7 +97,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Welcome to the Jungle \u00b7 visa unknown"
+      "notes": "Welcome to the Jungle"
     },
     {
       "board": "Germany",
@@ -157,7 +109,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Berlin Startup Jobs \u00b7 visa unknown"
+      "notes": "Berlin Startup Jobs"
     },
     {
       "board": "Germany",
@@ -169,7 +121,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -181,7 +133,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -193,7 +145,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -205,7 +157,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -217,7 +169,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -229,7 +181,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -241,7 +193,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -253,7 +205,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -265,7 +217,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -277,7 +229,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -289,7 +241,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -301,19 +253,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
-    },
-    {
-      "board": "Germany",
-      "company": "AMBOSS",
-      "role": "Senior Frontend Engineer",
-      "city": "Berlin / Remote-DE",
-      "url": "https://jobs.ashbyhq.com/amboss/e5fe2279-ae9d-45c1-a920-e2d0ff44221f",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -325,7 +265,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -337,7 +277,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "posted 28 Apr 2026",
-      "notes": "JOIN \u00b7 visa unknown"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -349,7 +289,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Berlin Startup Jobs \u00b7 visa unknown"
+      "notes": "Berlin Startup Jobs"
     },
     {
       "board": "Germany",
@@ -361,7 +301,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Welcome to the Jungle \u00b7 visa unknown"
+      "notes": "Welcome to the Jungle"
     },
     {
       "board": "Germany",
@@ -373,7 +313,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -385,7 +325,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -397,7 +337,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -409,7 +349,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -421,7 +361,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Berlin Startup Jobs \u00b7 visa unknown"
+      "notes": "Berlin Startup Jobs"
     },
     {
       "board": "Germany",
@@ -433,7 +373,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Delivery Hero careers \u00b7 visa unknown"
+      "notes": "Delivery Hero careers"
     },
     {
       "board": "Germany",
@@ -445,7 +385,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Delivery Hero careers \u00b7 visa unknown"
+      "notes": "Delivery Hero careers"
     },
     {
       "board": "Germany",
@@ -457,7 +397,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Delivery Hero careers \u00b7 visa unknown"
+      "notes": "Delivery Hero careers"
     },
     {
       "board": "Germany",
@@ -469,7 +409,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Delivery Hero careers \u00b7 visa unknown"
+      "notes": "Delivery Hero careers"
     },
     {
       "board": "Germany",
@@ -481,7 +421,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -493,7 +433,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -505,7 +445,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -517,7 +457,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -529,7 +469,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Greenhouse \u00b7 visa unknown"
+      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
@@ -541,7 +481,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -553,7 +493,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -565,7 +505,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -577,7 +517,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "page still 200; listing dates older \u2014 recheck",
-      "notes": "JOIN \u00b7 visa yes"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -589,7 +529,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -601,7 +541,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -613,7 +553,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -625,7 +565,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -637,7 +577,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -649,7 +589,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -661,7 +601,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -673,7 +613,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -685,7 +625,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Welcome to the Jungle \u00b7 visa unknown"
+      "notes": "Welcome to the Jungle"
     },
     {
       "board": "Germany",
@@ -697,7 +637,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Greenhouse \u00b7 visa unknown"
+      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
@@ -709,7 +649,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Welcome to the Jungle \u00b7 visa unknown"
+      "notes": "Welcome to the Jungle"
     },
     {
       "board": "Germany",
@@ -721,7 +661,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "JOIN \u00b7 visa unknown"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -733,7 +673,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "JOIN \u00b7 visa unknown"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -745,7 +685,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa yes"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -757,7 +697,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa yes"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -769,7 +709,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa yes"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -781,7 +721,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa yes"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -793,7 +733,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -805,7 +745,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "posted 09 Apr 2026",
-      "notes": "JOIN \u00b7 visa unknown"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -817,7 +757,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "JOIN \u00b7 visa unknown"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -829,7 +769,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "posted ~12 Aug 2026",
-      "notes": "Greenhouse \u00b7 visa unknown"
+      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
@@ -841,7 +781,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Greenhouse \u00b7 visa unknown"
+      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
@@ -853,7 +793,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -865,7 +805,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -877,7 +817,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -889,7 +829,55 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "Personio",
+      "role": "Senior Frontend Engineer (Money / compensation)",
+      "city": "Germany (WTTJ listing)",
+      "url": "https://app.welcometothejungle.com/jobs/oveLmjAX",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Welcome to the Jungle"
+    },
+    {
+      "board": "Germany",
+      "company": "Redcare Pharmacy",
+      "role": "Senior Engineer, Full Stack (Retail Media / AdTech Solutions) (m/f/d)",
+      "city": "Cologne",
+      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000141426362-senior-engineer-full-stack-retail-media-adtech-solutions-m-f-d-",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "posted ~04 Aug 2026",
+      "notes": "SmartRecruiters"
+    },
+    {
+      "board": "Germany",
+      "company": "Redcare Pharmacy",
+      "role": "Senior Frontend Engineer (m/f/d)",
+      "city": "Cologne",
+      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140259080-senior-frontend-engineer-m-f-d-",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "posted ~28 Jul 2026",
+      "notes": "SmartRecruiters"
+    },
+    {
+      "board": "Germany",
+      "company": "Redcare Pharmacy",
+      "role": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d)",
+      "city": "Berlin / Remote-DE",
+      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000141742248-senior-frontend-engineer-retail-media-adtech-solutions-m-f-d-",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "posted ~05 Aug 2026",
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -901,7 +889,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Lever \u00b7 visa unknown"
+      "notes": "Lever"
     },
     {
       "board": "Germany",
@@ -913,7 +901,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SAP careers \u00b7 visa unknown"
+      "notes": "SAP careers"
     },
     {
       "board": "Germany",
@@ -925,7 +913,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa yes"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -937,7 +925,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa yes"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -949,7 +937,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SmartRecruiters \u00b7 visa unknown"
+      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
@@ -961,7 +949,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Welcome to the Jungle \u00b7 visa yes"
+      "notes": "Welcome to the Jungle"
     },
     {
       "board": "Germany",
@@ -973,7 +961,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -985,7 +973,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -997,7 +985,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Greenhouse \u00b7 visa unknown"
+      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
@@ -1009,7 +997,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Greenhouse \u00b7 visa unknown"
+      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
@@ -1021,7 +1009,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Greenhouse \u00b7 visa unknown"
+      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
@@ -1033,7 +1021,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1045,7 +1033,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1057,7 +1045,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SumUp careers \u00b7 visa unknown"
+      "notes": "SumUp careers"
     },
     {
       "board": "Germany",
@@ -1069,7 +1057,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "posted ~12 Aug 2026",
-      "notes": "SumUp careers \u00b7 visa unknown"
+      "notes": "SumUp careers"
     },
     {
       "board": "Germany",
@@ -1081,7 +1069,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SumUp careers \u00b7 visa unknown"
+      "notes": "SumUp careers"
     },
     {
       "board": "Germany",
@@ -1093,7 +1081,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SumUp careers \u00b7 visa unknown"
+      "notes": "SumUp careers"
     },
     {
       "board": "Germany",
@@ -1105,7 +1093,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "SumUp careers \u00b7 visa unknown"
+      "notes": "SumUp careers"
     },
     {
       "board": "Germany",
@@ -1117,7 +1105,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Welcome to the Jungle \u00b7 visa unknown"
+      "notes": "Welcome to the Jungle"
     },
     {
       "board": "Germany",
@@ -1129,7 +1117,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1141,7 +1129,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "posted ~16 Jul 2026",
-      "notes": "JOIN \u00b7 visa yes"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -1153,7 +1141,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "JOIN \u00b7 visa yes"
+      "notes": "JOIN"
     },
     {
       "board": "Germany",
@@ -1165,7 +1153,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1177,7 +1165,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1189,7 +1177,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1201,7 +1189,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1213,7 +1201,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1225,7 +1213,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1237,7 +1225,7 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -1249,7 +1237,31 @@
       "applied": false,
       "agent": "Alice",
       "date": "",
-      "notes": "Ashby \u00b7 visa unknown"
+      "notes": "Ashby"
+    },
+    {
+      "board": "New Zealand",
+      "company": "Air New Zealand",
+      "role": "Senior Software Engineer (Front end)",
+      "city": "Auckland",
+      "url": "https://careers.airnewzealand.co.nz/job/senior-software-engineer-front-end-in-auckland-nz-jid-901",
+      "status": "submit failed",
+      "applied": true,
+      "agent": "Julie",
+      "date": "2026-08-23",
+      "notes": "Form filled; SmartRecruiters error. Closed 23 Aug."
+    },
+    {
+      "board": "New Zealand",
+      "company": "Xero",
+      "role": "Senior Engineer",
+      "city": "Wellington / Auckland",
+      "url": "https://jobs.ashbyhq.com/xero/d04a1911-d150-49bf-a3d3-4e6db01f0c2e/application",
+      "status": "applying",
+      "applied": true,
+      "agent": "Julie",
+      "date": "2026-08-23",
+      "notes": "On Ashby application page"
     },
     {
       "board": "New Zealand",
@@ -1277,13 +1289,25 @@
     },
     {
       "board": "New Zealand",
+      "company": "Propellerhead",
+      "role": "Senior Software Engineer",
+      "city": "Auckland",
+      "url": "https://jobs.lever.co/propellerhead/d7437da0-daeb-47e8-9fd7-9a8b82b07f16",
+      "status": "Follow up later",
+      "applied": false,
+      "agent": "Julie",
+      "date": "2026-08-23",
+      "notes": "No-AI policy; personal questions; Auckland interview at own cost."
+    },
+    {
+      "board": "New Zealand",
       "company": "Spark",
       "role": "various",
       "city": "NZ",
       "url": "https://careers.sparknz.co.nz/careers/SearchJobs",
       "status": "Skip",
       "applied": false,
-      "agent": "Skip",
+      "agent": "Julie",
       "date": "2026-08-23",
       "notes": "Requires existing NZ work rights."
     },
@@ -1298,6 +1322,18 @@
       "agent": "Julie",
       "date": "2026-08-23",
       "notes": "INZ accredited on the ad."
+    },
+    {
+      "agent": "Mike",
+      "board": "SEA / other",
+      "company": "Airwallex",
+      "role": "Senior Software Engineer (Frontend), Business Accounts",
+      "city": "",
+      "url": "https://careers.airwallex.com/job/1c25c15f-8c14-4818-9a49-69087087323b/senior-software-engineer-frontend-business-accounts/",
+      "status": "applying",
+      "applied": true,
+      "notes": "On careers page",
+      "date": "2026-08-23"
     }
   ]
 }
