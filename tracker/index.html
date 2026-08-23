@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Agent tracker</title>
+  <style>
+    :root {
+      --bg: #0f1216; --card: #181c22; --ink: #e8edf4; --muted: #8b97a8;
+      --line: #2a313c; --active: #3dd68c; --recent: #f5c14a; --idle: #8b97a8;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font: 15px/1.45 ui-sans-serif, system-ui, sans-serif; background: var(--bg); color: var(--ink); }
+    header, .wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+    header { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; padding-top: 28px; }
+    h1 { font-size: 22px; font-weight: 650; margin: 0; }
+    .sub { color: var(--muted); font-size: 13px; margin-top: 4px; }
+    button, .tab {
+      background: #2a6df4; color: white; border: 0; border-radius: 8px;
+      padding: 8px 12px; font-weight: 600; cursor: pointer; font-size: 13px;
+    }
+    button:disabled { opacity: .55; cursor: default; }
+    .tabs { display: flex; gap: 8px; padding: 16px 24px 0; max-width: 1180px; margin: 0 auto; }
+    .tab { background: #262b33; color: var(--ink); }
+    .tab.on { background: #2a6df4; color: #fff; }
+    .err { color: #ff8a8a; padding: 8px 24px; max-width: 1180px; margin: 0 auto; }
+    main { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; padding: 16px 0 40px; }
+    .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 16px 12px; }
+    .top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+    .name { font-size: 18px; font-weight: 650; }
+    .pill { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; border-radius: 999px; padding: 3px 8px; }
+    .active { background: #163d2c; color: var(--active); }
+    .recent { background: #3d3214; color: var(--recent); }
+    .idle, .unknown { background: #262b33; color: var(--idle); }
+    .meta { color: var(--muted); font-size: 12px; margin: 8px 0 12px; }
+    ul { list-style: none; margin: 0; padding: 0; }
+    li { border-top: 1px solid var(--line); padding: 8px 0; font-size: 13px; }
+    .kind { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .04em; }
+    .detail { word-break: break-word; }
+    a { color: #8cb4ff; }
+    .hidden { display: none !important; }
+    .toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 14px 0 8px; }
+    input[type=search], select {
+      background: #11151b; color: var(--ink); border: 1px solid var(--line);
+      border-radius: 8px; padding: 8px 10px;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; margin: 8px 0 40px; }
+    th, td { text-align: left; padding: 8px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .04em; }
+    tr.applied td { background: #13261c; }
+    .check { width: 18px; height: 18px; accent-color: #3dd68c; }
+    .art-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; padding: 12px 0 40px; }
+    .art { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+    .badge { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Agent tracker</h1>
+      <div class="sub" id="stamp">Loading…</div>
+    </div>
+    <button id="refresh" type="button">Refresh</button>
+  </header>
+  <div class="tabs">
+    <button class="tab on" data-tab="status" type="button">Status</button>
+    <button class="tab" data-tab="apps" type="button">Applications</button>
+    <button class="tab" data-tab="arts" type="button">Artifacts</button>
+  </div>
+  <p class="err" id="err" hidden></p>
+  <div class="wrap" id="panel-status"><main id="grid"></main></div>
+  <div class="wrap hidden" id="panel-apps">
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="Search company or role" />
+      <select id="board">
+        <option value="">All boards</option>
+        <option>Germany</option>
+        <option>New Zealand</option>
+        <option>SEA / other</option>
+      </select>
+      <select id="only">
+        <option value="">All roles</option>
+        <option value="applied">Applied / in progress</option>
+        <option value="open">Not applied yet</option>
+      </select>
+      <span class="sub" id="appcount"></span>
+    </div>
+    <table>
+      <thead>
+        <tr><th></th><th>Company</th><th>Role</th><th>Board</th><th>Status</th><th>Agent</th></tr>
+      </thead>
+      <tbody id="apptbody"></tbody>
+    </table>
+  </div>
+  <div class="wrap hidden" id="panel-arts"><div class="art-grid" id="arts"></div></div>
+  <script>
+    const grid = document.getElementById("grid");
+    const stamp = document.getElementById("stamp");
+    const err = document.getElementById("err");
+    const btn = document.getElementById("refresh");
+    const ticksKey = "agent-tracker-ticks";
+
+    function ago(iso) {
+      if (!iso) return "never";
+      const s = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
+      if (s < 60) return Math.floor(s) + "s ago";
+      if (s < 3600) return Math.floor(s / 60) + "m ago";
+      if (s < 86400) return Math.floor(s / 3600) + "h ago";
+      return Math.floor(s / 86400) + "d ago";
+    }
+    function localTime(iso) {
+      if (!iso) return "—";
+      return new Date(iso).toLocaleString("en-SG", { timeZone: "Asia/Singapore", hour12: true });
+    }
+    function escapeHtml(s) {
+      return String(s || "").replace(/[&<>"']/g, (c) => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[c]));
+    }
+    function loadTicks() {
+      try { return JSON.parse(localStorage.getItem(ticksKey) || "{}"); }
+      catch { return {}; }
+    }
+    function saveTicks(t) { localStorage.setItem(ticksKey, JSON.stringify(t)); }
+    function appKey(a) { return [a.board, a.company, a.role].join("|"); }
+
+    async function fetchJson(name) {
+      const res = await fetch(name + "?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("Could not load " + name + " (" + res.status + ")");
+      return res.json();
+    }
+
+    let applications = [];
+    let artifacts = [];
+
+    function renderApps() {
+      const q = document.getElementById("q").value.toLowerCase();
+      const board = document.getElementById("board").value;
+      const only = document.getElementById("only").value;
+      const ticks = loadTicks();
+      const rows = applications.filter((a) => {
+        const applied = a.applied || !!ticks[appKey(a)];
+        if (board && a.board !== board) return false;
+        if (only === "applied" && !applied) return false;
+        if (only === "open" && applied) return false;
+        const blob = (a.company + " " + a.role + " " + a.status).toLowerCase();
+        return !q || blob.includes(q);
+      });
+      document.getElementById("appcount").textContent =
+        rows.length + " shown · " + applications.filter(a => a.applied || ticks[appKey(a)]).length + " ticked";
+      document.getElementById("apptbody").innerHTML = rows.map((a) => {
+        const key = appKey(a);
+        const applied = a.applied || !!ticks[key];
+        const company = a.url
+          ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noreferrer">${escapeHtml(a.company)}</a>`
+          : escapeHtml(a.company);
+        return `<tr class="${applied ? "applied" : ""}">
+          <td><input class="check" type="checkbox" data-key="${escapeHtml(key)}" ${applied ? "checked" : ""} ${a.applied ? "disabled" : ""} /></td>
+          <td>${company}</td>
+          <td>${escapeHtml(a.role)}</td>
+          <td>${escapeHtml(a.board)}</td>
+          <td>${escapeHtml(a.status || (applied ? "applied" : "open"))}</td>
+          <td>${escapeHtml(a.agent)}</td>
+        </tr>`;
+      }).join("");
+    }
+
+    function renderArts() {
+      document.getElementById("arts").innerHTML = artifacts.map((a) => {
+        const href = "files/" + encodeURIComponent(a.path.replace(/^.*\//, a.path.includes("uploads/") ? a.path : a.name));
+        const label = a.name.replace(/^afcf9e.*\.pdf$/, "Uploaded resume.pdf");
+        return `<div class="art">
+          <div class="badge">${escapeHtml(a.kind)} · ${escapeHtml(a.source)}</div>
+          <div style="margin-top:6px"><a href="${href}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a></div>
+          <div class="meta">${Math.max(1, Math.round(a.size/1024))} KB</div>
+        </div>`;
+      }).join("") || "<p class='sub'>No artifacts yet.</p>";
+    }
+
+    async function load() {
+      btn.disabled = true;
+      err.hidden = true;
+      try {
+        const [status, apps, arts] = await Promise.all([
+          fetchJson("status.json"),
+          fetchJson("applications.json"),
+          fetchJson("artifacts.json"),
+        ]);
+        stamp.textContent = "Updated " + localTime(status.generatedAt) + " SGT · fetched " + ago(status.generatedAt);
+        grid.innerHTML = "";
+        (status.agents || []).forEach((a) => {
+          const card = document.createElement("article");
+          card.className = "card";
+          const items = (a.recent || []).map((r) =>
+            `<li><div class="kind">${r.kind} · ${ago(r.ts)}</div><div class="detail">${escapeHtml(r.detail)}</div></li>`
+          ).join("");
+          const urls = (a.recentUrls || []).slice(0, 3).map((u) => {
+            const label = u.title || u.url;
+            return `<li><div class="kind">page</div><div class="detail"><a href="${u.url}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a></div></li>`;
+          }).join("");
+          card.innerHTML = `
+            <div class="top">
+              <div class="name">${escapeHtml(a.name)}</div>
+              <span class="pill ${a.status}">${a.status}</span>
+            </div>
+            <div class="meta">${escapeHtml(a.focus || "")}<br>Last seen ${ago(a.lastSeen)} · ${a.eventCount || 0} actions</div>
+            <ul>${items}${urls}</ul>`;
+          grid.appendChild(card);
+        });
+        applications = apps.applications || [];
+        artifacts = arts.artifacts || [];
+        renderApps();
+        renderArts();
+      } catch (e) {
+        err.hidden = false;
+        err.textContent = e.message || String(e);
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    document.querySelectorAll(".tab").forEach((t) => {
+      t.addEventListener("click", () => {
+        document.querySelectorAll(".tab").forEach((x) => x.classList.remove("on"));
+        t.classList.add("on");
+        ["status", "apps", "arts"].forEach((id) => {
+          document.getElementById("panel-" + id).classList.toggle("hidden", t.dataset.tab !== id);
+        });
+      });
+    });
+    document.getElementById("q").addEventListener("input", renderApps);
+    document.getElementById("board").addEventListener("change", renderApps);
+    document.getElementById("only").addEventListener("change", renderApps);
+    document.getElementById("apptbody").addEventListener("change", (e) => {
+      const box = e.target.closest("input.check");
+      if (!box || box.disabled) return;
+      const ticks = loadTicks();
+      if (box.checked) ticks[box.dataset.key] = true;
+      else delete ticks[box.dataset.key];
+      saveTicks(ticks);
+      renderApps();
+    });
+    btn.addEventListener("click", load);
+    load();
+  </script>
+</body>
+</html>
