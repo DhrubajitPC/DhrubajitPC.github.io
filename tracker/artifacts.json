@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-08-23T13:22:51.541272+00:00",
+  "artifacts": [
+    {
+      "name": "Cover_Letter_Personio_Dhrubajit.pdf",
+      "kind": "cover-letter",
+      "size": 3425,
+      "path": "Cover_Letter_Personio_Dhrubajit.pdf",
+      "source": "generated"
+    },
+    {
+      "name": "Cover_Letter_Redcare_Dhrubajit.pdf",
+      "kind": "cover-letter",
+      "size": 3001,
+      "path": "Cover_Letter_Redcare_Dhrubajit.pdf",
+      "source": "generated"
+    },
+    {
+      "name": "Cover_Letter_Thinkcell_Dhrubajit.pdf",
+      "kind": "cover-letter",
+      "size": 2901,
+      "path": "Cover_Letter_Thinkcell_Dhrubajit.pdf",
+      "source": "generated"
+    },
+    {
+      "name": "Dhrubajit_Chowdhury_AirNZ_Cover_Letter.pdf",
+      "kind": "cover-letter",
+      "size": 3061,
+      "path": "Dhrubajit_Chowdhury_AirNZ_Cover_Letter.pdf",
+      "source": "generated"
+    },
+    {
+      "name": "Dhrubajit_Chowdhury_Grab_Senior_SWE_Fullstack_Resume_2page.pdf",
+      "kind": "resume",
+      "size": 75938,
+      "path": "Dhrubajit_Chowdhury_Grab_Senior_SWE_Fullstack_Resume_2page.pdf",
+      "source": "upload-or-generated"
+    },
+    {
+      "name": "Dhrubajit_Chowdhury_Propellerhead_Cover_Letter.pdf",
+      "kind": "cover-letter",
+      "size": 2901,
+      "path": "Dhrubajit_Chowdhury_Propellerhead_Cover_Letter.pdf",
+      "source": "generated"
+    },
+    {
+      "name": "Dhrubajit_Chowdhury_Resume.pdf",
+      "kind": "resume",
+      "size": 906127,
+      "path": "Dhrubajit_Chowdhury_Resume.pdf",
+      "source": "upload-or-generated"
+    },
+    {
+      "name": "Dhrubajit_resume.pdf",
+      "kind": "resume",
+      "size": 150533,
+      "path": "Dhrubajit_resume.pdf",
+      "source": "upload-or-generated"
+    },
+    {
+      "name": "NZ_job_applications.csv",
+      "kind": "tracker",
+      "size": 1298,
+      "path": "NZ_job_applications.csv",
+      "source": "generated"
+    },
+    {
+      "name": "airnz_application_blocked_screening.webp",
+      "kind": "screenshot",
+      "size": 44670,
+      "path": "airnz_application_blocked_screening.webp",
+      "source": "generated"
+    },
+    {
+      "name": "airnz_submitted.webp",
+      "kind": "screenshot",
+      "size": 48326,
+      "path": "airnz_submitted.webp",
+      "source": "generated"
+    },
+    {
+      "name": "germany-jobs-pipeline.tsv",
+      "kind": "tracker",
+      "size": 17259,
+      "path": "germany-jobs-pipeline.tsv",
+      "source": "generated"
+    },
+    {
+      "name": "afcf9e3513cd9038df0931a1c5bb0f1e2ab15460f7d4de4f513c4ca0d67afd93.pdf",
+      "kind": "upload",
+      "size": 150533,
+      "path": "uploads/afcf9e3513cd9038df0931a1c5bb0f1e2ab15460f7d4de4f513c4ca0d67afd93.pdf",
+      "source": "uploaded"
+    }
+  ]
+}
