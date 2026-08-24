@@ -1,14 +1,29 @@
 {
-  "generatedAt": "2026-08-24T12:48:38.693102+00:00",
+  "generatedAt": "2026-08-24T13:19:24.248609+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "recent",
-      "lastSeen": "2026-08-24T12:44:50.109Z",
-      "eventCount": 533,
-      "ageSeconds": 228,
-      "focus": "React Jobs in Germany | Jobs By Workable",
+      "lastSeen": "2026-08-24T13:05:32.399Z",
+      "eventCount": 549,
+      "ageSeconds": 831,
+      "focus": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)",
       "recent": [
+        {
+          "ts": "2026-08-24T13:05:32.399Z",
+          "kind": "desktop",
+          "detail": "171 actions, 2436s"
+        },
+        {
+          "ts": "2026-08-24T12:59:34.395Z",
+          "kind": "browsing",
+          "detail": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)"
+        },
+        {
+          "ts": "2026-08-24T12:58:30.793Z",
+          "kind": "browsing",
+          "detail": "&quot;senior frontend engineer&quot; react typescript Berlin site:jobs.lever.co OR site:apply.workable.com OR site:job-boards.greenhouse.io - Google Search"
+        },
         {
           "ts": "2026-08-24T12:44:50.109Z",
           "kind": "browsing",
@@ -33,24 +48,17 @@
           "ts": "2026-08-24T12:32:09.166Z",
           "kind": "browsing",
           "detail": "Roles | Find available job openings at HelloFresh"
-        },
-        {
-          "ts": "2026-08-24T12:31:17.758Z",
-          "kind": "browsing",
-          "detail": "Careers at HelloFresh | HelloFresh jobs"
-        },
-        {
-          "ts": "2026-08-24T12:30:52.892Z",
-          "kind": "browsing",
-          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin React - Google Search"
-        },
-        {
-          "ts": "2026-08-24T12:25:32.854Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Engineer React Typescript Jobs in Germany | Jobs By Workable"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://jobs.lever.co/octoenergy/a7f97ce1-f3ab-42c9-bddc-44fe69df6470/apply",
+          "title": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)"
+        },
+        {
+          "url": "https://www.google.com/search",
+          "title": "&quot;senior frontend engineer&quot; react typescript Berlin site:jobs.lever.co OR site:apply.workable.com OR site:job-boards.greenhouse.io - Google Search"
+        },
         {
           "url": "https://jobs.workable.com/search",
           "title": "React Jobs in Germany | Jobs By Workable"
@@ -62,14 +70,6 @@
         {
           "url": "https://apply.workable.com/portless/",
           "title": "react Jobs near Germany | Jobs By Workable"
-        },
-        {
-          "url": "https://auth.join.com/",
-          "title": "Sign in"
-        },
-        {
-          "url": "https://careers.hellofresh.com/global/en/search-results",
-          "title": "Roles | Find available job openings at HelloFresh"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 76343,
+      "ageSeconds": 78189,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 76533,
+      "ageSeconds": 78378,
       "focus": "Explore Roles",
       "recent": [
         {
