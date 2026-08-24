@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-24T11:06:02.204858+00:00",
+  "generatedAt": "2026-08-24T11:08:33.502793+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
-      "lastSeen": "2026-08-24T11:00:27.836Z",
-      "eventCount": 393,
-      "ageSeconds": 334,
+      "status": "active",
+      "lastSeen": "2026-08-24T11:06:07.193Z",
+      "eventCount": 395,
+      "ageSeconds": 146,
       "focus": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
       "recent": [
+        {
+          "ts": "2026-08-24T11:06:07.193Z",
+          "kind": "browsing",
+          "detail": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101"
+        },
         {
           "ts": "2026-08-24T07:26:55.299Z",
           "kind": "desktop",
@@ -18,11 +23,6 @@
           "ts": "2026-08-24T01:23:11.556Z",
           "kind": "desktop",
           "detail": "35 actions, 252s"
-        },
-        {
-          "ts": "2026-08-24T01:19:02.799Z",
-          "kind": "browsing",
-          "detail": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101"
         },
         {
           "ts": "2026-08-24T01:18:16.391Z",
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 70186,
+      "ageSeconds": 70338,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 70376,
+      "ageSeconds": 70527,
       "focus": "Explore Roles",
       "recent": [
         {
