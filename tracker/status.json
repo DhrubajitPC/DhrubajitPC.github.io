@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-24T12:22:15.586638+00:00",
+  "generatedAt": "2026-08-24T12:35:08.719304+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-24T12:19:24.565Z",
-      "eventCount": 514,
-      "ageSeconds": 171,
-      "focus": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos",
+      "lastSeen": "2026-08-24T12:35:08.192Z",
+      "eventCount": 527,
+      "ageSeconds": 0,
+      "focus": "Roles | Find available job openings at HelloFresh",
       "recent": [
         {
-          "ts": "2026-08-24T12:19:24.565Z",
+          "ts": "2026-08-24T12:32:09.166Z",
           "kind": "browsing",
-          "detail": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos"
+          "detail": "Roles | Find available job openings at HelloFresh"
         },
         {
-          "ts": "2026-08-24T12:18:43.449Z",
+          "ts": "2026-08-24T12:31:17.758Z",
           "kind": "browsing",
-          "detail": "site:job-boards.greenhouse.io &quot;Senior Fullstack&quot; OR &quot;Senior Full Stack&quot; Berlin - Google Search"
+          "detail": "Careers at HelloFresh | HelloFresh jobs"
         },
         {
-          "ts": "2026-08-24T12:16:57.146Z",
+          "ts": "2026-08-24T12:30:52.892Z",
           "kind": "browsing",
-          "detail": "Careers - Atolls"
+          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin React - Google Search"
         },
         {
-          "ts": "2026-08-24T12:16:08.846Z",
+          "ts": "2026-08-24T12:25:32.854Z",
           "kind": "browsing",
-          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend&quot; Berlin React 2026 - Google Search"
+          "detail": "Senior Frontend Engineer React Typescript Jobs in Germany | Jobs By Workable"
         },
         {
-          "ts": "2026-08-24T12:15:07.663Z",
+          "ts": "2026-08-24T12:25:02.882Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/search"
+        },
+        {
+          "ts": "2026-08-24T12:24:35.025Z",
           "kind": "browsing",
           "detail": "Thank you for applying"
         },
         {
-          "ts": "2026-08-24T12:10:44.645Z",
+          "ts": "2026-08-24T12:23:45.148Z",
           "kind": "desktop",
-          "detail": "56 actions, 871s"
+          "detail": "31 actions, 489s"
         },
         {
-          "ts": "2026-08-24T12:04:52.720Z",
+          "ts": "2026-08-24T12:19:24.565Z",
           "kind": "browsing",
-          "detail": "Job Application for Staff Engineer - Fullstack at Staffbase"
-        },
-        {
-          "ts": "2026-08-24T11:58:45.442Z",
-          "kind": "browsing",
-          "detail": "https://job-boards.greenhouse.io/staffbase/jobs/8730116002"
+          "detail": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://job-boards.eu.greenhouse.io/kadmos3/jobs/4700215101",
-          "title": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos"
+          "url": "https://careers.hellofresh.com/global/en/search-results",
+          "title": "Roles | Find available job openings at HelloFresh"
+        },
+        {
+          "url": "https://careers.hellofresh.com/global/en",
+          "title": "Careers at HelloFresh | HelloFresh jobs"
         },
         {
           "url": "https://www.google.com/search",
-          "title": "site:job-boards.greenhouse.io &quot;Senior Fullstack&quot; OR &quot;Senior Full Stack&quot; Berlin - Google Search"
+          "title": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin React - Google Search"
         },
         {
-          "url": "https://atolls.com/careers/",
-          "title": "Careers - Atolls"
+          "url": "https://jobs.workable.com/search",
+          "title": "Senior Frontend Engineer React Typescript Jobs in Germany | Jobs By Workable"
         },
         {
-          "url": "https://job-boards.greenhouse.io/staffbase/jobs/8632485002/confirmation",
+          "url": "https://job-boards.eu.greenhouse.io/kadmos3/jobs/4700215101/confirmation",
           "title": "Thank you for applying"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/staffbase/jobs/8632485002",
-          "title": "Job Application for Staff Engineer - Fullstack at Staffbase"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 74760,
+      "ageSeconds": 75533,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 74949,
+      "ageSeconds": 75723,
       "focus": "Explore Roles",
       "recent": [
         {
