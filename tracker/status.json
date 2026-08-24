@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T12:21:44.634486+00:00",
+  "generatedAt": "2026-08-24T12:22:15.586638+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
       "lastSeen": "2026-08-24T12:19:24.565Z",
       "eventCount": 514,
-      "ageSeconds": 140,
+      "ageSeconds": 171,
       "focus": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 74729,
+      "ageSeconds": 74760,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 74919,
+      "ageSeconds": 74949,
       "focus": "Explore Roles",
       "recent": [
         {
