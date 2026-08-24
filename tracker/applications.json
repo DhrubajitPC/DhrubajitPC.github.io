@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T13:19:24.288321+00:00",
-  "appliedCount": 28,
-  "total": 121,
+  "generatedAt": "2026-08-24T13:20:21.125487+00:00",
+  "appliedCount": 29,
+  "total": 122,
   "applications": [
     {
       "agent": "Alice",
@@ -109,6 +109,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice added to submitted tally",
+      "date": "2026-08-24"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Octopus Energy",
+      "role": "Senior Frontend Engineer (m/w/d)",
+      "city": "",
+      "url": "",
+      "status": "applying",
+      "applied": true,
+      "notes": "Long Lever/apply session in progress",
       "date": "2026-08-24"
     },
     {
