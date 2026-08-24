@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:27:11.141839+00:00",
+  "generatedAt": "2026-08-24T00:51:41.859332+00:00",
   "appliedCount": 9,
   "total": 111,
   "applications": [
@@ -25,7 +25,7 @@
       "status": "applying",
       "applied": true,
       "notes": "Screening / SmartRecruiters",
-      "date": "2026-08-23"
+      "date": "2026-08-24"
     },
     {
       "agent": "Alice",
@@ -37,14 +37,14 @@
       "status": "applying",
       "applied": true,
       "notes": "Cover letter drafted",
-      "date": "2026-08-23"
+      "date": "2026-08-24"
     },
     {
       "board": "Germany",
       "company": "Redcare Pharmacy",
       "role": "Senior Fullstack Engineer (m/f/d)",
       "city": "Berlin",
-      "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/b1b1458d",
+      "url": "https://www.redcare-pharmacy.com/careers/open-jobs/details/744000126482399",
       "status": "applying",
       "applied": true,
       "agent": "Alice",
@@ -60,8 +60,8 @@
       "url": "https://job-boards.eu.greenhouse.io/think-cell/jobs/4807325101",
       "status": "applied",
       "applied": true,
-      "notes": "Greenhouse confirmation: Thank you for applying",
-      "date": "2026-08-23"
+      "notes": "Greenhouse confirmation",
+      "date": "2026-08-24"
     },
     {
       "board": "Germany",
@@ -73,7 +73,7 @@
       "applied": true,
       "agent": "Alice",
       "date": "",
-      "notes": "Cover letter drafted; on job + privacy pages"
+      "notes": "On job + privacy pages"
     },
     {
       "board": "Germany",
@@ -1249,7 +1249,7 @@
       "applied": true,
       "agent": "Julie",
       "date": "2026-08-23",
-      "notes": "Form filled; SmartRecruiters error. Closed 23 Aug."
+      "notes": "Form filled; SmartRecruiters error"
     },
     {
       "board": "New Zealand",
@@ -1280,12 +1280,12 @@
       "company": "Kami",
       "role": "Senior Software Engineer",
       "city": "Auckland",
-      "url": "https://builtin.com/job/senior-software-engineer/10596671",
-      "status": "Queued",
+      "url": "https://kami.bamboohr.com/careers/147",
+      "status": "Submitted",
       "applied": false,
       "agent": "Julie",
       "date": "2026-08-23",
-      "notes": "JS/TS/Python/Go."
+      "notes": "BambooHR thank-you. $120-140k NZD."
     },
     {
       "board": "New Zealand",
@@ -1315,13 +1315,13 @@
       "board": "New Zealand",
       "company": "Trade Me",
       "role": "Principal Software Engineer",
-      "city": "Auckland or Wellington",
-      "url": "https://trademe.csod.com/ux/ats/careersite/1/home?c=trademe",
-      "status": "Queued",
+      "city": "Auckland preferred (req254 also Wellington)",
+      "url": "https://trademe.csod.com/ux/ats/careersite/1/requisition/254/application?c=trademe",
+      "status": "Submitted",
       "applied": false,
       "agent": "Julie",
       "date": "2026-08-23",
-      "notes": "INZ accredited on the ad."
+      "notes": "Cornerstone thank-you. Work rights No."
     },
     {
       "agent": "Mike",
@@ -1333,7 +1333,7 @@
       "status": "applying",
       "applied": true,
       "notes": "On careers page",
-      "date": "2026-08-23"
+      "date": "2026-08-24"
     }
   ]
 }
