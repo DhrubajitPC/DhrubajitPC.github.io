@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-08-24T11:34:19.320145+00:00",
+  "generatedAt": "2026-08-24T11:46:38.435030+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-24T11:34:15.824Z",
-      "eventCount": 424,
-      "ageSeconds": 3,
-      "focus": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
+      "lastSeen": "2026-08-24T11:44:53.545Z",
+      "eventCount": 479,
+      "ageSeconds": 104,
+      "focus": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101",
       "recent": [
+        {
+          "ts": "2026-08-24T11:44:53.545Z",
+          "kind": "browsing",
+          "detail": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101"
+        },
+        {
+          "ts": "2026-08-24T11:42:22.865Z",
+          "kind": "browsing",
+          "detail": "https://jobs.smartrecruiters.com/ScalableCapital/search"
+        },
         {
           "ts": "2026-08-24T11:10:16.385Z",
           "kind": "desktop",
@@ -38,19 +48,17 @@
           "ts": "2026-08-24T01:15:20.110Z",
           "kind": "desktop",
           "detail": "33 actions, 225s"
-        },
-        {
-          "ts": "2026-08-24T01:11:37.732Z",
-          "kind": "browsing",
-          "detail": "https://job-boards.greenhouse.io/liveperson/jobs/8094375"
-        },
-        {
-          "ts": "2026-08-24T00:55:58.091Z",
-          "kind": "desktop",
-          "detail": "35 actions, 310s"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101",
+          "title": ""
+        },
+        {
+          "url": "https://jobs.smartrecruiters.com/ScalableCapital/search",
+          "title": ""
+        },
         {
           "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
           "title": ""
@@ -62,14 +70,6 @@
         {
           "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
           "title": ""
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/600b7dee-dea6-44a9-ae72-f0fdf2a4a13f/success",
-          "title": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/600b7dee-dea6-44a9-ae72-f0fdf2a4a13f/screening",
-          "title": "Preliminary questions - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 71884,
+      "ageSeconds": 72623,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 72073,
+      "ageSeconds": 72812,
       "focus": "Explore Roles",
       "recent": [
         {
