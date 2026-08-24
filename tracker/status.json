@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T13:20:21.087873+00:00",
+  "generatedAt": "2026-08-24T13:33:37.155087+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
+      "status": "idle",
       "lastSeen": "2026-08-24T13:05:32.399Z",
       "eventCount": 549,
-      "ageSeconds": 888,
+      "ageSeconds": 1684,
       "focus": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 78245,
+      "ageSeconds": 79041,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 78435,
+      "ageSeconds": 79231,
       "focus": "Explore Roles",
       "recent": [
         {
