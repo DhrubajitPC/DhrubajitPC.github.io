@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-24T12:35:08.719304+00:00",
+  "generatedAt": "2026-08-24T12:35:48.051969+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-24T12:35:08.192Z",
-      "eventCount": 527,
-      "ageSeconds": 0,
-      "focus": "Roles | Find available job openings at HelloFresh",
+      "lastSeen": "2026-08-24T12:35:41.242Z",
+      "eventCount": 529,
+      "ageSeconds": 6,
+      "focus": "Sign in",
       "recent": [
+        {
+          "ts": "2026-08-24T12:35:41.242Z",
+          "kind": "browsing",
+          "detail": "Sign in"
+        },
         {
           "ts": "2026-08-24T12:32:09.166Z",
           "kind": "browsing",
@@ -43,14 +48,13 @@
           "ts": "2026-08-24T12:23:45.148Z",
           "kind": "desktop",
           "detail": "31 actions, 489s"
-        },
-        {
-          "ts": "2026-08-24T12:19:24.565Z",
-          "kind": "browsing",
-          "detail": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://auth.join.com/",
+          "title": "Sign in"
+        },
         {
           "url": "https://careers.hellofresh.com/global/en/search-results",
           "title": "Roles | Find available job openings at HelloFresh"
@@ -66,10 +70,6 @@
         {
           "url": "https://jobs.workable.com/search",
           "title": "Senior Frontend Engineer React Typescript Jobs in Germany | Jobs By Workable"
-        },
-        {
-          "url": "https://job-boards.eu.greenhouse.io/kadmos3/jobs/4700215101/confirmation",
-          "title": "Thank you for applying"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 75533,
+      "ageSeconds": 75572,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 75723,
+      "ageSeconds": 75762,
       "focus": "Explore Roles",
       "recent": [
         {
