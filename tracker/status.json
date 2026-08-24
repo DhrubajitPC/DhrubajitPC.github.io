@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-24T11:47:33.873565+00:00",
+  "generatedAt": "2026-08-24T12:21:44.634486+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-24T11:44:53.545Z",
-      "eventCount": 479,
-      "ageSeconds": 160,
-      "focus": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101",
+      "lastSeen": "2026-08-24T12:19:24.565Z",
+      "eventCount": 514,
+      "ageSeconds": 140,
+      "focus": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos",
       "recent": [
         {
-          "ts": "2026-08-24T11:44:53.545Z",
+          "ts": "2026-08-24T12:19:24.565Z",
           "kind": "browsing",
-          "detail": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101"
+          "detail": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos"
         },
         {
-          "ts": "2026-08-24T11:42:22.865Z",
+          "ts": "2026-08-24T12:18:43.449Z",
           "kind": "browsing",
-          "detail": "https://jobs.smartrecruiters.com/ScalableCapital/search"
+          "detail": "site:job-boards.greenhouse.io &quot;Senior Fullstack&quot; OR &quot;Senior Full Stack&quot; Berlin - Google Search"
         },
         {
-          "ts": "2026-08-24T11:10:16.385Z",
-          "kind": "desktop",
-          "detail": "35 actions, 252s"
-        },
-        {
-          "ts": "2026-08-24T11:06:07.193Z",
+          "ts": "2026-08-24T12:16:57.146Z",
           "kind": "browsing",
-          "detail": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101"
+          "detail": "Careers - Atolls"
         },
         {
-          "ts": "2026-08-24T07:26:55.299Z",
-          "kind": "desktop",
-          "detail": "38 actions, 372s"
+          "ts": "2026-08-24T12:16:08.846Z",
+          "kind": "browsing",
+          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend&quot; Berlin React 2026 - Google Search"
         },
         {
-          "ts": "2026-08-24T01:18:16.391Z",
-          "kind": "desktop",
-          "detail": "3 actions, 27s"
-        },
-        {
-          "ts": "2026-08-24T01:18:09.875Z",
+          "ts": "2026-08-24T12:15:07.663Z",
           "kind": "browsing",
           "detail": "Thank you for applying"
         },
         {
-          "ts": "2026-08-24T01:15:20.110Z",
+          "ts": "2026-08-24T12:10:44.645Z",
           "kind": "desktop",
-          "detail": "33 actions, 225s"
+          "detail": "56 actions, 871s"
+        },
+        {
+          "ts": "2026-08-24T12:04:52.720Z",
+          "kind": "browsing",
+          "detail": "Job Application for Staff Engineer - Fullstack at Staffbase"
+        },
+        {
+          "ts": "2026-08-24T11:58:45.442Z",
+          "kind": "browsing",
+          "detail": "https://job-boards.greenhouse.io/staffbase/jobs/8730116002"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101",
-          "title": ""
+          "url": "https://job-boards.eu.greenhouse.io/kadmos3/jobs/4700215101",
+          "title": "Job Application for Senior Full-Stack Engineer (Berlin) at Kadmos"
         },
         {
-          "url": "https://jobs.smartrecruiters.com/ScalableCapital/search",
-          "title": ""
+          "url": "https://www.google.com/search",
+          "title": "site:job-boards.greenhouse.io &quot;Senior Fullstack&quot; OR &quot;Senior Full Stack&quot; Berlin - Google Search"
         },
         {
-          "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
-          "title": ""
+          "url": "https://atolls.com/careers/",
+          "title": "Careers - Atolls"
         },
         {
-          "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375/confirmation",
+          "url": "https://job-boards.greenhouse.io/staffbase/jobs/8632485002/confirmation",
           "title": "Thank you for applying"
         },
         {
-          "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
-          "title": ""
+          "url": "https://job-boards.greenhouse.io/staffbase/jobs/8632485002",
+          "title": "Job Application for Staff Engineer - Fullstack at Staffbase"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 72678,
+      "ageSeconds": 74729,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 72868,
+      "ageSeconds": 74919,
       "focus": "Explore Roles",
       "recent": [
         {
