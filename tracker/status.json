@@ -1,207 +1,219 @@
 {
-  "generatedAt": "2026-08-23T13:23:32.723113+00:00",
+  "generatedAt": "2026-08-24T00:51:41.824383+00:00",
   "agents": [
     {
       "name": "Alice",
-      "id": "1cf9935e-e29d-4cd3-98fc-1fc35594f878",
       "status": "active",
-      "lastSeen": "2026-08-23T13:23:25.694Z",
-      "eventCount": 175,
-      "ageSeconds": 7,
+      "lastSeen": "2026-08-24T00:50:48.371Z",
+      "eventCount": 380,
+      "ageSeconds": 53,
+      "focus": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
       "recent": [
         {
-          "ts": "2026-08-23T13:23:25.694Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T16:28:38.558Z",
+          "kind": "desktop",
+          "detail": "35 actions, 205s"
         },
         {
-          "ts": "2026-08-23T13:23:20.607Z",
+          "ts": "2026-08-23T16:25:16.213Z",
           "kind": "browsing",
-          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+          "detail": "https://job-boards.greenhouse.io/liveperson/jobs/8094375"
         },
         {
-          "ts": "2026-08-23T13:23:19.187Z",
+          "ts": "2026-08-23T16:25:04.179Z",
+          "kind": "desktop",
+          "detail": "50 actions, 551s"
+        },
+        {
+          "ts": "2026-08-23T16:24:47.956Z",
           "kind": "browsing",
-          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+          "detail": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
         },
         {
-          "ts": "2026-08-23T13:23:13.885Z",
-          "kind": "shell",
-          "detail": "Running a command"
-        },
-        {
-          "ts": "2026-08-23T13:22:12.823Z",
-          "kind": "shell",
-          "detail": "Running a command"
-        },
-        {
-          "ts": "2026-08-23T13:22:07.978Z",
+          "ts": "2026-08-23T16:22:29.849Z",
           "kind": "browsing",
-          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+          "detail": "Preliminary questions - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
         },
         {
-          "ts": "2026-08-23T13:22:06.965Z",
+          "ts": "2026-08-23T16:16:12.319Z",
           "kind": "browsing",
-          "detail": "Senior Frontend Engineer - ZEOS (all genders)"
+          "detail": "Easy apply - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
         },
         {
-          "ts": "2026-08-23T13:22:02.710Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T16:15:56.652Z",
+          "kind": "browsing",
+          "detail": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144276328-senior-frontend-engineer-retail-media-adtech-solutions-m-f-d-"
+        },
+        {
+          "ts": "2026-08-23T16:15:38.816Z",
+          "kind": "desktop",
+          "detail": "44 actions, 364s"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://jobs.zalando.com/en/jobs/2724266",
-          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+          "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
+          "title": ""
         },
         {
-          "url": "https://jobs.zalando.com/en/jobs/2724266",
-          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/600b7dee-dea6-44a9-ae72-f0fdf2a4a13f/success",
+          "title": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
         },
         {
-          "url": "https://jobs.zalando.com/en/jobs/2724266",
-          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/600b7dee-dea6-44a9-ae72-f0fdf2a4a13f/screening",
+          "title": "Preliminary questions - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
         },
         {
-          "url": "https://jobs.zalando.com/en/jobs/2724266",
-          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/600b7dee-dea6-44a9-ae72-f0fdf2a4a13f",
+          "title": "Easy apply - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
         },
         {
-          "url": "https://jobs.zalando.com/en/jobs/2724266",
-          "title": "Senior Frontend Engineer - ZEOS (all genders)"
+          "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144276328-senior-frontend-engineer-retail-media-adtech-solutions-m-f-d-",
+          "title": ""
         }
       ]
     },
     {
       "name": "Julie",
-      "id": "10148b2e-c8f2-4fe6-9fa4-3d6fdb5cb80b",
-      "status": "recent",
-      "lastSeen": "2026-08-23T13:20:10.614Z",
-      "eventCount": 78,
-      "ageSeconds": 202,
+      "status": "idle",
+      "lastSeen": "2026-08-23T15:36:15.234Z",
+      "eventCount": 148,
+      "ageSeconds": 33326,
+      "focus": "SmartRecruiters",
       "recent": [
         {
-          "ts": "2026-08-23T13:20:10.614Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:36:15.234Z",
+          "kind": "desktop",
+          "detail": "4 actions, 77s"
         },
         {
-          "ts": "2026-08-23T13:19:37.929Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:35:48.718Z",
+          "kind": "browsing",
+          "detail": "SmartRecruiters"
         },
         {
-          "ts": "2026-08-23T13:19:30.603Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:35:26.523Z",
+          "kind": "browsing",
+          "detail": "Air New Zealand Senior Software Engineer (Front end) | SmartRecruiters"
         },
         {
-          "ts": "2026-08-23T13:16:49.002Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:35:07.091Z",
+          "kind": "browsing",
+          "detail": "We&#39;re sorry, we can&#39;t find the page you have requested. | Air New Zealand"
         },
         {
-          "ts": "2026-08-23T13:14:39.688Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:35:04.044Z",
+          "kind": "browsing",
+          "detail": "https://careers.airnewzealand.co.nz/job/senior-software-engineer-front-end-in-auckland-nz-jid-901"
         },
         {
-          "ts": "2026-08-23T13:14:01.933Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:33:46.884Z",
+          "kind": "desktop",
+          "detail": "40 actions, 308s"
         },
         {
-          "ts": "2026-08-23T13:13:24.434Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:28:46.168Z",
+          "kind": "browsing",
+          "detail": "https://kami.bamboohr.com/careers/147"
         },
         {
-          "ts": "2026-08-23T13:11:59.134Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:26:56.387Z",
+          "kind": "desktop",
+          "detail": "3 actions, 49s"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da/screening/expired",
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da",
           "title": "SmartRecruiters"
         },
         {
-          "url": "https://jobs.lever.co/propellerhead/d7437da0-daeb-47e8-9fd7-9a8b82b07f16/apply",
-          "title": "Propellerhead - Senior Software Engineer"
+          "url": "https://jobs.smartrecruiters.com/AirNewZealand/08305968-9821-446d-97c1-cb707996f0da",
+          "title": "Air New Zealand Senior Software Engineer (Front end) | SmartRecruiters"
         },
         {
-          "url": "https://jobs.lever.co/propellerhead/d7437da0-daeb-47e8-9fd7-9a8b82b07f16",
-          "title": "Propellerhead - Senior Software Engineer"
+          "url": "https://careers.airnewzealand.co.nz/404",
+          "title": "We&#39;re sorry, we can&#39;t find the page you have requested. | Air New Zealand"
         },
         {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da/screening",
-          "title": "Preliminary questions - Senior Software Engineer (Front end) - Air New Zealand"
+          "url": "https://careers.airnewzealand.co.nz/job/senior-software-engineer-front-end-in-auckland-nz-jid-901",
+          "title": ""
         },
         {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da",
+          "url": "https://kami.bamboohr.com/careers/147",
           "title": ""
         }
       ]
     },
     {
       "name": "Mike",
-      "id": "351e02ad-15e5-4a2a-862b-9b1a83dec19b",
-      "status": "active",
-      "lastSeen": "2026-08-23T13:23:28.708Z",
-      "eventCount": 40,
-      "ageSeconds": 4,
+      "status": "idle",
+      "lastSeen": "2026-08-23T15:33:05.607Z",
+      "eventCount": 171,
+      "ageSeconds": 33516,
+      "focus": "Explore Roles",
       "recent": [
         {
-          "ts": "2026-08-23T13:23:28.708Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:33:05.607Z",
+          "kind": "desktop",
+          "detail": "9 actions, 133s"
         },
         {
-          "ts": "2026-08-23T13:21:26.001Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:30:35.314Z",
+          "kind": "browsing",
+          "detail": "Explore Roles"
         },
         {
-          "ts": "2026-08-23T13:20:14.674Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:29:31.069Z",
+          "kind": "desktop",
+          "detail": "42 actions, 387s"
         },
         {
-          "ts": "2026-08-23T13:19:19.282Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:22:16.432Z",
+          "kind": "desktop",
+          "detail": "4 actions, 35s"
         },
         {
-          "ts": "2026-08-23T13:16:01.570Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:21:10.441Z",
+          "kind": "browsing",
+          "detail": "MYOB - Senior Front End Developer - Data &amp; AI"
         },
         {
-          "ts": "2026-08-23T13:14:17.463Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:19:13.956Z",
+          "kind": "browsing",
+          "detail": "Senior Software Engineer (Frontend), Business Accounts - Airwallex Careers"
         },
         {
-          "ts": "2026-08-23T13:13:56.316Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:17:10.224Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer - Performance Monitoring - Canva"
         },
         {
-          "ts": "2026-08-23T13:13:24.238Z",
-          "kind": "shell",
-          "detail": "Running a command"
+          "ts": "2026-08-23T15:15:39.086Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer - Performance Monitoring , Sydney, , Australia | Canva Careers"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://careers.myob.com/explore-roles",
+          "title": "Explore Roles"
+        },
+        {
+          "url": "https://jobs.lever.co/myob-2/bc9c106b-2f10-4549-955d-b42420a9fc18/apply",
+          "title": "MYOB - Senior Front End Developer - Data &amp; AI"
+        },
         {
           "url": "https://careers.airwallex.com/job/1c25c15f-8c14-4818-9a49-69087087323b/senior-software-engineer-frontend-business-accounts/",
           "title": "Senior Software Engineer (Frontend), Business Accounts - Airwallex Careers"
         },
         {
-          "url": "https://accounts.google.com/v3/signin/identifier",
-          "title": "Google Drive: Sign-in"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Canva/publication/08e2f588-893c-4abf-88d3-7b368d05eedb/success",
+          "title": "Senior Frontend Engineer - Performance Monitoring - Canva"
+        },
+        {
+          "url": "https://www.lifeatcanva.com/en/jobs/6000000001210809/senior-frontend-engineer-performance-monitoring/",
+          "title": "Senior Frontend Engineer - Performance Monitoring , Sydney, , Australia | Canva Careers"
         }
       ]
     }
