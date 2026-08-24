@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T01:01:03.449914+00:00",
+  "generatedAt": "2026-08-24T01:01:55.724703+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "recent",
       "lastSeen": "2026-08-24T00:55:58.091Z",
       "eventCount": 381,
-      "ageSeconds": 305,
+      "ageSeconds": 357,
       "focus": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 33888,
+      "ageSeconds": 33940,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 34077,
+      "ageSeconds": 34130,
       "focus": "Explore Roles",
       "recent": [
         {
