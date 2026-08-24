@@ -1,14 +1,39 @@
 {
-  "generatedAt": "2026-08-24T01:01:55.724703+00:00",
+  "generatedAt": "2026-08-24T01:20:06.669637+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
-      "lastSeen": "2026-08-24T00:55:58.091Z",
-      "eventCount": 381,
-      "ageSeconds": 357,
-      "focus": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
+      "status": "active",
+      "lastSeen": "2026-08-24T01:19:02.799Z",
+      "eventCount": 390,
+      "ageSeconds": 63,
+      "focus": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
       "recent": [
+        {
+          "ts": "2026-08-24T01:19:02.799Z",
+          "kind": "browsing",
+          "detail": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101"
+        },
+        {
+          "ts": "2026-08-24T01:18:16.391Z",
+          "kind": "desktop",
+          "detail": "3 actions, 27s"
+        },
+        {
+          "ts": "2026-08-24T01:18:09.875Z",
+          "kind": "browsing",
+          "detail": "Thank you for applying"
+        },
+        {
+          "ts": "2026-08-24T01:15:20.110Z",
+          "kind": "desktop",
+          "detail": "33 actions, 225s"
+        },
+        {
+          "ts": "2026-08-24T01:11:37.732Z",
+          "kind": "browsing",
+          "detail": "https://job-boards.greenhouse.io/liveperson/jobs/8094375"
+        },
         {
           "ts": "2026-08-24T00:55:58.091Z",
           "kind": "desktop",
@@ -20,37 +45,20 @@
           "detail": "35 actions, 205s"
         },
         {
-          "ts": "2026-08-23T16:25:16.213Z",
-          "kind": "browsing",
-          "detail": "https://job-boards.greenhouse.io/liveperson/jobs/8094375"
-        },
-        {
           "ts": "2026-08-23T16:25:04.179Z",
           "kind": "desktop",
           "detail": "50 actions, 551s"
-        },
-        {
-          "ts": "2026-08-23T16:24:47.956Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
-        },
-        {
-          "ts": "2026-08-23T16:22:29.849Z",
-          "kind": "browsing",
-          "detail": "Preliminary questions - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
-        },
-        {
-          "ts": "2026-08-23T16:16:12.319Z",
-          "kind": "browsing",
-          "detail": "Easy apply - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
-        },
-        {
-          "ts": "2026-08-23T16:15:56.652Z",
-          "kind": "browsing",
-          "detail": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144276328-senior-frontend-engineer-retail-media-adtech-solutions-m-f-d-"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
+          "title": ""
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375/confirmation",
+          "title": "Thank you for applying"
+        },
         {
           "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
           "title": ""
@@ -62,14 +70,6 @@
         {
           "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/600b7dee-dea6-44a9-ae72-f0fdf2a4a13f/screening",
           "title": "Preliminary questions - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Redcare-Pharmacy/publication/600b7dee-dea6-44a9-ae72-f0fdf2a4a13f",
-          "title": "Easy apply - Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d) - Redcare Pharmacy"
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144276328-senior-frontend-engineer-retail-media-adtech-solutions-m-f-d-",
-          "title": ""
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 33940,
+      "ageSeconds": 35031,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 34130,
+      "ageSeconds": 35221,
       "focus": "Explore Roles",
       "recent": [
         {
