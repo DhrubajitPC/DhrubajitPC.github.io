@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T12:21:44.674380+00:00",
-  "appliedCount": 26,
-  "total": 119,
+  "generatedAt": "2026-08-24T12:22:15.630970+00:00",
+  "appliedCount": 28,
+  "total": 121,
   "applications": [
     {
       "agent": "Alice",
@@ -64,6 +64,18 @@
       "date": "2026-08-24"
     },
     {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Kadmos",
+      "role": "Senior Full-Stack Engineer (Berlin)",
+      "city": "Berlin",
+      "url": "",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Greenhouse application page",
+      "date": "2026-08-24"
+    },
+    {
       "board": "Germany",
       "company": "LivePerson",
       "role": "Senior Full Stack Software Engineer",
@@ -94,9 +106,9 @@
       "role": "Greenhouse listing 4792456101",
       "city": "",
       "url": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101",
-      "status": "applying",
+      "status": "submitted",
       "applied": true,
-      "notes": "On Greenhouse job page",
+      "notes": "Alice added to submitted tally",
       "date": "2026-08-24"
     },
     {
@@ -205,6 +217,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
+      "date": "2026-08-24"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Staffbase",
+      "role": "Staff Engineer - Fullstack",
+      "city": "",
+      "url": "https://job-boards.greenhouse.io/staffbase/jobs/8632485002",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Thank you for applying page",
       "date": "2026-08-24"
     },
     {
