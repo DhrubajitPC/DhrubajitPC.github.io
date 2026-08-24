@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T01:01:03.483216+00:00",
-  "appliedCount": 9,
-  "total": 111,
+  "generatedAt": "2026-08-24T01:01:55.758127+00:00",
+  "appliedCount": 13,
+  "total": 112,
   "applications": [
     {
       "board": "Germany",
@@ -28,6 +28,18 @@
       "date": "2026-08-24"
     },
     {
+      "board": "Germany",
+      "company": "LivePerson",
+      "role": "Senior Full Stack Software Engineer",
+      "city": "Berlin / Remote-DE",
+      "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
+      "status": "applying",
+      "applied": true,
+      "agent": "Alice",
+      "date": "",
+      "notes": "On Greenhouse job page"
+    },
+    {
       "agent": "Alice",
       "board": "Germany",
       "company": "Personio",
@@ -38,6 +50,30 @@
       "applied": true,
       "notes": "Cover letter drafted",
       "date": "2026-08-24"
+    },
+    {
+      "board": "Germany",
+      "company": "Redcare Pharmacy",
+      "role": "Senior Engineer, Full Stack (Retail Media / AdTech Solutions) (m/f/d)",
+      "city": "Cologne",
+      "url": "https://www.redcare-pharmacy.com/careers/open-jobs/details/744000126482399",
+      "status": "applying",
+      "applied": true,
+      "agent": "Alice",
+      "date": "posted ~04 Aug 2026",
+      "notes": "Easy apply / preliminary questions"
+    },
+    {
+      "board": "Germany",
+      "company": "Redcare Pharmacy",
+      "role": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d)",
+      "city": "Berlin / Remote-DE",
+      "url": "https://www.redcare-pharmacy.com/careers/open-jobs/details/744000126482399",
+      "status": "applying",
+      "applied": true,
+      "agent": "Alice",
+      "date": "posted ~05 Aug 2026",
+      "notes": "Easy apply / preliminary questions"
     },
     {
       "board": "Germany",
@@ -629,18 +665,6 @@
     },
     {
       "board": "Germany",
-      "company": "LivePerson",
-      "role": "Senior Full Stack Software Engineer",
-      "city": "Berlin / Remote-DE",
-      "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Greenhouse"
-    },
-    {
-      "board": "Germany",
       "company": "marta",
       "role": "Senior Full Stack Engineer (TS/Node/React)",
       "city": "Berlin (hybrid)",
@@ -846,18 +870,6 @@
     {
       "board": "Germany",
       "company": "Redcare Pharmacy",
-      "role": "Senior Engineer, Full Stack (Retail Media / AdTech Solutions) (m/f/d)",
-      "city": "Cologne",
-      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000141426362-senior-engineer-full-stack-retail-media-adtech-solutions-m-f-d-",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "posted ~04 Aug 2026",
-      "notes": "SmartRecruiters"
-    },
-    {
-      "board": "Germany",
-      "company": "Redcare Pharmacy",
       "role": "Senior Frontend Engineer (m/f/d)",
       "city": "Cologne",
       "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140259080-senior-frontend-engineer-m-f-d-",
@@ -865,18 +877,6 @@
       "applied": false,
       "agent": "Alice",
       "date": "posted ~28 Jul 2026",
-      "notes": "SmartRecruiters"
-    },
-    {
-      "board": "Germany",
-      "company": "Redcare Pharmacy",
-      "role": "Senior Frontend Engineer, Retail Media / AdTech Solutions (m/f/d)",
-      "city": "Berlin / Remote-DE",
-      "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000141742248-senior-frontend-engineer-retail-media-adtech-solutions-m-f-d-",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "posted ~05 Aug 2026",
       "notes": "SmartRecruiters"
     },
     {
@@ -1333,6 +1333,18 @@
       "status": "applying",
       "applied": true,
       "notes": "On careers page",
+      "date": "2026-08-24"
+    },
+    {
+      "agent": "Mike",
+      "board": "SEA / other",
+      "company": "Canva",
+      "role": "Senior Frontend Engineer - Performance Monitoring",
+      "city": "Sydney",
+      "url": "https://www.lifeatcanva.com/en/jobs/6000000001210809/senior-frontend-engineer-performance-monitoring/",
+      "status": "applied",
+      "applied": true,
+      "notes": "SmartRecruiters success page",
       "date": "2026-08-24"
     }
   ]
