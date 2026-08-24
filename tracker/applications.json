@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-24T11:08:33.537004+00:00",
-  "appliedCount": 40,
-  "total": 113,
+  "generatedAt": "2026-08-24T11:09:38.061643+00:00",
+  "appliedCount": 25,
+  "total": 118,
   "applications": [
     {
+      "agent": "Alice",
       "board": "Germany",
       "company": "8returns",
-      "role": "Senior Frontend Engineer (TypeScript)",
-      "city": "Berlin (hybrid)",
-      "url": "https://jobs.ashbyhq.com/8returns/d5615754-6350-4d70-b04f-79fc59ae086d",
+      "role": "Senior Frontend (TypeScript)",
+      "city": "",
+      "url": "",
       "status": "submitted",
       "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
+      "notes": "Alice tally",
+      "date": "2026-08-24"
     },
     {
       "board": "Germany",
@@ -28,28 +28,16 @@
       "notes": "You submitted (Ashby)"
     },
     {
+      "agent": "Alice",
       "board": "Germany",
       "company": "Cosuno",
-      "role": "Principal Full Stack Developer (TypeScript)",
-      "city": "Berlin / Remote",
-      "url": "https://jobs.ashbyhq.com/cosuno/d5215953-7527-433e-8627-efd3107f1061",
+      "role": "Senior Full Stack (TypeScript)",
+      "city": "",
+      "url": "",
       "status": "submitted",
       "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
-    },
-    {
-      "board": "Germany",
-      "company": "Cosuno",
-      "role": "Senior Full Stack Developer (TypeScript)",
-      "city": "Berlin / Remote",
-      "url": "https://jobs.ashbyhq.com/cosuno/424ba681-0989-4961-82ad-10286e4aae71",
-      "status": "submitted",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
+      "notes": "Alice tally",
+      "date": "2026-08-24"
     },
     {
       "agent": "Alice",
@@ -64,28 +52,16 @@
       "date": "2026-08-24"
     },
     {
+      "agent": "Alice",
       "board": "Germany",
       "company": "Doctolib",
-      "role": "Fullstack Software Engineer - React, Kotlin & Ruby on Rails (x/f/m)",
-      "city": "Berlin",
-      "url": "https://jobs.ashbyhq.com/doctolib/f90590ae-1543-4c23-816c-230176e86eb6",
+      "role": "Senior FullStack Kotlin/React",
+      "city": "",
+      "url": "",
       "status": "submitted",
       "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
-    },
-    {
-      "board": "Germany",
-      "company": "Doctolib",
-      "role": "Senior Software Engineer FullStack Kotlin / React - Berlin (f/m/d)",
-      "city": "Berlin",
-      "url": "https://jobs.ashbyhq.com/doctolib/b74850a3-cf80-4583-b00a-69bd9344978e",
-      "status": "submitted",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
+      "notes": "Alice tally",
+      "date": "2026-08-24"
     },
     {
       "board": "Germany",
@@ -101,70 +77,10 @@
     },
     {
       "board": "Germany",
-      "company": "mika",
-      "role": "Senior Full Stack Developer React/FastAPI/Django (Frontend-Affinity) (m/f/d)",
-      "city": "Berlin (hybrid/remote OK)",
-      "url": "https://join.com/companies/getmikade/16275718-senior-full-stack-developer-react-fastapi-django-frontend-affinity-m-f-d",
-      "status": "needs you",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "join.com email link"
-    },
-    {
-      "board": "Germany",
-      "company": "mika",
-      "role": "Senior Full Stack Developer React/FastAPI/Django (Frontend-Affinity) (m/f/d)",
-      "city": "Berlin (hybrid/remote OK)",
-      "url": "https://join.com/companies/getmikade/16584962-senior-full-stack-developer-react-fastapi-django-frontend-affinity-m-f-d",
-      "status": "needs you",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "join.com email link"
-    },
-    {
-      "board": "Germany",
       "company": "n8n",
       "role": "Senior Product Engineer (TS/NodeJS/Vue)",
       "city": "Berlin / Germany / EU remote",
       "url": "https://jobs.ashbyhq.com/n8n/896c58a8-0388-4037-b265-82b15633a568",
-      "status": "submitted",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
-    },
-    {
-      "board": "Germany",
-      "company": "n8n",
-      "role": "Sr AI Engineer (TS/Vue/NodeJS)",
-      "city": "Berlin / Europe remote",
-      "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
-      "status": "submitted",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
-    },
-    {
-      "board": "Germany",
-      "company": "n8n",
-      "role": "Sr Growth Engineer (Fullstack TS/Vue/NodeJS)",
-      "city": "Berlin / Germany / EU remote",
-      "url": "https://jobs.ashbyhq.com/n8n/6a370ff8-e069-48ed-bffa-5716a3dbd9d5",
-      "status": "submitted",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Alice tally"
-    },
-    {
-      "board": "Germany",
-      "company": "n8n",
-      "role": "Staff Core Platform Engineer",
-      "city": "Berlin / Germany / EU remote",
-      "url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47",
       "status": "submitted",
       "applied": true,
       "agent": "Alice",
@@ -198,45 +114,9 @@
     {
       "board": "Germany",
       "company": "Peec AI",
-      "role": "Senior Design Engineer",
-      "city": "Berlin (onsite)",
-      "url": "https://jobs.ashbyhq.com/peec/f3889600-365d-4053-8d1c-56eae41b20fa",
-      "status": "needs you",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Ashby spam from Alice's computer"
-    },
-    {
-      "board": "Germany",
-      "company": "Peec AI",
       "role": "Senior Frontend Engineer",
       "city": "Berlin (onsite)",
       "url": "https://jobs.ashbyhq.com/peec/6b91aeeb-f051-4f48-8d16-44d3f0a6f186",
-      "status": "needs you",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Ashby spam from Alice's computer"
-    },
-    {
-      "board": "Germany",
-      "company": "Peec AI",
-      "role": "Senior Fullstack Engineer",
-      "city": "Berlin (onsite)",
-      "url": "https://jobs.ashbyhq.com/peec/4c12e247-74c3-47e2-b15c-f7686bf3b887",
-      "status": "needs you",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Ashby spam from Alice's computer"
-    },
-    {
-      "board": "Germany",
-      "company": "Peec AI",
-      "role": "Senior Product Engineer",
-      "city": "Berlin (onsite)",
-      "url": "https://jobs.ashbyhq.com/peec/02f4e485-a502-4eb9-b08d-7d42a22b5844",
       "status": "needs you",
       "applied": true,
       "agent": "Alice",
@@ -304,18 +184,6 @@
       "notes": "Rejection received"
     },
     {
-      "board": "Germany",
-      "company": "SAP",
-      "role": "Senior Frontend & Agent Engineer (f/m/d) - Joule Work Desktop",
-      "city": "Walldorf",
-      "url": "https://jobs.sap.com/job/Walldorf-Senior-Frontend-&-Agent-Engineer-%28fmd%29-Joule-Work-Desktop-69190/1417871633/",
-      "status": "needs you",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "SuccessFactors login"
-    },
-    {
       "agent": "Alice",
       "board": "Germany",
       "company": "smartclip",
@@ -330,18 +198,6 @@
     {
       "board": "Germany",
       "company": "SumUp",
-      "role": "Full Stack Engineer - Billings & Subscriptions",
-      "city": "Berlin",
-      "url": "https://www.sumup.com/careers/positions/berlin-germany/engineering/full-stack-engineer-billings-subscriptions/8529496002/",
-      "status": "rejected",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Rejection received"
-    },
-    {
-      "board": "Germany",
-      "company": "SumUp",
       "role": "Senior Frontend Engineer \u2013 Sell Online",
       "city": "Cologne",
       "url": "https://www.sumup.com/careers/positions/cologne-germany/engineering/senior-frontend-engineer-sell-online/8634748002/",
@@ -349,42 +205,6 @@
       "applied": true,
       "agent": "Alice",
       "date": "posted ~12 Aug 2026",
-      "notes": "Rejection received"
-    },
-    {
-      "board": "Germany",
-      "company": "SumUp",
-      "role": "Senior Full Stack Engineer - Sidekick",
-      "city": "Berlin",
-      "url": "https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-full-stack-engineer-sidekick/8576667002/",
-      "status": "rejected",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Rejection received"
-    },
-    {
-      "board": "Germany",
-      "company": "SumUp",
-      "role": "Senior Full-Stack Engineer - SuperApp",
-      "city": "Berlin",
-      "url": "https://job-boards.greenhouse.io/sumup/jobs/8529500002",
-      "status": "rejected",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Rejection received"
-    },
-    {
-      "board": "Germany",
-      "company": "SumUp",
-      "role": "Senior Fullstack Engineer - Partnership & Enterprise",
-      "city": "Berlin",
-      "url": "https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-fullstack-engineer-partnership-enterprise/8654697002/",
-      "status": "rejected",
-      "applied": true,
-      "agent": "Alice",
-      "date": "",
       "notes": "Rejection received"
     },
     {
@@ -470,6 +290,18 @@
       "agent": "Alice",
       "date": "",
       "notes": "Berlin Startup Jobs"
+    },
+    {
+      "board": "Germany",
+      "company": "8returns",
+      "role": "Senior Frontend Engineer (TypeScript)",
+      "city": "Berlin (hybrid)",
+      "url": "https://jobs.ashbyhq.com/8returns/d5615754-6350-4d70-b04f-79fc59ae086d",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -677,6 +509,30 @@
     },
     {
       "board": "Germany",
+      "company": "Cosuno",
+      "role": "Principal Full Stack Developer (TypeScript)",
+      "city": "Berlin / Remote",
+      "url": "https://jobs.ashbyhq.com/cosuno/d5215953-7527-433e-8627-efd3107f1061",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "Cosuno",
+      "role": "Senior Full Stack Developer (TypeScript)",
+      "city": "Berlin / Remote",
+      "url": "https://jobs.ashbyhq.com/cosuno/424ba681-0989-4961-82ad-10286e4aae71",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
       "company": "DATATRONiQ",
       "role": "Senior Frontend Developer \u2013 TypeScript, React",
       "city": "Germany",
@@ -734,6 +590,30 @@
       "agent": "Alice",
       "date": "",
       "notes": "Delivery Hero careers"
+    },
+    {
+      "board": "Germany",
+      "company": "Doctolib",
+      "role": "Fullstack Software Engineer - React, Kotlin & Ruby on Rails (x/f/m)",
+      "city": "Berlin",
+      "url": "https://jobs.ashbyhq.com/doctolib/f90590ae-1543-4c23-816c-230176e86eb6",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "Doctolib",
+      "role": "Senior Software Engineer FullStack Kotlin / React - Berlin (f/m/d)",
+      "city": "Berlin",
+      "url": "https://jobs.ashbyhq.com/doctolib/b74850a3-cf80-4583-b00a-69bd9344978e",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
     },
     {
       "board": "Germany",
@@ -940,6 +820,78 @@
       "notes": "Welcome to the Jungle"
     },
     {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "mika",
+      "role": "Full Stack React/FastAPI",
+      "city": "",
+      "url": "",
+      "status": "needs you",
+      "applied": false,
+      "notes": "join.com email link",
+      "date": "2026-08-24"
+    },
+    {
+      "board": "Germany",
+      "company": "mika",
+      "role": "Senior Full Stack Developer React/FastAPI/Django (Frontend-Affinity) (m/f/d)",
+      "city": "Berlin (hybrid/remote OK)",
+      "url": "https://join.com/companies/getmikade/16275718-senior-full-stack-developer-react-fastapi-django-frontend-affinity-m-f-d",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "JOIN"
+    },
+    {
+      "board": "Germany",
+      "company": "mika",
+      "role": "Senior Full Stack Developer React/FastAPI/Django (Frontend-Affinity) (m/f/d)",
+      "city": "Berlin (hybrid/remote OK)",
+      "url": "https://join.com/companies/getmikade/16584962-senior-full-stack-developer-react-fastapi-django-frontend-affinity-m-f-d",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "JOIN"
+    },
+    {
+      "board": "Germany",
+      "company": "n8n",
+      "role": "Sr AI Engineer (TS/Vue/NodeJS)",
+      "city": "Berlin / Europe remote",
+      "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "n8n",
+      "role": "Sr Growth Engineer (Fullstack TS/Vue/NodeJS)",
+      "city": "Berlin / Germany / EU remote",
+      "url": "https://jobs.ashbyhq.com/n8n/6a370ff8-e069-48ed-bffa-5716a3dbd9d5",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "n8n",
+      "role": "Staff Core Platform Engineer",
+      "city": "Berlin / Germany / EU remote",
+      "url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
       "board": "Germany",
       "company": "NetBird",
       "role": "Software Engineer (Frontend)",
@@ -977,6 +929,42 @@
     },
     {
       "board": "Germany",
+      "company": "Peec AI",
+      "role": "Senior Design Engineer",
+      "city": "Berlin (onsite)",
+      "url": "https://jobs.ashbyhq.com/peec/f3889600-365d-4053-8d1c-56eae41b20fa",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "Peec AI",
+      "role": "Senior Fullstack Engineer",
+      "city": "Berlin (onsite)",
+      "url": "https://jobs.ashbyhq.com/peec/4c12e247-74c3-47e2-b15c-f7686bf3b887",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "Peec AI",
+      "role": "Senior Product Engineer",
+      "city": "Berlin (onsite)",
+      "url": "https://jobs.ashbyhq.com/peec/02f4e485-a502-4eb9-b08d-7d42a22b5844",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
       "company": "Personio",
       "role": "Senior Frontend Engineer (Money / compensation)",
       "city": "Germany (WTTJ listing)",
@@ -998,6 +986,30 @@
       "agent": "Alice",
       "date": "posted ~28 Jul 2026",
       "notes": "SmartRecruiters"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "SAP",
+      "role": "Joule Work Desktop FE",
+      "city": "",
+      "url": "",
+      "status": "needs you",
+      "applied": false,
+      "notes": "SuccessFactors login",
+      "date": "2026-08-24"
+    },
+    {
+      "board": "Germany",
+      "company": "SAP",
+      "role": "Senior Frontend & Agent Engineer (f/m/d) - Joule Work Desktop",
+      "city": "Walldorf",
+      "url": "https://jobs.sap.com/job/Walldorf-Senior-Frontend-&-Agent-Engineer-%28fmd%29-Joule-Work-Desktop-69190/1417871633/",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SAP careers"
     },
     {
       "board": "Germany",
@@ -1130,6 +1142,54 @@
       "agent": "Alice",
       "date": "",
       "notes": "Ashby"
+    },
+    {
+      "board": "Germany",
+      "company": "SumUp",
+      "role": "Full Stack Engineer - Billings & Subscriptions",
+      "city": "Berlin",
+      "url": "https://www.sumup.com/careers/positions/berlin-germany/engineering/full-stack-engineer-billings-subscriptions/8529496002/",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SumUp careers"
+    },
+    {
+      "board": "Germany",
+      "company": "SumUp",
+      "role": "Senior Full Stack Engineer - Sidekick",
+      "city": "Berlin",
+      "url": "https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-full-stack-engineer-sidekick/8576667002/",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SumUp careers"
+    },
+    {
+      "board": "Germany",
+      "company": "SumUp",
+      "role": "Senior Full-Stack Engineer - SuperApp",
+      "city": "Berlin",
+      "url": "https://job-boards.greenhouse.io/sumup/jobs/8529500002",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SumUp careers"
+    },
+    {
+      "board": "Germany",
+      "company": "SumUp",
+      "role": "Senior Fullstack Engineer - Partnership & Enterprise",
+      "city": "Berlin",
+      "url": "https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-fullstack-engineer-partnership-enterprise/8654697002/",
+      "status": "open",
+      "applied": false,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SumUp careers"
     },
     {
       "board": "Germany",
