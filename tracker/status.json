@@ -1,14 +1,29 @@
 {
-  "generatedAt": "2026-08-24T12:35:48.051969+00:00",
+  "generatedAt": "2026-08-24T12:48:38.693102+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-08-24T12:35:41.242Z",
-      "eventCount": 529,
-      "ageSeconds": 6,
-      "focus": "Sign in",
+      "status": "recent",
+      "lastSeen": "2026-08-24T12:44:50.109Z",
+      "eventCount": 533,
+      "ageSeconds": 228,
+      "focus": "React Jobs in Germany | Jobs By Workable",
       "recent": [
+        {
+          "ts": "2026-08-24T12:44:50.109Z",
+          "kind": "browsing",
+          "detail": "React Jobs in Germany | Jobs By Workable"
+        },
+        {
+          "ts": "2026-08-24T12:44:20.584Z",
+          "kind": "browsing",
+          "detail": "This job can&#39;t be found | Jobs By Workable"
+        },
+        {
+          "ts": "2026-08-24T12:43:33.903Z",
+          "kind": "browsing",
+          "detail": "react Jobs near Germany | Jobs By Workable"
+        },
         {
           "ts": "2026-08-24T12:35:41.242Z",
           "kind": "browsing",
@@ -33,24 +48,21 @@
           "ts": "2026-08-24T12:25:32.854Z",
           "kind": "browsing",
           "detail": "Senior Frontend Engineer React Typescript Jobs in Germany | Jobs By Workable"
-        },
-        {
-          "ts": "2026-08-24T12:25:02.882Z",
-          "kind": "browsing",
-          "detail": "https://www.google.com/search"
-        },
-        {
-          "ts": "2026-08-24T12:24:35.025Z",
-          "kind": "browsing",
-          "detail": "Thank you for applying"
-        },
-        {
-          "ts": "2026-08-24T12:23:45.148Z",
-          "kind": "desktop",
-          "detail": "31 actions, 489s"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://jobs.workable.com/search",
+          "title": "React Jobs in Germany | Jobs By Workable"
+        },
+        {
+          "url": "https://jobs.workable.com/view/j336rFFJsWxF6BSvZKWF88/remote-senior-software-engineer-in-germany-at-portless",
+          "title": "This job can&#39;t be found | Jobs By Workable"
+        },
+        {
+          "url": "https://apply.workable.com/portless/",
+          "title": "react Jobs near Germany | Jobs By Workable"
+        },
         {
           "url": "https://auth.join.com/",
           "title": "Sign in"
@@ -58,18 +70,6 @@
         {
           "url": "https://careers.hellofresh.com/global/en/search-results",
           "title": "Roles | Find available job openings at HelloFresh"
-        },
-        {
-          "url": "https://careers.hellofresh.com/global/en",
-          "title": "Careers at HelloFresh | HelloFresh jobs"
-        },
-        {
-          "url": "https://www.google.com/search",
-          "title": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin React - Google Search"
-        },
-        {
-          "url": "https://jobs.workable.com/search",
-          "title": "Senior Frontend Engineer React Typescript Jobs in Germany | Jobs By Workable"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 75572,
+      "ageSeconds": 76343,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 75762,
+      "ageSeconds": 76533,
       "focus": "Explore Roles",
       "recent": [
         {
