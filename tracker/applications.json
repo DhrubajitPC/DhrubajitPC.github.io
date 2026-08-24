@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T01:20:06.705123+00:00",
-  "appliedCount": 13,
+  "generatedAt": "2026-08-24T01:20:48.241843+00:00",
+  "appliedCount": 15,
   "total": 112,
   "applications": [
     {
@@ -33,6 +33,30 @@
       "role": "Senior Full Stack Software Engineer",
       "city": "Berlin / Remote-DE",
       "url": "https://job-boards.greenhouse.io/liveperson/jobs/8094375",
+      "status": "applied",
+      "applied": true,
+      "agent": "Alice",
+      "date": "",
+      "notes": "Greenhouse confirmation"
+    },
+    {
+      "board": "Germany",
+      "company": "Parloa",
+      "role": "Senior Frontend Platform Engineer (f/m/d)",
+      "city": "Berlin (onsite)",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
+      "status": "applying",
+      "applied": true,
+      "agent": "Alice",
+      "date": "posted ~12 Aug 2026",
+      "notes": "On Greenhouse job page"
+    },
+    {
+      "board": "Germany",
+      "company": "Parloa",
+      "role": "Senior Software Engineer",
+      "city": "Berlin (onsite)",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
       "status": "applying",
       "applied": true,
       "agent": "Alice",
@@ -782,30 +806,6 @@
       "agent": "Alice",
       "date": "",
       "notes": "JOIN"
-    },
-    {
-      "board": "Germany",
-      "company": "Parloa",
-      "role": "Senior Frontend Platform Engineer (f/m/d)",
-      "city": "Berlin (onsite)",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "posted ~12 Aug 2026",
-      "notes": "Greenhouse"
-    },
-    {
-      "board": "Germany",
-      "company": "Parloa",
-      "role": "Senior Software Engineer",
-      "city": "Berlin (onsite)",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4802720101",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "",
-      "notes": "Greenhouse"
     },
     {
       "board": "Germany",
