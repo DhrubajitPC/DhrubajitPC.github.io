@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T11:16:15.729263+00:00",
+  "generatedAt": "2026-08-24T11:34:19.320145+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
-      "lastSeen": "2026-08-24T11:10:16.385Z",
-      "eventCount": 396,
-      "ageSeconds": 359,
+      "status": "active",
+      "lastSeen": "2026-08-24T11:34:15.824Z",
+      "eventCount": 424,
+      "ageSeconds": 3,
       "focus": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 70800,
+      "ageSeconds": 71884,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 70990,
+      "ageSeconds": 72073,
       "focus": "Explore Roles",
       "recent": [
         {
