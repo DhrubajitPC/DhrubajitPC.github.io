@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T11:46:38.435030+00:00",
+  "generatedAt": "2026-08-24T11:47:33.873565+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
       "lastSeen": "2026-08-24T11:44:53.545Z",
       "eventCount": 479,
-      "ageSeconds": 104,
+      "ageSeconds": 160,
       "focus": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 72623,
+      "ageSeconds": 72678,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:33:05.607Z",
       "eventCount": 171,
-      "ageSeconds": 72812,
+      "ageSeconds": 72868,
       "focus": "Explore Roles",
       "recent": [
         {
