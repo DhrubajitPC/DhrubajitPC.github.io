@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T11:46:38.469140+00:00",
-  "appliedCount": 25,
-  "total": 118,
+  "generatedAt": "2026-08-24T11:47:33.909200+00:00",
+  "appliedCount": 26,
+  "total": 119,
   "applications": [
     {
       "agent": "Alice",
@@ -88,16 +88,28 @@
       "notes": "Alice tally"
     },
     {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "NavVis",
+      "role": "Greenhouse listing 4792456101",
+      "city": "",
+      "url": "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Greenhouse job page",
+      "date": "2026-08-24"
+    },
+    {
       "board": "Germany",
       "company": "Parloa",
       "role": "Senior Frontend Platform Engineer (f/m/d)",
       "city": "Berlin (onsite)",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
-      "status": "needs you",
+      "status": "submitted",
       "applied": true,
       "agent": "Alice",
       "date": "posted ~12 Aug 2026",
-      "notes": "Greenhouse email code"
+      "notes": "Alice marked DONE"
     },
     {
       "board": "Germany",
@@ -105,11 +117,11 @@
       "role": "Senior Software Engineer",
       "city": "Berlin (onsite)",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101",
-      "status": "needs you",
+      "status": "submitted",
       "applied": true,
       "agent": "Alice",
       "date": "",
-      "notes": "Greenhouse email code"
+      "notes": "Alice marked DONE"
     },
     {
       "board": "Germany",
