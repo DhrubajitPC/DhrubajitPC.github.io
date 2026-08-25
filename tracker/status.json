@@ -1,14 +1,39 @@
 {
-  "generatedAt": "2026-08-25T10:33:33.019436+00:00",
+  "generatedAt": "2026-08-25T10:50:17.874669+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "idle",
-      "lastSeen": "2026-08-25T08:08:16.624Z",
-      "eventCount": 1108,
-      "ageSeconds": 8716,
-      "focus": "https://conxai.bamboohr.com/careers/56",
+      "status": "active",
+      "lastSeen": "2026-08-25T10:49:03.126Z",
+      "eventCount": 1141,
+      "ageSeconds": 74,
+      "focus": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH",
       "recent": [
+        {
+          "ts": "2026-08-25T10:49:03.126Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH"
+        },
+        {
+          "ts": "2026-08-25T10:48:47.820Z",
+          "kind": "browsing",
+          "detail": "https://jedox.jobs.personio.de/job/2520360"
+        },
+        {
+          "ts": "2026-08-25T10:44:04.673Z",
+          "kind": "desktop",
+          "detail": "20 actions, 184s"
+        },
+        {
+          "ts": "2026-08-25T10:41:20.205Z",
+          "kind": "browsing",
+          "detail": "Senior/Staff Fullstack Engineer (m/f/x) @ Cortea AI"
+        },
+        {
+          "ts": "2026-08-25T10:41:11.041Z",
+          "kind": "browsing",
+          "detail": "https://jobs.ashbyhq.com/cortea/52083e94-b11e-45cc-b3af-fa1c957d3fd9"
+        },
         {
           "ts": "2026-08-25T08:08:06.925Z",
           "kind": "desktop",
@@ -23,53 +48,28 @@
           "ts": "2026-08-25T06:21:31.392Z",
           "kind": "desktop",
           "detail": "17 actions, 304s"
-        },
-        {
-          "ts": "2026-08-25T06:21:13.638Z",
-          "kind": "browsing",
-          "detail": "PPRO - Staff Frontend Engineer"
-        },
-        {
-          "ts": "2026-08-25T06:16:34.229Z",
-          "kind": "browsing",
-          "detail": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9"
-        },
-        {
-          "ts": "2026-08-25T06:05:16.480Z",
-          "kind": "desktop",
-          "detail": "30 actions, 269s"
-        },
-        {
-          "ts": "2026-08-25T06:01:14.109Z",
-          "kind": "browsing",
-          "detail": "Senior Fullstack Engineer (all genders) | Jobs at envelio"
-        },
-        {
-          "ts": "2026-08-25T06:00:50.689Z",
-          "kind": "browsing",
-          "detail": "https://envelio.jobs.personio.de/job/2398720"
         }
       ],
       "recentUrls": [
         {
+          "url": "https://jedox.jobs.personio.de/job/2520360/apply",
+          "title": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH"
+        },
+        {
+          "url": "https://jedox.jobs.personio.de/job/2520360",
+          "title": ""
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/cortea/52083e94-b11e-45cc-b3af-fa1c957d3fd9/application",
+          "title": "Senior/Staff Fullstack Engineer (m/f/x) @ Cortea AI"
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/cortea/52083e94-b11e-45cc-b3af-fa1c957d3fd9",
+          "title": ""
+        },
+        {
           "url": "https://conxai.bamboohr.com/careers/56",
           "title": ""
-        },
-        {
-          "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9/thanks",
-          "title": "PPRO - Staff Frontend Engineer"
-        },
-        {
-          "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9/apply",
-          "title": "PPRO - Staff Frontend Engineer"
-        },
-        {
-          "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9",
-          "title": ""
-        },
-        {
-          "url": "https://envelio.jobs.personio.de/job/2398720/apply",
-          "title": "Senior Fullstack Engineer (all genders) | Jobs at envelio"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 154637,
+      "ageSeconds": 155642,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 33248,
+      "ageSeconds": 34253,
       "focus": "Just a moment...",
       "recent": [
         {
