@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T13:17:00.305422+00:00",
+  "generatedAt": "2026-08-25T13:32:39.761698+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-25T12:29:38.841Z",
       "eventCount": 1297,
-      "ageSeconds": 2841,
+      "ageSeconds": 3780,
       "focus": "nyra health - Senior Product Engineer (AI-native) (m/f/x) - Applied",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 164445,
+      "ageSeconds": 165384,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 43055,
+      "ageSeconds": 43995,
       "focus": "Just a moment...",
       "recent": [
         {
