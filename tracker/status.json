@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T10:50:17.874669+00:00",
+  "generatedAt": "2026-08-25T11:05:47.883100+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T10:49:03.126Z",
-      "eventCount": 1141,
-      "ageSeconds": 74,
-      "focus": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH",
+      "lastSeen": "2026-08-25T11:05:46.512Z",
+      "eventCount": 1155,
+      "ageSeconds": 1,
+      "focus": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH",
       "recent": [
+        {
+          "ts": "2026-08-25T11:05:40.244Z",
+          "kind": "desktop",
+          "detail": "27 actions, 179s"
+        },
+        {
+          "ts": "2026-08-25T11:02:51.295Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH"
+        },
+        {
+          "ts": "2026-08-25T11:02:44.218Z",
+          "kind": "browsing",
+          "detail": "https://dgtls.jobs.personio.de/job/338602"
+        },
+        {
+          "ts": "2026-08-25T11:01:47.153Z",
+          "kind": "desktop",
+          "detail": "27 actions, 293s"
+        },
+        {
+          "ts": "2026-08-25T10:57:12.304Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Developer (f/m/d) | Jobs at OH-SO Digital"
+        },
+        {
+          "ts": "2026-08-25T10:56:57.655Z",
+          "kind": "browsing",
+          "detail": "https://oh-so.jobs.personio.com/job/2710234"
+        },
+        {
+          "ts": "2026-08-25T10:56:11.671Z",
+          "kind": "desktop",
+          "detail": "37 actions, 448s"
+        },
         {
           "ts": "2026-08-25T10:49:03.126Z",
           "kind": "browsing",
           "detail": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH"
-        },
-        {
-          "ts": "2026-08-25T10:48:47.820Z",
-          "kind": "browsing",
-          "detail": "https://jedox.jobs.personio.de/job/2520360"
-        },
-        {
-          "ts": "2026-08-25T10:44:04.673Z",
-          "kind": "desktop",
-          "detail": "20 actions, 184s"
-        },
-        {
-          "ts": "2026-08-25T10:41:20.205Z",
-          "kind": "browsing",
-          "detail": "Senior/Staff Fullstack Engineer (m/f/x) @ Cortea AI"
-        },
-        {
-          "ts": "2026-08-25T10:41:11.041Z",
-          "kind": "browsing",
-          "detail": "https://jobs.ashbyhq.com/cortea/52083e94-b11e-45cc-b3af-fa1c957d3fd9"
-        },
-        {
-          "ts": "2026-08-25T08:08:06.925Z",
-          "kind": "desktop",
-          "detail": "64 actions, 607s"
-        },
-        {
-          "ts": "2026-08-25T07:58:07.926Z",
-          "kind": "browsing",
-          "detail": "https://conxai.bamboohr.com/careers/56"
-        },
-        {
-          "ts": "2026-08-25T06:21:31.392Z",
-          "kind": "desktop",
-          "detail": "17 actions, 304s"
         }
       ],
       "recentUrls": [
         {
+          "url": "https://dgtls.jobs.personio.de/job/338602/apply",
+          "title": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH"
+        },
+        {
+          "url": "https://dgtls.jobs.personio.de/job/338602",
+          "title": ""
+        },
+        {
+          "url": "https://oh-so.jobs.personio.com/job/2710234/apply",
+          "title": "Senior Frontend Developer (f/m/d) | Jobs at OH-SO Digital"
+        },
+        {
+          "url": "https://oh-so.jobs.personio.com/job/2710234",
+          "title": ""
+        },
+        {
           "url": "https://jedox.jobs.personio.de/job/2520360/apply",
           "title": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH"
-        },
-        {
-          "url": "https://jedox.jobs.personio.de/job/2520360",
-          "title": ""
-        },
-        {
-          "url": "https://jobs.ashbyhq.com/cortea/52083e94-b11e-45cc-b3af-fa1c957d3fd9/application",
-          "title": "Senior/Staff Fullstack Engineer (m/f/x) @ Cortea AI"
-        },
-        {
-          "url": "https://jobs.ashbyhq.com/cortea/52083e94-b11e-45cc-b3af-fa1c957d3fd9",
-          "title": ""
-        },
-        {
-          "url": "https://conxai.bamboohr.com/careers/56",
-          "title": ""
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 155642,
+      "ageSeconds": 156572,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 34253,
+      "ageSeconds": 35183,
       "focus": "Just a moment...",
       "recent": [
         {
