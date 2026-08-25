@@ -47,6 +47,7 @@
     table { width: 100%; border-collapse: collapse; font-size: 13px; margin: 8px 0 40px; }
     th, td { text-align: left; padding: 8px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
     th { color: var(--muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .04em; }
+    th.num, td.num { width: 36px; color: var(--muted); font-variant-numeric: tabular-nums; text-align: right; padding-right: 12px; }
     tr.applied td { background: #13261c; }
     .check { width: 18px; height: 18px; accent-color: #3dd68c; }
     .art-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; padding: 12px 0 40px; }
@@ -86,7 +87,7 @@
     </div>
     <table>
       <thead>
-        <tr><th></th><th>Company</th><th>Role</th><th>Board</th><th>Status</th></tr>
+        <tr><th class="num">#</th><th></th><th>Company</th><th>Role</th><th>Board</th><th>Status</th></tr>
       </thead>
       <tbody id="apptbody"></tbody>
     </table>
@@ -147,13 +148,14 @@
       });
       document.getElementById("appcount").textContent =
         rows.length + " shown · " + rows.filter(a => a.applied || ticks[appKey(a)]).length + " ticked";
-      document.getElementById("apptbody").innerHTML = rows.map((a) => {
+      document.getElementById("apptbody").innerHTML = rows.map((a, i) => {
         const key = appKey(a);
         const applied = a.applied || !!ticks[key];
         const company = a.url
           ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noreferrer">${escapeHtml(a.company)}</a>`
           : escapeHtml(a.company);
         return `<tr class="${applied ? "applied" : ""}">
+          <td class="num">${i + 1}</td>
           <td><input class="check" type="checkbox" data-key="${escapeHtml(key)}" ${applied ? "checked" : ""} ${a.applied ? "disabled" : ""} /></td>
           <td>${company}</td>
           <td>${escapeHtml(a.role)}</td>
