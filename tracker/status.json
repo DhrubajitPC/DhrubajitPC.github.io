@@ -1,14 +1,34 @@
 {
-  "generatedAt": "2026-08-25T11:05:47.883100+00:00",
+  "generatedAt": "2026-08-25T11:18:49.067201+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T11:05:46.512Z",
-      "eventCount": 1155,
-      "ageSeconds": 1,
-      "focus": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH",
+      "lastSeen": "2026-08-25T11:17:45.376Z",
+      "eventCount": 1165,
+      "ageSeconds": 63,
+      "focus": "Thank you for applying",
       "recent": [
+        {
+          "ts": "2026-08-25T11:16:01.744Z",
+          "kind": "desktop",
+          "detail": "42 actions, 594s"
+        },
+        {
+          "ts": "2026-08-25T11:15:41.253Z",
+          "kind": "browsing",
+          "detail": "Thank you for applying"
+        },
+        {
+          "ts": "2026-08-25T11:14:00.445Z",
+          "kind": "browsing",
+          "detail": "https://mail.google.com/mail/u/0/"
+        },
+        {
+          "ts": "2026-08-25T11:06:12.437Z",
+          "kind": "browsing",
+          "detail": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004"
+        },
         {
           "ts": "2026-08-25T11:05:40.244Z",
           "kind": "desktop",
@@ -28,29 +48,21 @@
           "ts": "2026-08-25T11:01:47.153Z",
           "kind": "desktop",
           "detail": "27 actions, 293s"
-        },
-        {
-          "ts": "2026-08-25T10:57:12.304Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Developer (f/m/d) | Jobs at OH-SO Digital"
-        },
-        {
-          "ts": "2026-08-25T10:56:57.655Z",
-          "kind": "browsing",
-          "detail": "https://oh-so.jobs.personio.com/job/2710234"
-        },
-        {
-          "ts": "2026-08-25T10:56:11.671Z",
-          "kind": "desktop",
-          "detail": "37 actions, 448s"
-        },
-        {
-          "ts": "2026-08-25T10:49:03.126Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004/confirmation",
+          "title": "Thank you for applying"
+        },
+        {
+          "url": "https://mail.google.com/mail/u/0/",
+          "title": ""
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004",
+          "title": ""
+        },
         {
           "url": "https://dgtls.jobs.personio.de/job/338602/apply",
           "title": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH"
@@ -58,18 +70,6 @@
         {
           "url": "https://dgtls.jobs.personio.de/job/338602",
           "title": ""
-        },
-        {
-          "url": "https://oh-so.jobs.personio.com/job/2710234/apply",
-          "title": "Senior Frontend Developer (f/m/d) | Jobs at OH-SO Digital"
-        },
-        {
-          "url": "https://oh-so.jobs.personio.com/job/2710234",
-          "title": ""
-        },
-        {
-          "url": "https://jedox.jobs.personio.de/job/2520360/apply",
-          "title": "Senior Frontend Engineer (m/f/d) | Jobs at Jedox GmbH"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 156572,
+      "ageSeconds": 157353,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 35183,
+      "ageSeconds": 35964,
       "focus": "Just a moment...",
       "recent": [
         {
