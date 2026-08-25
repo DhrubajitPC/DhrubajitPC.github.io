@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-25T06:06:35.368535+00:00",
+  "generatedAt": "2026-08-25T06:08:00.804703+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T06:06:21.618Z",
-      "eventCount": 1062,
+      "lastSeen": "2026-08-25T06:07:47.148Z",
+      "eventCount": 1066,
       "ageSeconds": 13,
       "focus": "Senior Fullstack Engineer (all genders) | Jobs at envelio",
       "recent": [
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 138620,
+      "ageSeconds": 138705,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 17230,
+      "ageSeconds": 17316,
       "focus": "Just a moment...",
       "recent": [
         {
