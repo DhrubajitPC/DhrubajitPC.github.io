@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T05:05:38.998117+00:00",
-  "appliedCount": 33,
+  "generatedAt": "2026-08-25T05:06:10.805220+00:00",
+  "appliedCount": 34,
   "total": 125,
   "applications": [
     {
@@ -38,6 +38,18 @@
       "agent": "Alice",
       "date": "",
       "notes": "You submitted (Ashby)"
+    },
+    {
+      "board": "Germany",
+      "company": "BirdRave",
+      "role": "Senior Frontend Engineer (f/m/d)",
+      "city": "Berlin (hybrid)",
+      "url": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d",
+      "status": "submitted",
+      "applied": true,
+      "agent": "Alice",
+      "date": "posted 28 Apr 2026",
+      "notes": "JOIN /apply/success page"
     },
     {
       "agent": "Alice",
@@ -530,18 +542,6 @@
       "agent": "Alice",
       "date": "",
       "notes": "Ashby"
-    },
-    {
-      "board": "Germany",
-      "company": "BirdRave",
-      "role": "Senior Frontend Engineer (f/m/d)",
-      "city": "Berlin (hybrid)",
-      "url": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "posted 28 Apr 2026",
-      "notes": "JOIN"
     },
     {
       "board": "Germany",
