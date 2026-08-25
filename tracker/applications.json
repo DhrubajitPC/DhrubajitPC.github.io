@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T06:05:10.803558+00:00",
-  "appliedCount": 37,
+  "generatedAt": "2026-08-25T06:06:01.342497+00:00",
+  "appliedCount": 39,
   "total": 125,
   "applications": [
     {
@@ -170,6 +170,30 @@
       "applied": true,
       "notes": "Long Lever/apply session in progress",
       "date": "2026-08-25"
+    },
+    {
+      "board": "Germany",
+      "company": "Overfly",
+      "role": "Senior Full Stack & AI Engineer (m/w/d)",
+      "city": "Berlin (hybrid)",
+      "url": "https://join.com/companies/overf/16600936-senior-full-stack-and-ai-engineer-m-w-d",
+      "status": "submitted",
+      "applied": true,
+      "agent": "Alice",
+      "date": "posted 09 Apr 2026",
+      "notes": "JOIN /apply/success page"
+    },
+    {
+      "board": "Germany",
+      "company": "Overfly",
+      "role": "Senior Full Stack & AI Engineer (m/w/d)",
+      "city": "Berlin (hybrid)",
+      "url": "https://join.com/companies/overf/16600936-senior-full-stack-and-ai-engineer-m-w-d",
+      "status": "submitted",
+      "applied": true,
+      "agent": "Alice",
+      "date": "",
+      "notes": "JOIN /apply/success page"
     },
     {
       "board": "Germany",
@@ -1022,30 +1046,6 @@
       "agent": "Alice",
       "date": "",
       "notes": "Ashby"
-    },
-    {
-      "board": "Germany",
-      "company": "Overfly",
-      "role": "Senior Full Stack & AI Engineer (m/w/d)",
-      "city": "Berlin (hybrid)",
-      "url": "https://join.com/companies/overf/16193840-senior-full-stack-and-ai-engineer-m-w-d",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "posted 09 Apr 2026",
-      "notes": "JOIN"
-    },
-    {
-      "board": "Germany",
-      "company": "Overfly",
-      "role": "Senior Full Stack & AI Engineer (m/w/d)",
-      "city": "Berlin (hybrid)",
-      "url": "https://join.com/companies/overf/16539932-senior-full-stack-and-ai-engineer-m-w-d",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "",
-      "notes": "JOIN"
     },
     {
       "board": "Germany",
