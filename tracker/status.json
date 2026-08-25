@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-08-25T11:19:18.793761+00:00",
+  "generatedAt": "2026-08-25T11:31:12.016356+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T11:17:45.376Z",
-      "eventCount": 1165,
-      "ageSeconds": 93,
-      "focus": "Thank you for applying",
+      "lastSeen": "2026-08-25T11:28:35.082Z",
+      "eventCount": 1189,
+      "ageSeconds": 156,
+      "focus": "Senior JavaScript Engineer (all genders) | Jobs at ePages GmbH",
       "recent": [
+        {
+          "ts": "2026-08-25T11:28:20.383Z",
+          "kind": "browsing",
+          "detail": "Senior JavaScript Engineer (all genders) | Jobs at ePages GmbH"
+        },
+        {
+          "ts": "2026-08-25T11:28:07.957Z",
+          "kind": "browsing",
+          "detail": "https://epages-gmbh.jobs.personio.de/job/201909"
+        },
         {
           "ts": "2026-08-25T11:16:01.744Z",
           "kind": "desktop",
@@ -38,19 +48,17 @@
           "ts": "2026-08-25T11:02:51.295Z",
           "kind": "browsing",
           "detail": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH"
-        },
-        {
-          "ts": "2026-08-25T11:02:44.218Z",
-          "kind": "browsing",
-          "detail": "https://dgtls.jobs.personio.de/job/338602"
-        },
-        {
-          "ts": "2026-08-25T11:01:47.153Z",
-          "kind": "desktop",
-          "detail": "27 actions, 293s"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://epages-gmbh.jobs.personio.de/job/201909/apply",
+          "title": "Senior JavaScript Engineer (all genders) | Jobs at ePages GmbH"
+        },
+        {
+          "url": "https://epages-gmbh.jobs.personio.de/job/201909",
+          "title": ""
+        },
         {
           "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004/confirmation",
           "title": "Thank you for applying"
@@ -62,14 +70,6 @@
         {
           "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004",
           "title": ""
-        },
-        {
-          "url": "https://dgtls.jobs.personio.de/job/338602/apply",
-          "title": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH"
-        },
-        {
-          "url": "https://dgtls.jobs.personio.de/job/338602",
-          "title": ""
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 157383,
+      "ageSeconds": 158096,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 35994,
+      "ageSeconds": 36707,
       "focus": "Just a moment...",
       "recent": [
         {
