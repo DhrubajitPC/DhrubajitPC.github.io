@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:47:57.953394+00:00",
+  "generatedAt": "2026-08-25T00:03:58.789767+00:00",
   "appliedCount": 29,
   "total": 122,
   "applications": [
@@ -13,7 +13,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -37,7 +37,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
@@ -49,7 +49,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
@@ -61,7 +61,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
@@ -73,7 +73,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Thank you for applying page",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -109,7 +109,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice added to submitted tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
@@ -121,7 +121,7 @@
       "status": "applying",
       "applied": true,
       "notes": "Long Lever/apply session in progress",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -169,7 +169,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -229,7 +229,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
@@ -241,7 +241,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Thank you for applying page",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -289,7 +289,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -877,7 +877,7 @@
       "status": "needs you",
       "applied": false,
       "notes": "join.com email link",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -1045,7 +1045,7 @@
       "status": "needs you",
       "applied": false,
       "notes": "SuccessFactors login",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "board": "Germany",
@@ -1453,7 +1453,7 @@
       "status": "applying",
       "applied": true,
       "notes": "On careers page",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     },
     {
       "agent": "Mike",
@@ -1465,7 +1465,7 @@
       "status": "applied",
       "applied": true,
       "notes": "SmartRecruiters success page",
-      "date": "2026-08-24"
+      "date": "2026-08-25"
     }
   ]
 }
