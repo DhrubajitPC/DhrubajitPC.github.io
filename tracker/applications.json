@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T02:34:24.045518+00:00",
-  "appliedCount": 30,
-  "total": 122,
+  "generatedAt": "2026-08-25T02:34:53.992977+00:00",
+  "appliedCount": 31,
+  "total": 123,
   "applications": [
     {
       "agent": "Alice",
@@ -73,6 +73,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
+      "date": "2026-08-25"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "idealo",
+      "role": "Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin",
+      "city": "",
+      "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin",
+      "status": "submitted",
+      "applied": true,
+      "notes": "jobs.idealo.com /applied page",
       "date": "2026-08-25"
     },
     {
