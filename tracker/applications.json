@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T03:05:28.002595+00:00",
-  "appliedCount": 32,
-  "total": 124,
+  "generatedAt": "2026-08-25T03:06:27.498117+00:00",
+  "appliedCount": 33,
+  "total": 125,
   "applications": [
     {
       "agent": "Alice",
@@ -254,6 +254,18 @@
       "agent": "Alice",
       "date": "",
       "notes": "Rejection received"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Small Improvements",
+      "role": "Senior Fullstack Developer",
+      "city": "",
+      "url": "https://small-improvements.breezy.hr/p/81f3eef43657-senior-fullstack-developer",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Breezy /apply/submitted page",
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
