@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-25T07:48:37.691618+00:00",
+  "generatedAt": "2026-08-25T08:05:31.034059+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "idle",
-      "lastSeen": "2026-08-25T06:22:12.563Z",
-      "eventCount": 1104,
-      "ageSeconds": 5185,
-      "focus": "PPRO - Staff Frontend Engineer",
+      "status": "recent",
+      "lastSeen": "2026-08-25T07:58:07.926Z",
+      "eventCount": 1106,
+      "ageSeconds": 443,
+      "focus": "https://conxai.bamboohr.com/careers/56",
       "recent": [
+        {
+          "ts": "2026-08-25T07:58:07.926Z",
+          "kind": "browsing",
+          "detail": "https://conxai.bamboohr.com/careers/56"
+        },
         {
           "ts": "2026-08-25T06:21:31.392Z",
           "kind": "desktop",
@@ -43,14 +48,13 @@
           "ts": "2026-08-25T06:00:05.940Z",
           "kind": "desktop",
           "detail": "28 actions, 187s"
-        },
-        {
-          "ts": "2026-08-25T05:57:43.340Z",
-          "kind": "browsing",
-          "detail": "Senior Fullstack Engineer (Services) | Jobs at autarc"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://conxai.bamboohr.com/careers/56",
+          "title": ""
+        },
         {
           "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9/thanks",
           "title": "PPRO - Staff Frontend Engineer"
@@ -66,10 +70,6 @@
         {
           "url": "https://envelio.jobs.personio.de/job/2398720/apply",
           "title": "Senior Fullstack Engineer (all genders) | Jobs at envelio"
-        },
-        {
-          "url": "https://envelio.jobs.personio.de/job/2398720",
-          "title": ""
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 144742,
+      "ageSeconds": 145755,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 23353,
+      "ageSeconds": 24366,
       "focus": "Just a moment...",
       "recent": [
         {
