@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T05:47:25.002868+00:00",
-  "appliedCount": 36,
+  "generatedAt": "2026-08-25T05:47:58.368563+00:00",
+  "appliedCount": 37,
   "total": 125,
   "applications": [
     {
@@ -285,6 +285,18 @@
       "role": "(Senior) Frontend Engineer - AI (m/f/x)",
       "city": "Munich",
       "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140438374--senior-frontend-engineer-ai-m-f-x-",
+      "status": "submitted",
+      "applied": true,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SmartRecruiters success page"
+    },
+    {
+      "board": "Germany",
+      "company": "Scalable Capital",
+      "role": "(Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x)",
+      "city": "Munich",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000143440719--senior-full-stack-engineer-typescript-kotlin-java-m-f-x-",
       "status": "submitted",
       "applied": true,
       "agent": "Alice",
@@ -1118,18 +1130,6 @@
       "agent": "Alice",
       "date": "",
       "notes": "SAP careers"
-    },
-    {
-      "board": "Germany",
-      "company": "Scalable Capital",
-      "role": "(Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x)",
-      "city": "Munich",
-      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000143440719--senior-full-stack-engineer-typescript-kotlin-java-m-f-x-",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "",
-      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
