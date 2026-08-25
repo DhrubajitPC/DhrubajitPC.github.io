@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T01:49:24.367754+00:00",
-  "appliedCount": 29,
+  "generatedAt": "2026-08-25T01:50:11.257347+00:00",
+  "appliedCount": 30,
   "total": 122,
   "applications": [
     {
@@ -14,6 +14,18 @@
       "applied": true,
       "notes": "Alice tally",
       "date": "2026-08-25"
+    },
+    {
+      "board": "Germany",
+      "company": "ABOUT YOU",
+      "role": "(Senior) Frontend Engineer - Webstack (all genders)",
+      "city": "Hamburg / Berlin",
+      "url": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000143291634--senior-frontend-engineer-webstack-all-genders-",
+      "status": "submitted",
+      "applied": true,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SmartRecruiters success page"
     },
     {
       "board": "Germany",
@@ -350,18 +362,6 @@
       "agent": "Alice",
       "date": "",
       "notes": "Ashby"
-    },
-    {
-      "board": "Germany",
-      "company": "ABOUT YOU",
-      "role": "(Senior) Frontend Engineer - Webstack (all genders)",
-      "city": "Hamburg / Berlin",
-      "url": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000141933139--senior-frontend-engineer-webstack-all-genders-",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "",
-      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
