@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T02:00:42.035204+00:00",
+  "generatedAt": "2026-08-25T02:18:42.805069+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T02:00:17.327Z",
-      "eventCount": 694,
-      "ageSeconds": 24,
-      "focus": "&quot;senior frontend engineer&quot; Berlin React TypeScript (greenhouse.io OR lever.co OR smartrecruiters.com OR join.com) - Google Search",
+      "lastSeen": "2026-08-25T02:18:42.497Z",
+      "eventCount": 742,
+      "ageSeconds": 0,
+      "focus": "https://www.google.com/search",
       "recent": [
         {
-          "ts": "2026-08-25T02:00:17.327Z",
+          "ts": "2026-08-25T02:15:10.707Z",
           "kind": "browsing",
-          "detail": "&quot;senior frontend engineer&quot; Berlin React TypeScript (greenhouse.io OR lever.co OR smartrecruiters.com OR join.com) - Google Search"
+          "detail": "https://www.google.com/search"
         },
         {
-          "ts": "2026-08-25T02:00:05.611Z",
-          "kind": "browsing",
-          "detail": "Autodoc Senior Software Developer Front-End (m/f/d) | SmartRecruiters"
+          "ts": "2026-08-25T02:14:29.638Z",
+          "kind": "desktop",
+          "detail": "76 actions, 942s"
         },
         {
-          "ts": "2026-08-25T01:59:42.837Z",
+          "ts": "2026-08-25T02:11:44.402Z",
+          "kind": "browsing",
+          "detail": "Senior React Developer (m/f/d) | Jobs at Bees &amp; Bears GmbH"
+        },
+        {
+          "ts": "2026-08-25T02:09:26.482Z",
+          "kind": "browsing",
+          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
+        },
+        {
+          "ts": "2026-08-25T02:09:14.385Z",
+          "kind": "browsing",
+          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
+        },
+        {
+          "ts": "2026-08-25T02:05:20.583Z",
+          "kind": "browsing",
+          "detail": "SmartRecruiters"
+        },
+        {
+          "ts": "2026-08-25T02:04:20.784Z",
           "kind": "browsing",
           "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
         },
         {
-          "ts": "2026-08-25T01:59:14.485Z",
+          "ts": "2026-08-25T02:03:07.036Z",
           "kind": "browsing",
-          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin React TypeScript - Google Search"
-        },
-        {
-          "ts": "2026-08-25T01:58:54.910Z",
-          "kind": "browsing",
-          "detail": "https://www.google.com/"
-        },
-        {
-          "ts": "2026-08-25T01:58:38.901Z",
-          "kind": "desktop",
-          "detail": "29 actions, 596s"
-        },
-        {
-          "ts": "2026-08-25T01:55:07.999Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Engineer (Full-stack) | Soda Data | Jobs By Workable"
-        },
-        {
-          "ts": "2026-08-25T01:51:29.056Z",
-          "kind": "browsing",
-          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin Germany - Google Search"
+          "detail": "site:join.com &quot;Senior Frontend Engineer&quot; Berlin React TypeScript - Google Search"
         }
       ],
       "recentUrls": [
         {
           "url": "https://www.google.com/search",
-          "title": "&quot;senior frontend engineer&quot; Berlin React TypeScript (greenhouse.io OR lever.co OR smartrecruiters.com OR join.com) - Google Search"
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/Autodoc3/744000140903194-senior-software-developer-front-end-m-f-d-",
-          "title": "Autodoc Senior Software Developer Front-End (m/f/d) | SmartRecruiters"
-        },
-        {
-          "url": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d",
-          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
-        },
-        {
-          "url": "https://www.google.com/",
           "title": ""
         },
         {
-          "url": "https://jobs.workable.com/view/f8P3bZVxkdKx5GMqL1ojwx/remote-senior-frontend-engineer-(full-stack)-in-germany-at-soda-data",
-          "title": "Senior Frontend Engineer (Full-stack) | Soda Data | Jobs By Workable"
+          "url": "https://bees-bears-gmbh.jobs.personio.de/job/2740799/apply",
+          "title": "Senior React Developer (m/f/d) | Jobs at Bees &amp; Bears GmbH"
+        },
+        {
+          "url": "https://bees-bears-gmbh.jobs.personio.de/job/2740799",
+          "title": "Senior React Developer (m/f/d) | Jobs at Bees &amp; Bears GmbH"
+        },
+        {
+          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd/c/new",
+          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
+        },
+        {
+          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd",
+          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 123866,
+      "ageSeconds": 124947,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 2477,
+      "ageSeconds": 3558,
       "focus": "Just a moment...",
       "recent": [
         {
