@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-08-25T06:08:00.804703+00:00",
+  "generatedAt": "2026-08-25T06:18:27.289006+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T06:07:47.148Z",
-      "eventCount": 1066,
-      "ageSeconds": 13,
-      "focus": "Senior Fullstack Engineer (all genders) | Jobs at envelio",
+      "lastSeen": "2026-08-25T06:18:12.052Z",
+      "eventCount": 1100,
+      "ageSeconds": 15,
+      "focus": "PPRO - Staff Frontend Engineer",
       "recent": [
+        {
+          "ts": "2026-08-25T06:16:55.067Z",
+          "kind": "browsing",
+          "detail": "PPRO - Staff Frontend Engineer"
+        },
+        {
+          "ts": "2026-08-25T06:16:34.229Z",
+          "kind": "browsing",
+          "detail": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9"
+        },
         {
           "ts": "2026-08-25T06:05:16.480Z",
           "kind": "desktop",
@@ -38,19 +48,17 @@
           "ts": "2026-08-25T05:57:05.078Z",
           "kind": "browsing",
           "detail": "https://autarcenergy.jobs.personio.de/job/2649016"
-        },
-        {
-          "ts": "2026-08-25T05:56:38.537Z",
-          "kind": "desktop",
-          "detail": "14 actions, 145s"
-        },
-        {
-          "ts": "2026-08-25T05:54:17.196Z",
-          "kind": "browsing",
-          "detail": "https://jobs.workable.com/view/s3vNzCiY4G1VX3Y9FD7yEJ/hybrid-full-stack-developer-in-berlin-at-topoteretes-ug-(haftungsbeschr%C3%A4nkt)"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9/apply",
+          "title": "PPRO - Staff Frontend Engineer"
+        },
+        {
+          "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9",
+          "title": ""
+        },
         {
           "url": "https://envelio.jobs.personio.de/job/2398720/apply",
           "title": "Senior Fullstack Engineer (all genders) | Jobs at envelio"
@@ -62,14 +70,6 @@
         {
           "url": "https://autarcenergy.jobs.personio.de/job/2649016/apply",
           "title": "Senior Fullstack Engineer (Services) | Jobs at autarc"
-        },
-        {
-          "url": "https://autarcenergy.jobs.personio.de/job/2649016",
-          "title": ""
-        },
-        {
-          "url": "https://jobs.workable.com/view/s3vNzCiY4G1VX3Y9FD7yEJ/hybrid-full-stack-developer-in-berlin-at-topoteretes-ug-(haftungsbeschr%C3%A4nkt)",
-          "title": ""
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 138705,
+      "ageSeconds": 139332,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 17316,
+      "ageSeconds": 17942,
       "focus": "Just a moment...",
       "recent": [
         {
