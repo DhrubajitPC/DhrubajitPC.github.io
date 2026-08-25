@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T01:50:11.223844+00:00",
+  "generatedAt": "2026-08-25T02:00:42.035204+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T01:50:06.525Z",
-      "eventCount": 664,
-      "ageSeconds": 4,
-      "focus": "Careers at Search",
+      "lastSeen": "2026-08-25T02:00:17.327Z",
+      "eventCount": 694,
+      "ageSeconds": 24,
+      "focus": "&quot;senior frontend engineer&quot; Berlin React TypeScript (greenhouse.io OR lever.co OR smartrecruiters.com OR join.com) - Google Search",
       "recent": [
         {
-          "ts": "2026-08-25T01:49:52.714Z",
+          "ts": "2026-08-25T02:00:17.327Z",
           "kind": "browsing",
-          "detail": "Careers at Search"
+          "detail": "&quot;senior frontend engineer&quot; Berlin React TypeScript (greenhouse.io OR lever.co OR smartrecruiters.com OR join.com) - Google Search"
         },
         {
-          "ts": "2026-08-25T01:48:58.934Z",
+          "ts": "2026-08-25T02:00:05.611Z",
           "kind": "browsing",
-          "detail": "https://www.google.com/search"
+          "detail": "Autodoc Senior Software Developer Front-End (m/f/d) | SmartRecruiters"
         },
         {
-          "ts": "2026-08-25T01:48:01.879Z",
+          "ts": "2026-08-25T01:59:42.837Z",
+          "kind": "browsing",
+          "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+        },
+        {
+          "ts": "2026-08-25T01:59:14.485Z",
+          "kind": "browsing",
+          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin React TypeScript - Google Search"
+        },
+        {
+          "ts": "2026-08-25T01:58:54.910Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/"
+        },
+        {
+          "ts": "2026-08-25T01:58:38.901Z",
           "kind": "desktop",
-          "detail": "27 actions, 484s"
+          "detail": "29 actions, 596s"
         },
         {
-          "ts": "2026-08-25T01:43:15.886Z",
+          "ts": "2026-08-25T01:55:07.999Z",
           "kind": "browsing",
-          "detail": "Senior Software Engineer | Portless | Jobs By Workable"
+          "detail": "Senior Frontend Engineer (Full-stack) | Soda Data | Jobs By Workable"
         },
         {
-          "ts": "2026-08-25T01:41:49.999Z",
+          "ts": "2026-08-25T01:51:29.056Z",
           "kind": "browsing",
-          "detail": "Senior Fullstack Engineer \u2013 Entyre &amp; Pflegewegweiser \u2013 Berlin | Arbeitnow"
-        },
-        {
-          "ts": "2026-08-25T01:40:34.611Z",
-          "kind": "browsing",
-          "detail": "Sign in"
-        },
-        {
-          "ts": "2026-08-25T01:39:17.453Z",
-          "kind": "desktop",
-          "detail": "67 actions, 971s"
-        },
-        {
-          "ts": "2026-08-25T01:38:55.370Z",
-          "kind": "browsing",
-          "detail": "(Senior) Frontend Engineer - Webstack (all genders) - ABOUT YOU SE &amp; Co. KG"
+          "detail": "site:job-boards.greenhouse.io &quot;Senior Frontend Engineer&quot; Berlin Germany - Google Search"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://careers.smartrecruiters.com/search",
-          "title": "Careers at Search"
+          "url": "https://www.google.com/search",
+          "title": "&quot;senior frontend engineer&quot; Berlin React TypeScript (greenhouse.io OR lever.co OR smartrecruiters.com OR join.com) - Google Search"
         },
         {
-          "url": "https://www.google.com/search",
+          "url": "https://jobs.smartrecruiters.com/Autodoc3/744000140903194-senior-software-developer-front-end-m-f-d-",
+          "title": "Autodoc Senior Software Developer Front-End (m/f/d) | SmartRecruiters"
+        },
+        {
+          "url": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d",
+          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+        },
+        {
+          "url": "https://www.google.com/",
           "title": ""
         },
         {
-          "url": "https://jobs.workable.com/view/j336rFFJsWxF6BSvZkWF88/remote-senior-software-engineer-in-germany-at-portless",
-          "title": "Senior Software Engineer | Portless | Jobs By Workable"
-        },
-        {
-          "url": "https://www.arbeitnow.com/jobs/companies/entyre-pflegewegweiser/senior-fullstack-engineer-berlin-293820",
-          "title": "Senior Fullstack Engineer \u2013 Entyre &amp; Pflegewegweiser \u2013 Berlin | Arbeitnow"
-        },
-        {
-          "url": "https://auth.join.com/",
-          "title": "Sign in"
+          "url": "https://jobs.workable.com/view/f8P3bZVxkdKx5GMqL1ojwx/remote-senior-frontend-engineer-(full-stack)-in-germany-at-soda-data",
+          "title": "Senior Frontend Engineer (Full-stack) | Soda Data | Jobs By Workable"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 123235,
+      "ageSeconds": 123866,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 1846,
+      "ageSeconds": 2477,
       "focus": "Just a moment...",
       "recent": [
         {
