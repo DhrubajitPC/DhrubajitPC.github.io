@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T08:46:23.707185+00:00",
+  "generatedAt": "2026-08-25T09:04:39.150849+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-25T08:08:16.624Z",
       "eventCount": 1108,
-      "ageSeconds": 2287,
+      "ageSeconds": 3382,
       "focus": "https://conxai.bamboohr.com/careers/56",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 148208,
+      "ageSeconds": 149303,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 26819,
+      "ageSeconds": 27914,
       "focus": "Just a moment...",
       "recent": [
         {
