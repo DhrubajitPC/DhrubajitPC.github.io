@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T11:48:09.024532+00:00",
+  "generatedAt": "2026-08-25T11:48:36.137917+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T11:47:50.568Z",
-      "eventCount": 1209,
-      "ageSeconds": 18,
+      "lastSeen": "2026-08-25T11:48:17.105Z",
+      "eventCount": 1210,
+      "ageSeconds": 19,
       "focus": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 159113,
+      "ageSeconds": 159140,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 37724,
+      "ageSeconds": 37751,
       "focus": "Just a moment...",
       "recent": [
         {
