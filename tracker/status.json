@@ -1,14 +1,29 @@
 {
-  "generatedAt": "2026-08-25T01:05:56.853864+00:00",
+  "generatedAt": "2026-08-25T01:16:24.057873+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "idle",
-      "lastSeen": "2026-08-24T13:05:32.399Z",
-      "eventCount": 549,
-      "ageSeconds": 43224,
-      "focus": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)",
+      "status": "active",
+      "lastSeen": "2026-08-25T01:15:24.323Z",
+      "eventCount": 575,
+      "ageSeconds": 59,
+      "focus": "Staff/Senior Full Stack Engineer - akeno - Application",
       "recent": [
+        {
+          "ts": "2026-08-25T01:13:06.079Z",
+          "kind": "browsing",
+          "detail": "Staff/Senior Full Stack Engineer - akeno - Application"
+        },
+        {
+          "ts": "2026-08-25T01:12:25.914Z",
+          "kind": "browsing",
+          "detail": "akeno - Current Openings"
+        },
+        {
+          "ts": "2026-08-25T01:09:30.301Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/search"
+        },
         {
           "ts": "2026-08-24T13:05:32.399Z",
           "kind": "desktop",
@@ -33,43 +48,28 @@
           "ts": "2026-08-24T12:44:20.584Z",
           "kind": "browsing",
           "detail": "This job can&#39;t be found | Jobs By Workable"
-        },
-        {
-          "ts": "2026-08-24T12:43:33.903Z",
-          "kind": "browsing",
-          "detail": "react Jobs near Germany | Jobs By Workable"
-        },
-        {
-          "ts": "2026-08-24T12:35:41.242Z",
-          "kind": "browsing",
-          "detail": "Sign in"
-        },
-        {
-          "ts": "2026-08-24T12:32:09.166Z",
-          "kind": "browsing",
-          "detail": "Roles | Find available job openings at HelloFresh"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://apply.workable.com/akeno/j/D49DFF9F6E/apply/",
+          "title": "Staff/Senior Full Stack Engineer - akeno - Application"
+        },
+        {
+          "url": "https://apply.workable.com/akeno/",
+          "title": "akeno - Current Openings"
+        },
+        {
+          "url": "https://www.google.com/search",
+          "title": ""
+        },
         {
           "url": "https://jobs.lever.co/octoenergy/a7f97ce1-f3ab-42c9-bddc-44fe69df6470/apply",
           "title": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)"
         },
         {
-          "url": "https://www.google.com/search",
-          "title": "&quot;senior frontend engineer&quot; react typescript Berlin site:jobs.lever.co OR site:apply.workable.com OR site:job-boards.greenhouse.io - Google Search"
-        },
-        {
           "url": "https://jobs.workable.com/search",
           "title": "React Jobs in Germany | Jobs By Workable"
-        },
-        {
-          "url": "https://jobs.workable.com/view/j336rFFJsWxF6BSvZKWF88/remote-senior-software-engineer-in-germany-at-portless",
-          "title": "This job can&#39;t be found | Jobs By Workable"
-        },
-        {
-          "url": "https://apply.workable.com/portless/",
-          "title": "react Jobs near Germany | Jobs By Workable"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 120581,
+      "ageSeconds": 121208,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -147,10 +147,10 @@
     },
     {
       "name": "Mike",
-      "status": "idle",
-      "lastSeen": "2026-08-23T15:33:05.607Z",
-      "eventCount": 171,
-      "ageSeconds": 120771,
+      "status": "active",
+      "lastSeen": "2026-08-25T01:15:03.338Z",
+      "eventCount": 174,
+      "ageSeconds": 80,
       "focus": "Explore Roles",
       "recent": [
         {
