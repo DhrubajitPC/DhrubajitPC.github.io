@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-08-25T03:32:19.250676+00:00",
+  "generatedAt": "2026-08-25T03:48:54.425063+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "recent",
-      "lastSeen": "2026-08-25T03:28:04.385Z",
-      "eventCount": 914,
-      "ageSeconds": 254,
-      "focus": "Lead Web Engineer | Genki | Jobs By Workable",
+      "lastSeen": "2026-08-25T03:35:30.191Z",
+      "eventCount": 922,
+      "ageSeconds": 804,
+      "focus": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)",
       "recent": [
         {
-          "ts": "2026-08-25T03:28:04.385Z",
+          "ts": "2026-08-25T03:35:23.265Z",
+          "kind": "desktop",
+          "detail": "6 actions, 66s"
+        },
+        {
+          "ts": "2026-08-25T03:34:37.307Z",
+          "kind": "browsing",
+          "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+        },
+        {
+          "ts": "2026-08-25T03:34:22.222Z",
+          "kind": "browsing",
+          "detail": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d"
+        },
+        {
+          "ts": "2026-08-25T03:34:10.548Z",
           "kind": "browsing",
           "detail": "Lead Web Engineer | Genki | Jobs By Workable"
+        },
+        {
+          "ts": "2026-08-25T03:33:59.133Z",
+          "kind": "desktop",
+          "detail": "125 actions, 1936s"
         },
         {
           "ts": "2026-08-25T03:25:16.489Z",
@@ -20,48 +40,28 @@
           "detail": "15 actions, 184s"
         },
         {
-          "ts": "2026-08-25T03:24:52.924Z",
-          "kind": "browsing",
-          "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
-        },
-        {
           "ts": "2026-08-25T03:24:39.559Z",
           "kind": "browsing",
           "detail": "https://join.com/companies/birdravecom/16079185/apply/authentication"
         },
         {
-          "ts": "2026-08-25T03:22:20.789Z",
-          "kind": "browsing",
-          "detail": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d"
-        },
-        {
           "ts": "2026-08-25T03:07:10.821Z",
           "kind": "browsing",
           "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
-        },
-        {
-          "ts": "2026-08-25T03:06:51.228Z",
-          "kind": "browsing",
-          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
-        },
-        {
-          "ts": "2026-08-25T03:05:29.490Z",
-          "kind": "browsing",
-          "detail": "Senior Front End Engineer \u2013 Quantum-Systems GmbH \u2013 Gilching | Arbeitnow"
         }
       ],
       "recentUrls": [
-        {
-          "url": "https://jobs.workable.com/view/aVx3Xr7cSQR24p2rNsrkLZ/remote-lead-web-engineer-in-germany-at-genki",
-          "title": "Lead Web Engineer | Genki | Jobs By Workable"
-        },
         {
           "url": "https://join.com/companies/birdravecom/16079185/apply/authentication",
           "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
         },
         {
           "url": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d",
-          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "title": ""
+        },
+        {
+          "url": "https://jobs.workable.com/view/aVx3Xr7cSQR24p2rNsrkLZ/remote-lead-web-engineer-in-germany-at-genki",
+          "title": "Lead Web Engineer | Genki | Jobs By Workable"
         },
         {
           "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd/c/new",
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 129364,
+      "ageSeconds": 130359,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 7974,
+      "ageSeconds": 8970,
       "focus": "Just a moment...",
       "recent": [
         {
