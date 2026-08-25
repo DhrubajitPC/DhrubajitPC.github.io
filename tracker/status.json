@@ -1,14 +1,44 @@
 {
-  "generatedAt": "2026-08-25T05:06:10.766825+00:00",
+  "generatedAt": "2026-08-25T05:19:08.975469+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T05:05:20.228Z",
-      "eventCount": 940,
-      "ageSeconds": 50,
-      "focus": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)",
+      "lastSeen": "2026-08-25T05:16:18.800Z",
+      "eventCount": 969,
+      "ageSeconds": 170,
+      "focus": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH",
       "recent": [
+        {
+          "ts": "2026-08-25T05:16:18.800Z",
+          "kind": "browsing",
+          "detail": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+        },
+        {
+          "ts": "2026-08-25T05:16:05.381Z",
+          "kind": "browsing",
+          "detail": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140438374--senior-frontend-engineer-ai-m-f-x-"
+        },
+        {
+          "ts": "2026-08-25T05:15:19.553Z",
+          "kind": "desktop",
+          "detail": "56 actions, 434s"
+        },
+        {
+          "ts": "2026-08-25T05:15:02.668Z",
+          "kind": "browsing",
+          "detail": "(Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+        },
+        {
+          "ts": "2026-08-25T05:11:54.038Z",
+          "kind": "browsing",
+          "detail": "Preliminary questions - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+        },
+        {
+          "ts": "2026-08-25T05:08:10.446Z",
+          "kind": "browsing",
+          "detail": "https://jobs.smartrecruiters.com/ScalableGmbH/744000136237720--senior-frontend-engineer-ai-m-f-x-"
+        },
         {
           "ts": "2026-08-25T05:05:07.861Z",
           "kind": "desktop",
@@ -18,58 +48,28 @@
           "ts": "2026-08-25T05:04:54.881Z",
           "kind": "browsing",
           "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
-        },
-        {
-          "ts": "2026-08-25T04:57:03.834Z",
-          "kind": "browsing",
-          "detail": "JOIN"
-        },
-        {
-          "ts": "2026-08-25T04:55:49.494Z",
-          "kind": "browsing",
-          "detail": "Search results - dhrubajit1992@gmail.com - Gmail"
-        },
-        {
-          "ts": "2026-08-25T04:55:01.816Z",
-          "kind": "browsing",
-          "detail": "Due to inactivity, the form has been closed to protect your data. Click on the button below to start your application process again."
-        },
-        {
-          "ts": "2026-08-25T03:35:23.265Z",
-          "kind": "desktop",
-          "detail": "6 actions, 66s"
-        },
-        {
-          "ts": "2026-08-25T03:34:22.222Z",
-          "kind": "browsing",
-          "detail": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d"
-        },
-        {
-          "ts": "2026-08-25T03:34:10.548Z",
-          "kind": "browsing",
-          "detail": "Lead Web Engineer | Genki | Jobs By Workable"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://join.com/companies/birdravecom/16079185/apply/success",
-          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/ed87d197-6c0e-46a4-81c4-e5c9ba651571",
+          "title": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
         },
         {
-          "url": "https://join.com/companies/birdravecom/16079185/apply/review",
-          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140438374--senior-frontend-engineer-ai-m-f-x-",
+          "title": ""
         },
         {
-          "url": "https://join.com/companies/birdravecom/16079185/apply/question-2",
-          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/a2d33ad0-9dbe-434c-a5cc-3de9818097ce/success",
+          "title": "(Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
         },
         {
-          "url": "https://join.com/companies/birdravecom/16079185/apply/question-1",
-          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/a2d33ad0-9dbe-434c-a5cc-3de9818097ce/screening",
+          "title": "Preliminary questions - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
         },
         {
-          "url": "https://join.com/companies/birdravecom/16079185/apply/coverLetter",
-          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/a2d33ad0-9dbe-434c-a5cc-3de9818097ce",
+          "title": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 134995,
+      "ageSeconds": 135773,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 13606,
+      "ageSeconds": 14384,
       "focus": "Just a moment...",
       "recent": [
         {
