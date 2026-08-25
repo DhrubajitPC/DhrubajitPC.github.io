@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T06:34:15.826152+00:00",
-  "appliedCount": 38,
-  "total": 126,
+  "generatedAt": "2026-08-25T06:34:33.019163+00:00",
+  "appliedCount": 39,
+  "total": 127,
   "applications": [
     {
       "agent": "Alice",
@@ -230,6 +230,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
+      "date": "2026-08-25"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "PPRO",
+      "role": "Staff Frontend Engineer",
+      "city": "",
+      "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Lever /thanks page",
       "date": "2026-08-25"
     },
     {
