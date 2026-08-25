@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-25T06:05:10.766136+00:00",
+  "generatedAt": "2026-08-25T06:06:01.307270+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T06:03:41.605Z",
-      "eventCount": 1058,
-      "ageSeconds": 89,
+      "lastSeen": "2026-08-25T06:06:00.108Z",
+      "eventCount": 1061,
+      "ageSeconds": 1,
       "focus": "Senior Fullstack Engineer (all genders) | Jobs at envelio",
       "recent": [
+        {
+          "ts": "2026-08-25T06:05:16.480Z",
+          "kind": "desktop",
+          "detail": "30 actions, 269s"
+        },
         {
           "ts": "2026-08-25T06:01:14.109Z",
           "kind": "browsing",
@@ -43,11 +48,6 @@
           "ts": "2026-08-25T05:54:17.196Z",
           "kind": "browsing",
           "detail": "https://jobs.workable.com/view/s3vNzCiY4G1VX3Y9FD7yEJ/hybrid-full-stack-developer-in-berlin-at-topoteretes-ug-(haftungsbeschr%C3%A4nkt)"
-        },
-        {
-          "ts": "2026-08-25T05:53:44.152Z",
-          "kind": "desktop",
-          "detail": "32 actions, 270s"
         }
       ],
       "recentUrls": [
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 138535,
+      "ageSeconds": 138586,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 17146,
+      "ageSeconds": 17196,
       "focus": "Just a moment...",
       "recent": [
         {
