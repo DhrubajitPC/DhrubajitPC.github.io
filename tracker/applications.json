@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T05:19:09.010401+00:00",
-  "appliedCount": 34,
+  "generatedAt": "2026-08-25T05:19:52.065908+00:00",
+  "appliedCount": 35,
   "total": 125,
   "applications": [
     {
@@ -266,6 +266,18 @@
       "agent": "Alice",
       "date": "",
       "notes": "Rejection received"
+    },
+    {
+      "board": "Germany",
+      "company": "Scalable Capital",
+      "role": "(Senior) Frontend Engineer - AI (m/f/x)",
+      "city": "Berlin",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000136237720--senior-frontend-engineer-ai-m-f-x-",
+      "status": "submitted",
+      "applied": true,
+      "agent": "Alice",
+      "date": "",
+      "notes": "SmartRecruiters success page"
     },
     {
       "agent": "Alice",
@@ -1094,18 +1106,6 @@
       "agent": "Alice",
       "date": "",
       "notes": "SAP careers"
-    },
-    {
-      "board": "Germany",
-      "company": "Scalable Capital",
-      "role": "(Senior) Frontend Engineer - AI (m/f/x)",
-      "city": "Berlin",
-      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000136237720--senior-frontend-engineer-ai-m-f-x-",
-      "status": "open",
-      "applied": false,
-      "agent": "Alice",
-      "date": "",
-      "notes": "SmartRecruiters"
     },
     {
       "board": "Germany",
