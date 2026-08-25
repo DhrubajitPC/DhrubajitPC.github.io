@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-08-25T06:18:27.289006+00:00",
+  "generatedAt": "2026-08-25T06:34:15.787462+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-08-25T06:18:12.052Z",
-      "eventCount": 1100,
-      "ageSeconds": 15,
+      "status": "recent",
+      "lastSeen": "2026-08-25T06:22:12.563Z",
+      "eventCount": 1104,
+      "ageSeconds": 723,
       "focus": "PPRO - Staff Frontend Engineer",
       "recent": [
         {
-          "ts": "2026-08-25T06:16:55.067Z",
+          "ts": "2026-08-25T06:21:31.392Z",
+          "kind": "desktop",
+          "detail": "17 actions, 304s"
+        },
+        {
+          "ts": "2026-08-25T06:21:13.638Z",
           "kind": "browsing",
           "detail": "PPRO - Staff Frontend Engineer"
         },
@@ -43,14 +48,13 @@
           "ts": "2026-08-25T05:57:43.340Z",
           "kind": "browsing",
           "detail": "Senior Fullstack Engineer (Services) | Jobs at autarc"
-        },
-        {
-          "ts": "2026-08-25T05:57:05.078Z",
-          "kind": "browsing",
-          "detail": "https://autarcenergy.jobs.personio.de/job/2649016"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9/thanks",
+          "title": "PPRO - Staff Frontend Engineer"
+        },
         {
           "url": "https://jobs.lever.co/ppro/4291d28a-9d56-48ec-864b-628e6e20edc9/apply",
           "title": "PPRO - Staff Frontend Engineer"
@@ -66,10 +70,6 @@
         {
           "url": "https://envelio.jobs.personio.de/job/2398720",
           "title": ""
-        },
-        {
-          "url": "https://autarcenergy.jobs.personio.de/job/2649016/apply",
-          "title": "Senior Fullstack Engineer (Services) | Jobs at autarc"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 139332,
+      "ageSeconds": 140280,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 17942,
+      "ageSeconds": 18891,
       "focus": "Just a moment...",
       "recent": [
         {
