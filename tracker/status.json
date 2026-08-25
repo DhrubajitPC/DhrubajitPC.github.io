@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-25T08:05:31.034059+00:00",
+  "generatedAt": "2026-08-25T08:20:10.954642+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "recent",
-      "lastSeen": "2026-08-25T07:58:07.926Z",
-      "eventCount": 1106,
-      "ageSeconds": 443,
+      "lastSeen": "2026-08-25T08:08:16.624Z",
+      "eventCount": 1108,
+      "ageSeconds": 714,
       "focus": "https://conxai.bamboohr.com/careers/56",
       "recent": [
+        {
+          "ts": "2026-08-25T08:08:06.925Z",
+          "kind": "desktop",
+          "detail": "64 actions, 607s"
+        },
         {
           "ts": "2026-08-25T07:58:07.926Z",
           "kind": "browsing",
@@ -43,11 +48,6 @@
           "ts": "2026-08-25T06:00:50.689Z",
           "kind": "browsing",
           "detail": "https://envelio.jobs.personio.de/job/2398720"
-        },
-        {
-          "ts": "2026-08-25T06:00:05.940Z",
-          "kind": "desktop",
-          "detail": "28 actions, 187s"
         }
       ],
       "recentUrls": [
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 145755,
+      "ageSeconds": 146635,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 24366,
+      "ageSeconds": 25246,
       "focus": "Just a moment...",
       "recent": [
         {
