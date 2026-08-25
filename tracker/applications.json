@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T12:32:03.681902+00:00",
-  "appliedCount": 43,
-  "total": 131,
+  "generatedAt": "2026-08-25T12:32:22.397092+00:00",
+  "appliedCount": 44,
+  "total": 132,
   "applications": [
     {
       "agent": "Alice",
@@ -208,6 +208,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice added to submitted tally",
+      "date": "2026-08-25"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "nyra health",
+      "role": "Senior Product Engineer (AI-native) (m/f/x)",
+      "city": "",
+      "url": "https://nyrahealth.recruitee.com/o/senior-product-engineer-ai-native-mfx",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Recruitee /applied page",
       "date": "2026-08-25"
     },
     {
