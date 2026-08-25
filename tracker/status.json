@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-08-25T11:48:36.137917+00:00",
+  "generatedAt": "2026-08-25T12:01:44.744001+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T11:48:17.105Z",
-      "eventCount": 1210,
-      "ageSeconds": 19,
-      "focus": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer",
+      "lastSeen": "2026-08-25T12:01:36.691Z",
+      "eventCount": 1239,
+      "ageSeconds": 8,
+      "focus": "Applied to Senior Product Engineer",
       "recent": [
+        {
+          "ts": "2026-08-25T11:51:33.910Z",
+          "kind": "desktop",
+          "detail": "26 actions, 275s"
+        },
+        {
+          "ts": "2026-08-25T11:51:17.193Z",
+          "kind": "browsing",
+          "detail": "Applied to Senior Product Engineer"
+        },
         {
           "ts": "2026-08-25T11:47:03.729Z",
           "kind": "browsing",
@@ -38,19 +48,13 @@
           "ts": "2026-08-25T11:40:25.925Z",
           "kind": "browsing",
           "detail": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Applied"
-        },
-        {
-          "ts": "2026-08-25T11:33:59.911Z",
-          "kind": "browsing",
-          "detail": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Application"
-        },
-        {
-          "ts": "2026-08-25T11:33:38.657Z",
-          "kind": "browsing",
-          "detail": "https://epilot.recruitee.com/o/senior-product-engineer-frontend"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer/applications/1371a4da-2c0b-4395-be6f-7131aaf4ea21/thanks/1cb6135224403b23aa495e341d29062df71368b47019a4d4cd4d954f7896da68",
+          "title": "Applied to Senior Product Engineer"
+        },
         {
           "url": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer",
           "title": ""
@@ -66,10 +70,6 @@
         {
           "url": "https://epilot.recruitee.com/o/senior-product-engineer-frontend/applied",
           "title": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Applied"
-        },
-        {
-          "url": "https://epilot.recruitee.com/o/senior-product-engineer-frontend/c/new",
-          "title": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Application"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 159140,
+      "ageSeconds": 159929,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 37751,
+      "ageSeconds": 38540,
       "focus": "Just a moment...",
       "recent": [
         {
