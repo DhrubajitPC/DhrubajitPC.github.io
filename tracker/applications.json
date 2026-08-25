@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T12:18:37.514299+00:00",
-  "appliedCount": 42,
-  "total": 130,
+  "generatedAt": "2026-08-25T12:19:00.312181+00:00",
+  "appliedCount": 43,
+  "total": 131,
   "applications": [
     {
       "agent": "Alice",
@@ -50,6 +50,19 @@
       "agent": "Alice",
       "date": "posted 28 Apr 2026",
       "notes": "JOIN /apply/success page"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Blocks",
+      "role": "Senior Fullstack Engineer (m/f/d)",
+      "city": "",
+      "url": "https://blocks.teamtailor.com/jobs/7215922-senior-fullstack-engineer-m-f-d",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Teamtailor thanks page",
+      "match_url": "7215922",
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
