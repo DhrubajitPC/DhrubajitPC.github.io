@@ -1,16 +1,46 @@
 {
-  "generatedAt": "2026-08-25T02:34:53.958963+00:00",
+  "generatedAt": "2026-08-25T02:49:13.401620+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T02:34:39.001Z",
-      "eventCount": 779,
-      "ageSeconds": 14,
-      "focus": "https://www.google.com/search?q=site%3Ajob-boards.greenhouse.io+%22senior%22+frontend+engineer+react+typescript+berlin&amp;num=30",
+      "lastSeen": "2026-08-25T02:49:11.409Z",
+      "eventCount": 812,
+      "ageSeconds": 1,
+      "focus": "Senior Fullstack Developer",
       "recent": [
         {
-          "ts": "2026-08-25T02:34:39.001Z",
+          "ts": "2026-08-25T02:47:59.991Z",
+          "kind": "browsing",
+          "detail": "Senior Fullstack Developer"
+        },
+        {
+          "ts": "2026-08-25T02:47:26.311Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/search?q=%22senior+frontend+engineer%22+React+TypeScript+Berlin+greenhouse.io+jobs"
+        },
+        {
+          "ts": "2026-08-25T02:47:19.656Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/search"
+        },
+        {
+          "ts": "2026-08-25T02:46:38.097Z",
+          "kind": "desktop",
+          "detail": "51 actions, 756s"
+        },
+        {
+          "ts": "2026-08-25T02:46:23.954Z",
+          "kind": "browsing",
+          "detail": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Applied"
+        },
+        {
+          "ts": "2026-08-25T02:38:01.704Z",
+          "kind": "browsing",
+          "detail": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Application"
+        },
+        {
+          "ts": "2026-08-25T02:35:02.786Z",
           "kind": "browsing",
           "detail": "https://www.google.com/search?q=site%3Ajob-boards.greenhouse.io+%22senior%22+frontend+engineer+react+typescript+berlin&amp;num=30"
         },
@@ -18,58 +48,28 @@
           "ts": "2026-08-25T02:33:11.099Z",
           "kind": "desktop",
           "detail": "49 actions, 1093s"
-        },
-        {
-          "ts": "2026-08-25T02:32:54.367Z",
-          "kind": "browsing",
-          "detail": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Applied"
-        },
-        {
-          "ts": "2026-08-25T02:28:14.612Z",
-          "kind": "browsing",
-          "detail": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Application"
-        },
-        {
-          "ts": "2026-08-25T02:27:10.702Z",
-          "kind": "browsing",
-          "detail": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin"
-        },
-        {
-          "ts": "2026-08-25T02:26:15.396Z",
-          "kind": "browsing",
-          "detail": "Not Found"
-        },
-        {
-          "ts": "2026-08-25T02:24:46.276Z",
-          "kind": "browsing",
-          "detail": "site:careers.smartrecruiters.com Berlin senior frontend engineer React - Search"
-        },
-        {
-          "ts": "2026-08-25T02:24:20.259Z",
-          "kind": "browsing",
-          "detail": "duckduckgo.com"
         }
       ],
       "recentUrls": [
         {
+          "url": "https://small-improvements.breezy.hr/p/81f3eef43657-senior-fullstack-developer/apply",
+          "title": "Senior Fullstack Developer"
+        },
+        {
           "url": "https://www.google.com/sorry/index",
-          "title": "https://www.google.com/search?q=site%3Ajob-boards.greenhouse.io+%22senior%22+frontend+engineer+react+typescript+berlin&amp;num=30"
+          "title": "https://www.google.com/search?q=%22senior+frontend+engineer%22+React+TypeScript+Berlin+greenhouse.io+jobs"
         },
         {
-          "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin/applied",
-          "title": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Applied"
+          "url": "https://www.google.com/search",
+          "title": ""
         },
         {
-          "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin/c/new",
-          "title": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Application"
+          "url": "https://hygraph.recruitee.com/o/senior-fullstack-engineer-fmd-berlin-i-germany-eu-i-remote/applied",
+          "title": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Applied"
         },
         {
-          "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin",
-          "title": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin"
-        },
-        {
-          "url": "https://www.idealo.de/karriere/jobs",
-          "title": "Not Found"
+          "url": "https://hygraph.recruitee.com/o/senior-fullstack-engineer-fmd-berlin-i-germany-eu-i-remote/c/new",
+          "title": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Application"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 125918,
+      "ageSeconds": 126778,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 4529,
+      "ageSeconds": 5388,
       "focus": "Just a moment...",
       "recent": [
         {
