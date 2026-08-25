@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T05:19:52.026117+00:00",
+  "generatedAt": "2026-08-25T05:35:10.486429+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
-      "lastSeen": "2026-08-25T05:16:18.800Z",
-      "eventCount": 969,
-      "ageSeconds": 213,
-      "focus": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH",
+      "status": "active",
+      "lastSeen": "2026-08-25T05:35:04.403Z",
+      "eventCount": 998,
+      "ageSeconds": 6,
+      "focus": "Preliminary questions - (Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x) - Scalable GmbH",
       "recent": [
         {
-          "ts": "2026-08-25T05:16:18.800Z",
+          "ts": "2026-08-25T05:35:04.403Z",
           "kind": "browsing",
-          "detail": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+          "detail": "Preliminary questions - (Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x) - Scalable GmbH"
         },
         {
-          "ts": "2026-08-25T05:16:05.381Z",
+          "ts": "2026-08-25T05:29:44.199Z",
           "kind": "browsing",
-          "detail": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140438374--senior-frontend-engineer-ai-m-f-x-"
+          "detail": "Easy apply - (Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x) - Scalable GmbH"
         },
         {
-          "ts": "2026-08-25T05:15:19.553Z",
+          "ts": "2026-08-25T05:29:31.978Z",
+          "kind": "browsing",
+          "detail": "https://jobs.smartrecruiters.com/ScalableGmbH/744000143440719--senior-full-stack-engineer-typescript-kotlin-java-m-f-x-"
+        },
+        {
+          "ts": "2026-08-25T05:29:03.172Z",
           "kind": "desktop",
-          "detail": "56 actions, 434s"
+          "detail": "25 actions, 214s"
         },
         {
-          "ts": "2026-08-25T05:15:02.668Z",
+          "ts": "2026-08-25T05:25:44.604Z",
           "kind": "browsing",
-          "detail": "(Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+          "detail": "Senior Fullstack Engineer (m/f/x) @ E-Mobility Startup | Jobs at Aampere GmbH"
         },
         {
-          "ts": "2026-08-25T05:11:54.038Z",
+          "ts": "2026-08-25T05:25:32.868Z",
           "kind": "browsing",
-          "detail": "Preliminary questions - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+          "detail": "https://aampere.jobs.personio.de/job/2648611"
         },
         {
-          "ts": "2026-08-25T05:08:10.446Z",
-          "kind": "browsing",
-          "detail": "https://jobs.smartrecruiters.com/ScalableGmbH/744000136237720--senior-frontend-engineer-ai-m-f-x-"
-        },
-        {
-          "ts": "2026-08-25T05:05:07.861Z",
+          "ts": "2026-08-25T05:24:57.278Z",
           "kind": "desktop",
-          "detail": "43 actions, 582s"
+          "detail": "4 actions, 56s"
         },
         {
-          "ts": "2026-08-25T05:04:54.881Z",
+          "ts": "2026-08-25T05:24:30.073Z",
           "kind": "browsing",
-          "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "detail": "join.com/talent/applications/52379628"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/ed87d197-6c0e-46a4-81c4-e5c9ba651571",
-          "title": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/5621ab3c-636a-43e6-bd7d-128dc943da79/screening",
+          "title": "Preliminary questions - (Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x) - Scalable GmbH"
         },
         {
-          "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140438374--senior-frontend-engineer-ai-m-f-x-",
+          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/5621ab3c-636a-43e6-bd7d-128dc943da79",
+          "title": "Easy apply - (Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x) - Scalable GmbH"
+        },
+        {
+          "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000143440719--senior-full-stack-engineer-typescript-kotlin-java-m-f-x-",
           "title": ""
         },
         {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/a2d33ad0-9dbe-434c-a5cc-3de9818097ce/success",
-          "title": "(Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+          "url": "https://aampere.jobs.personio.de/job/2648611/apply",
+          "title": "Senior Fullstack Engineer (m/f/x) @ E-Mobility Startup | Jobs at Aampere GmbH"
         },
         {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/a2d33ad0-9dbe-434c-a5cc-3de9818097ce/screening",
-          "title": "Preliminary questions - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ScalableGmbH/publication/a2d33ad0-9dbe-434c-a5cc-3de9818097ce",
-          "title": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH"
+          "url": "https://aampere.jobs.personio.de/job/2648611",
+          "title": ""
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 135816,
+      "ageSeconds": 136735,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 14427,
+      "ageSeconds": 15346,
       "focus": "Just a moment...",
       "recent": [
         {
