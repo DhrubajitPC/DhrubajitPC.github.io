@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T02:18:42.805069+00:00",
+  "generatedAt": "2026-08-25T02:34:24.010848+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T02:18:42.497Z",
-      "eventCount": 742,
-      "ageSeconds": 0,
-      "focus": "https://www.google.com/search",
+      "lastSeen": "2026-08-25T02:34:15.690Z",
+      "eventCount": 778,
+      "ageSeconds": 8,
+      "focus": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Applied",
       "recent": [
         {
-          "ts": "2026-08-25T02:15:10.707Z",
-          "kind": "browsing",
-          "detail": "https://www.google.com/search"
-        },
-        {
-          "ts": "2026-08-25T02:14:29.638Z",
+          "ts": "2026-08-25T02:33:11.099Z",
           "kind": "desktop",
-          "detail": "76 actions, 942s"
+          "detail": "49 actions, 1093s"
         },
         {
-          "ts": "2026-08-25T02:11:44.402Z",
+          "ts": "2026-08-25T02:32:54.367Z",
           "kind": "browsing",
-          "detail": "Senior React Developer (m/f/d) | Jobs at Bees &amp; Bears GmbH"
+          "detail": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Applied"
         },
         {
-          "ts": "2026-08-25T02:09:26.482Z",
+          "ts": "2026-08-25T02:28:14.612Z",
           "kind": "browsing",
-          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
+          "detail": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Application"
         },
         {
-          "ts": "2026-08-25T02:09:14.385Z",
+          "ts": "2026-08-25T02:27:10.702Z",
           "kind": "browsing",
-          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
+          "detail": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin"
         },
         {
-          "ts": "2026-08-25T02:05:20.583Z",
+          "ts": "2026-08-25T02:26:15.396Z",
           "kind": "browsing",
-          "detail": "SmartRecruiters"
+          "detail": "Not Found"
         },
         {
-          "ts": "2026-08-25T02:04:20.784Z",
+          "ts": "2026-08-25T02:24:46.276Z",
           "kind": "browsing",
-          "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+          "detail": "site:careers.smartrecruiters.com Berlin senior frontend engineer React - Search"
         },
         {
-          "ts": "2026-08-25T02:03:07.036Z",
+          "ts": "2026-08-25T02:24:20.259Z",
           "kind": "browsing",
-          "detail": "site:join.com &quot;Senior Frontend Engineer&quot; Berlin React TypeScript - Google Search"
+          "detail": "duckduckgo.com"
+        },
+        {
+          "ts": "2026-08-25T02:23:54.268Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/search?num=30&amp;q=site%3Acareers.smartrecruiters.com%20Berlin%20%22Frontend%20Engineer%22%20React"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://www.google.com/search",
-          "title": ""
+          "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin/applied",
+          "title": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Applied"
         },
         {
-          "url": "https://bees-bears-gmbh.jobs.personio.de/job/2740799/apply",
-          "title": "Senior React Developer (m/f/d) | Jobs at Bees &amp; Bears GmbH"
+          "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin/c/new",
+          "title": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Application"
         },
         {
-          "url": "https://bees-bears-gmbh.jobs.personio.de/job/2740799",
-          "title": "Senior React Developer (m/f/d) | Jobs at Bees &amp; Bears GmbH"
+          "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin",
+          "title": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin"
         },
         {
-          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd/c/new",
-          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
+          "url": "https://www.idealo.de/karriere/jobs",
+          "title": "Not Found"
         },
         {
-          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd",
-          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
+          "url": "https://www.bing.com/search",
+          "title": "site:careers.smartrecruiters.com Berlin senior frontend engineer React - Search"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 124947,
+      "ageSeconds": 125888,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 3558,
+      "ageSeconds": 4499,
       "focus": "Just a moment...",
       "recent": [
         {
