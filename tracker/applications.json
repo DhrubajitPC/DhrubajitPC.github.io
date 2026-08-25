@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T02:49:13.436918+00:00",
-  "appliedCount": 31,
-  "total": 123,
+  "generatedAt": "2026-08-25T02:49:52.333531+00:00",
+  "appliedCount": 32,
+  "total": 124,
   "applications": [
     {
       "agent": "Alice",
@@ -73,6 +73,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
+      "date": "2026-08-25"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Hygraph",
+      "role": "Senior Fullstack Engineer (f/m/d)",
+      "city": "Berlin / EU remote",
+      "url": "https://hygraph.recruitee.com/o/senior-fullstack-engineer-fmd-berlin-i-germany-eu-i-remote",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Recruitee /applied page",
       "date": "2026-08-25"
     },
     {
