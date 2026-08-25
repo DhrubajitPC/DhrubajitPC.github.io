@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-25T01:49:24.332123+00:00",
+  "generatedAt": "2026-08-25T01:50:11.223844+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T01:48:58.934Z",
-      "eventCount": 661,
-      "ageSeconds": 25,
-      "focus": "https://www.google.com/search",
+      "lastSeen": "2026-08-25T01:50:06.525Z",
+      "eventCount": 664,
+      "ageSeconds": 4,
+      "focus": "Careers at Search",
       "recent": [
+        {
+          "ts": "2026-08-25T01:49:52.714Z",
+          "kind": "browsing",
+          "detail": "Careers at Search"
+        },
         {
           "ts": "2026-08-25T01:48:58.934Z",
           "kind": "browsing",
@@ -43,14 +48,13 @@
           "ts": "2026-08-25T01:38:55.370Z",
           "kind": "browsing",
           "detail": "(Senior) Frontend Engineer - Webstack (all genders) - ABOUT YOU SE &amp; Co. KG"
-        },
-        {
-          "ts": "2026-08-25T01:36:37.503Z",
-          "kind": "browsing",
-          "detail": "Preliminary questions - (Senior) Frontend Engineer - Webstack (all genders) - ABOUT YOU SE &amp; Co. KG"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://careers.smartrecruiters.com/search",
+          "title": "Careers at Search"
+        },
         {
           "url": "https://www.google.com/search",
           "title": ""
@@ -66,10 +70,6 @@
         {
           "url": "https://auth.join.com/",
           "title": "Sign in"
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/ABOUTYOUGmbH/publication/c99b7841-d317-442a-acd3-5f3f45400127/success",
-          "title": "(Senior) Frontend Engineer - Webstack (all genders) - ABOUT YOU SE &amp; Co. KG"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 123189,
+      "ageSeconds": 123235,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 1799,
+      "ageSeconds": 1846,
       "focus": "Just a moment...",
       "recent": [
         {
