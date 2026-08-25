@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T11:18:49.104936+00:00",
-  "appliedCount": 39,
-  "total": 127,
+  "generatedAt": "2026-08-25T11:19:18.829485+00:00",
+  "appliedCount": 40,
+  "total": 128,
   "applications": [
     {
       "agent": "Alice",
@@ -50,6 +50,19 @@
       "agent": "Alice",
       "date": "posted 28 Apr 2026",
       "notes": "JOIN /apply/success page"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "ClickHouse",
+      "role": "Senior Full Stack Engineer - ClickStack",
+      "city": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Greenhouse confirmation page",
+      "match_url": "5748779004",
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
