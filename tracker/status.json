@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T01:16:24.057873+00:00",
+  "generatedAt": "2026-08-25T01:30:51.825244+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T01:15:24.323Z",
-      "eventCount": 575,
-      "ageSeconds": 59,
-      "focus": "Staff/Senior Full Stack Engineer - akeno - Application",
+      "lastSeen": "2026-08-25T01:30:35.526Z",
+      "eventCount": 629,
+      "ageSeconds": 16,
+      "focus": "site:jobs.personio.de &quot;Senior Frontend&quot; React TypeScript Berlin - Google Search",
       "recent": [
         {
-          "ts": "2026-08-25T01:13:06.079Z",
+          "ts": "2026-08-25T01:30:35.526Z",
           "kind": "browsing",
-          "detail": "Staff/Senior Full Stack Engineer - akeno - Application"
+          "detail": "site:jobs.personio.de &quot;Senior Frontend&quot; React TypeScript Berlin - Google Search"
         },
         {
-          "ts": "2026-08-25T01:12:25.914Z",
+          "ts": "2026-08-25T01:29:27.603Z",
           "kind": "browsing",
-          "detail": "akeno - Current Openings"
+          "detail": "&quot;senior frontend engineer&quot; React TypeScript Berlin &quot;visa&quot; site:jobs.lever.co OR site:join.com OR site:jobs.workable.com - Search"
         },
         {
-          "ts": "2026-08-25T01:09:30.301Z",
+          "ts": "2026-08-25T01:26:41.764Z",
           "kind": "browsing",
-          "detail": "https://www.google.com/search"
+          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
         },
         {
-          "ts": "2026-08-24T13:05:32.399Z",
+          "ts": "2026-08-25T01:26:10.603Z",
+          "kind": "browsing",
+          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
+        },
+        {
+          "ts": "2026-08-25T01:25:38.203Z",
+          "kind": "browsing",
+          "detail": "Senior Front End Engineer \u2013 Quantum-Systems GmbH \u2013 Gilching | Arbeitnow"
+        },
+        {
+          "ts": "2026-08-25T01:23:14.276Z",
+          "kind": "browsing",
+          "detail": "&quot;senior frontend engineer&quot; React TypeScript Germany greenhouse.io visa sponsorship - Google Search"
+        },
+        {
+          "ts": "2026-08-25T01:22:40.723Z",
           "kind": "desktop",
-          "detail": "171 actions, 2436s"
+          "detail": "21 actions, 320s"
         },
         {
-          "ts": "2026-08-24T12:59:34.395Z",
+          "ts": "2026-08-25T01:20:25.870Z",
           "kind": "browsing",
-          "detail": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)"
-        },
-        {
-          "ts": "2026-08-24T12:58:30.793Z",
-          "kind": "browsing",
-          "detail": "&quot;senior frontend engineer&quot; react typescript Berlin site:jobs.lever.co OR site:apply.workable.com OR site:job-boards.greenhouse.io - Google Search"
-        },
-        {
-          "ts": "2026-08-24T12:44:50.109Z",
-          "kind": "browsing",
-          "detail": "React Jobs in Germany | Jobs By Workable"
-        },
-        {
-          "ts": "2026-08-24T12:44:20.584Z",
-          "kind": "browsing",
-          "detail": "This job can&#39;t be found | Jobs By Workable"
+          "detail": "Tech Lead Full-Stack Engineer (f/m/x) | Jobs at LiveEO GmbH"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://apply.workable.com/akeno/j/D49DFF9F6E/apply/",
-          "title": "Staff/Senior Full Stack Engineer - akeno - Application"
-        },
-        {
-          "url": "https://apply.workable.com/akeno/",
-          "title": "akeno - Current Openings"
-        },
-        {
           "url": "https://www.google.com/search",
-          "title": ""
+          "title": "site:jobs.personio.de &quot;Senior Frontend&quot; React TypeScript Berlin - Google Search"
         },
         {
-          "url": "https://jobs.lever.co/octoenergy/a7f97ce1-f3ab-42c9-bddc-44fe69df6470/apply",
-          "title": "Octopus Energy Group - Senior Frontend Engineer (m/w/d)"
+          "url": "https://www.bing.com/search",
+          "title": "&quot;senior frontend engineer&quot; React TypeScript Berlin &quot;visa&quot; site:jobs.lever.co OR site:join.com OR site:jobs.workable.com - Search"
         },
         {
-          "url": "https://jobs.workable.com/search",
-          "title": "React Jobs in Germany | Jobs By Workable"
+          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd/c/new",
+          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
+        },
+        {
+          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd",
+          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
+        },
+        {
+          "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-front-end-engineer-gilching-347638",
+          "title": "Senior Front End Engineer \u2013 Quantum-Systems GmbH \u2013 Gilching | Arbeitnow"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 121208,
+      "ageSeconds": 122076,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -147,73 +147,73 @@
     },
     {
       "name": "Mike",
-      "status": "active",
-      "lastSeen": "2026-08-25T01:15:03.338Z",
-      "eventCount": 174,
-      "ageSeconds": 80,
-      "focus": "Explore Roles",
+      "status": "recent",
+      "lastSeen": "2026-08-25T01:19:24.410Z",
+      "eventCount": 186,
+      "ageSeconds": 687,
+      "focus": "Just a moment...",
       "recent": [
         {
-          "ts": "2026-08-23T15:33:05.607Z",
+          "ts": "2026-08-25T01:19:24.410Z",
           "kind": "desktop",
-          "detail": "9 actions, 133s"
+          "detail": "17 actions, 175s"
         },
         {
-          "ts": "2026-08-23T15:30:35.314Z",
+          "ts": "2026-08-25T01:19:11.087Z",
           "kind": "browsing",
-          "detail": "Explore Roles"
+          "detail": "Just a moment..."
         },
         {
-          "ts": "2026-08-23T15:29:31.069Z",
-          "kind": "desktop",
-          "detail": "42 actions, 387s"
-        },
-        {
-          "ts": "2026-08-23T15:22:16.432Z",
-          "kind": "desktop",
-          "detail": "4 actions, 35s"
-        },
-        {
-          "ts": "2026-08-23T15:21:10.441Z",
+          "ts": "2026-08-25T01:18:58.757Z",
           "kind": "browsing",
-          "detail": "MYOB - Senior Front End Developer - Data &amp; AI"
+          "detail": "Full Stack Engineer at Tata Consultancy Services \u2014 Greater Sydney Area | LinkedIn Jobs"
         },
         {
-          "ts": "2026-08-23T15:19:13.956Z",
+          "ts": "2026-08-25T01:18:27.912Z",
           "kind": "browsing",
-          "detail": "Senior Software Engineer (Frontend), Business Accounts - Airwallex Careers"
+          "detail": "Front End Fullstack AI Engineers at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
         },
         {
-          "ts": "2026-08-23T15:17:10.224Z",
+          "ts": "2026-08-25T01:18:09.020Z",
           "kind": "browsing",
-          "detail": "Senior Frontend Engineer - Performance Monitoring - Canva"
+          "detail": "Sign Up | LinkedIn"
         },
         {
-          "ts": "2026-08-23T15:15:39.086Z",
+          "ts": "2026-08-25T01:17:47.114Z",
           "kind": "browsing",
-          "detail": "Senior Frontend Engineer - Performance Monitoring , Sydney, , Australia | Canva Careers"
+          "detail": "Frontend Developer at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
+        },
+        {
+          "ts": "2026-08-25T01:17:19.185Z",
+          "kind": "browsing",
+          "detail": "Sign in - Google Accounts"
+        },
+        {
+          "ts": "2026-08-25T01:16:33.811Z",
+          "kind": "browsing",
+          "detail": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-at-tata-consultancy-services-4447919366"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://careers.myob.com/explore-roles",
-          "title": "Explore Roles"
+          "url": "https://www.linkedin.com/signup/cold-join",
+          "title": "Just a moment..."
         },
         {
-          "url": "https://jobs.lever.co/myob-2/bc9c106b-2f10-4549-955d-b42420a9fc18/apply",
-          "title": "MYOB - Senior Front End Developer - Data &amp; AI"
+          "url": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-tata-consultancy-services-4446720440",
+          "title": "Full Stack Engineer at Tata Consultancy Services \u2014 Greater Sydney Area | LinkedIn Jobs"
         },
         {
-          "url": "https://careers.airwallex.com/job/1c25c15f-8c14-4818-9a49-69087087323b/senior-software-engineer-frontend-business-accounts/",
-          "title": "Senior Software Engineer (Frontend), Business Accounts - Airwallex Careers"
+          "url": "https://au.linkedin.com/jobs/view/front-end-fullstack-ai-engineers-at-tata-consultancy-services-4446728592",
+          "title": "Front End Fullstack AI Engineers at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
         },
         {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/Canva/publication/08e2f588-893c-4abf-88d3-7b368d05eedb/success",
-          "title": "Senior Frontend Engineer - Performance Monitoring - Canva"
+          "url": "https://au.linkedin.com/jobs/view/frontend-developer-at-tata-consultancy-services-4455638129",
+          "title": "Frontend Developer at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
         },
         {
-          "url": "https://www.lifeatcanva.com/en/jobs/6000000001210809/senior-frontend-engineer-performance-monitoring/",
-          "title": "Senior Frontend Engineer - Performance Monitoring , Sydney, , Australia | Canva Careers"
+          "url": "https://accounts.google.com/v3/signin/identifier",
+          "title": "Sign in - Google Accounts"
         }
       ]
     }
