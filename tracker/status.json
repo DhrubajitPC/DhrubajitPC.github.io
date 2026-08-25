@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T03:48:54.425063+00:00",
+  "generatedAt": "2026-08-25T04:05:38.664244+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
+      "status": "idle",
       "lastSeen": "2026-08-25T03:35:30.191Z",
       "eventCount": 922,
-      "ageSeconds": 804,
+      "ageSeconds": 1808,
       "focus": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 130359,
+      "ageSeconds": 131363,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 8970,
+      "ageSeconds": 9974,
       "focus": "Just a moment...",
       "recent": [
         {
