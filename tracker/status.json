@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T02:49:52.300348+00:00",
+  "generatedAt": "2026-08-25T03:05:27.963534+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T02:49:52.071Z",
-      "eventCount": 818,
-      "ageSeconds": 0,
-      "focus": "Senior Fullstack Developer",
+      "lastSeen": "2026-08-25T03:04:59.416Z",
+      "eventCount": 879,
+      "ageSeconds": 28,
+      "focus": "site:job-boards.greenhouse.io senior frontend engineer Berlin React TypeScript - Search",
       "recent": [
         {
-          "ts": "2026-08-25T02:47:59.991Z",
+          "ts": "2026-08-25T03:04:01.870Z",
+          "kind": "browsing",
+          "detail": "site:job-boards.greenhouse.io senior frontend engineer Berlin React TypeScript - Search"
+        },
+        {
+          "ts": "2026-08-25T03:02:46.871Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/search?q=site:jobs.lever.co+%22senior+frontend%22+Berlin+React+TypeScript"
+        },
+        {
+          "ts": "2026-08-25T03:02:05.349Z",
+          "kind": "browsing",
+          "detail": "https://duckduckgo.com/"
+        },
+        {
+          "ts": "2026-08-25T03:01:13.294Z",
+          "kind": "desktop",
+          "detail": "34 actions, 842s"
+        },
+        {
+          "ts": "2026-08-25T03:00:53.653Z",
           "kind": "browsing",
           "detail": "Senior Fullstack Developer"
         },
         {
-          "ts": "2026-08-25T02:47:26.311Z",
+          "ts": "2026-08-25T02:58:25.790Z",
           "kind": "browsing",
-          "detail": "https://www.google.com/search?q=%22senior+frontend+engineer%22+React+TypeScript+Berlin+greenhouse.io+jobs"
+          "detail": "Buena (Berlin): Senior Software Engineer (m/f/d)"
         },
         {
-          "ts": "2026-08-25T02:47:19.656Z",
+          "ts": "2026-08-25T02:55:44.141Z",
           "kind": "browsing",
-          "detail": "https://www.google.com/search"
+          "detail": "&quot;senior frontend engineer&quot; react typescript berlin (site:job-boards.greenhouse.io OR site:jobs.lever.co OR site:boards.greenhouse.io) - Search"
         },
         {
-          "ts": "2026-08-25T02:46:38.097Z",
-          "kind": "desktop",
-          "detail": "51 actions, 756s"
-        },
-        {
-          "ts": "2026-08-25T02:46:23.954Z",
+          "ts": "2026-08-25T02:52:29.206Z",
           "kind": "browsing",
-          "detail": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Applied"
-        },
-        {
-          "ts": "2026-08-25T02:38:01.704Z",
-          "kind": "browsing",
-          "detail": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Application"
-        },
-        {
-          "ts": "2026-08-25T02:35:02.786Z",
-          "kind": "browsing",
-          "detail": "https://www.google.com/search?q=site%3Ajob-boards.greenhouse.io+%22senior%22+frontend+engineer+react+typescript+berlin&amp;num=30"
-        },
-        {
-          "ts": "2026-08-25T02:33:11.099Z",
-          "kind": "desktop",
-          "detail": "49 actions, 1093s"
+          "detail": "Jobs"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://small-improvements.breezy.hr/p/81f3eef43657-senior-fullstack-developer/apply",
-          "title": "Senior Fullstack Developer"
+          "url": "https://www.bing.com/search",
+          "title": "site:job-boards.greenhouse.io senior frontend engineer Berlin React TypeScript - Search"
         },
         {
           "url": "https://www.google.com/sorry/index",
-          "title": "https://www.google.com/search?q=%22senior+frontend+engineer%22+React+TypeScript+Berlin+greenhouse.io+jobs"
+          "title": "https://www.google.com/search?q=site:jobs.lever.co+%22senior+frontend%22+Berlin+React+TypeScript"
         },
         {
-          "url": "https://www.google.com/search",
+          "url": "https://duckduckgo.com/",
           "title": ""
         },
         {
-          "url": "https://hygraph.recruitee.com/o/senior-fullstack-engineer-fmd-berlin-i-germany-eu-i-remote/applied",
-          "title": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Applied"
+          "url": "https://small-improvements.breezy.hr/p/81f3eef43657-senior-fullstack-developer/apply/submitted",
+          "title": "Senior Fullstack Developer"
         },
         {
-          "url": "https://hygraph.recruitee.com/o/senior-fullstack-engineer-fmd-berlin-i-germany-eu-i-remote/c/new",
-          "title": "Hygraph - Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote - Application"
+          "url": "https://small-improvements.breezy.hr/p/81f3eef43657-senior-fullstack-developer/apply",
+          "title": "Senior Fullstack Developer"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 126817,
+      "ageSeconds": 127752,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 5427,
+      "ageSeconds": 6363,
       "focus": "Just a moment...",
       "recent": [
         {
