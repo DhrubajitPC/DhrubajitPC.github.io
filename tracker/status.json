@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T05:35:10.486429+00:00",
+  "generatedAt": "2026-08-25T05:35:36.420147+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
       "lastSeen": "2026-08-25T05:35:04.403Z",
       "eventCount": 998,
-      "ageSeconds": 6,
+      "ageSeconds": 32,
       "focus": "Preliminary questions - (Senior) Full-Stack Engineer (TypeScript + Kotlin/Java) (m/f/x) - Scalable GmbH",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 136735,
+      "ageSeconds": 136761,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 15346,
+      "ageSeconds": 15372,
       "focus": "Just a moment...",
       "recent": [
         {
