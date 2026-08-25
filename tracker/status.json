@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T06:34:15.787462+00:00",
+  "generatedAt": "2026-08-25T06:34:32.979396+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "recent",
       "lastSeen": "2026-08-25T06:22:12.563Z",
       "eventCount": 1104,
-      "ageSeconds": 723,
+      "ageSeconds": 740,
       "focus": "PPRO - Staff Frontend Engineer",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 140280,
+      "ageSeconds": 140297,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 18891,
+      "ageSeconds": 18908,
       "focus": "Just a moment...",
       "recent": [
         {
