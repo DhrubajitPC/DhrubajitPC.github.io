@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T11:48:09.064629+00:00",
-  "appliedCount": 40,
-  "total": 128,
+  "generatedAt": "2026-08-25T11:48:36.176826+00:00",
+  "appliedCount": 41,
+  "total": 129,
   "applications": [
     {
       "agent": "Alice",
@@ -98,6 +98,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
+      "date": "2026-08-25"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "epilot",
+      "role": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+      "city": "",
+      "url": "https://epilot.recruitee.com/o/senior-product-engineer-frontend",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Recruitee /applied page",
       "date": "2026-08-25"
     },
     {
