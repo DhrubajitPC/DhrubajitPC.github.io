@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-08-25T03:06:27.463941+00:00",
+  "generatedAt": "2026-08-25T03:18:08.235976+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-08-25T03:05:29.490Z",
-      "eventCount": 880,
-      "ageSeconds": 57,
-      "focus": "Senior Front End Engineer \u2013 Quantum-Systems GmbH \u2013 Gilching | Arbeitnow",
+      "status": "recent",
+      "lastSeen": "2026-08-25T03:07:10.821Z",
+      "eventCount": 882,
+      "ageSeconds": 657,
+      "focus": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application",
       "recent": [
+        {
+          "ts": "2026-08-25T03:07:10.821Z",
+          "kind": "browsing",
+          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
+        },
+        {
+          "ts": "2026-08-25T03:06:51.228Z",
+          "kind": "browsing",
+          "detail": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
+        },
         {
           "ts": "2026-08-25T03:05:29.490Z",
           "kind": "browsing",
@@ -38,19 +48,17 @@
           "ts": "2026-08-25T03:00:53.653Z",
           "kind": "browsing",
           "detail": "Senior Fullstack Developer"
-        },
-        {
-          "ts": "2026-08-25T02:58:25.790Z",
-          "kind": "browsing",
-          "detail": "Buena (Berlin): Senior Software Engineer (m/f/d)"
-        },
-        {
-          "ts": "2026-08-25T02:55:44.141Z",
-          "kind": "browsing",
-          "detail": "&quot;senior frontend engineer&quot; react typescript berlin (site:job-boards.greenhouse.io OR site:jobs.lever.co OR site:boards.greenhouse.io) - Search"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd/c/new",
+          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
+        },
+        {
+          "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd",
+          "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
+        },
         {
           "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-front-end-engineer-gilching-347638",
           "title": "Senior Front End Engineer \u2013 Quantum-Systems GmbH \u2013 Gilching | Arbeitnow"
@@ -62,14 +70,6 @@
         {
           "url": "https://www.google.com/sorry/index",
           "title": "https://www.google.com/search?q=site:jobs.lever.co+%22senior+frontend%22+Berlin+React+TypeScript"
-        },
-        {
-          "url": "https://duckduckgo.com/",
-          "title": ""
-        },
-        {
-          "url": "https://small-improvements.breezy.hr/p/81f3eef43657-senior-fullstack-developer/apply/submitted",
-          "title": "Senior Fullstack Developer"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 127812,
+      "ageSeconds": 128513,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 6423,
+      "ageSeconds": 7123,
       "focus": "Just a moment...",
       "recent": [
         {
