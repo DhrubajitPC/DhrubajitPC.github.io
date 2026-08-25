@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T05:19:08.975469+00:00",
+  "generatedAt": "2026-08-25T05:19:52.026117+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
+      "status": "recent",
       "lastSeen": "2026-08-25T05:16:18.800Z",
       "eventCount": 969,
-      "ageSeconds": 170,
+      "ageSeconds": 213,
       "focus": "Easy apply - (Senior) Frontend Engineer - AI (m/f/x) - Scalable GmbH",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 135773,
+      "ageSeconds": 135816,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 14384,
+      "ageSeconds": 14427,
       "focus": "Just a moment...",
       "recent": [
         {
