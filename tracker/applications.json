@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T12:01:44.781200+00:00",
-  "appliedCount": 41,
-  "total": 129,
+  "generatedAt": "2026-08-25T12:02:16.188126+00:00",
+  "appliedCount": 42,
+  "total": 130,
   "applications": [
     {
       "agent": "Alice",
@@ -50,6 +50,19 @@
       "agent": "Alice",
       "date": "posted 28 Apr 2026",
       "notes": "JOIN /apply/success page"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Chapter2",
+      "role": "Senior Product Engineer",
+      "city": "",
+      "url": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Teamtailor thanks page",
+      "match_url": "7869384",
+      "date": "2026-08-25"
     },
     {
       "agent": "Alice",
