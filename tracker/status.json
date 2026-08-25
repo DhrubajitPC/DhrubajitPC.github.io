@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-25T02:34:24.010848+00:00",
+  "generatedAt": "2026-08-25T02:34:53.958963+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T02:34:15.690Z",
-      "eventCount": 778,
-      "ageSeconds": 8,
-      "focus": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Applied",
+      "lastSeen": "2026-08-25T02:34:39.001Z",
+      "eventCount": 779,
+      "ageSeconds": 14,
+      "focus": "https://www.google.com/search?q=site%3Ajob-boards.greenhouse.io+%22senior%22+frontend+engineer+react+typescript+berlin&amp;num=30",
       "recent": [
+        {
+          "ts": "2026-08-25T02:34:39.001Z",
+          "kind": "browsing",
+          "detail": "https://www.google.com/search?q=site%3Ajob-boards.greenhouse.io+%22senior%22+frontend+engineer+react+typescript+berlin&amp;num=30"
+        },
         {
           "ts": "2026-08-25T02:33:11.099Z",
           "kind": "desktop",
@@ -43,14 +48,13 @@
           "ts": "2026-08-25T02:24:20.259Z",
           "kind": "browsing",
           "detail": "duckduckgo.com"
-        },
-        {
-          "ts": "2026-08-25T02:23:54.268Z",
-          "kind": "browsing",
-          "detail": "https://www.google.com/search?num=30&amp;q=site%3Acareers.smartrecruiters.com%20Berlin%20%22Frontend%20Engineer%22%20React"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://www.google.com/sorry/index",
+          "title": "https://www.google.com/search?q=site%3Ajob-boards.greenhouse.io+%22senior%22+frontend+engineer+react+typescript+berlin&amp;num=30"
+        },
         {
           "url": "https://jobs.idealo.com/o/senior-frontend-engineer-mwd-react-kafka-kotlin/applied",
           "title": "idealo internet GmbH - Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin - Applied"
@@ -66,10 +70,6 @@
         {
           "url": "https://www.idealo.de/karriere/jobs",
           "title": "Not Found"
-        },
-        {
-          "url": "https://www.bing.com/search",
-          "title": "site:careers.smartrecruiters.com Berlin senior frontend engineer React - Search"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 125888,
+      "ageSeconds": 125918,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 4499,
+      "ageSeconds": 4529,
       "focus": "Just a moment...",
       "recent": [
         {
