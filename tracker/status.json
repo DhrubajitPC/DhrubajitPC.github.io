@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-25T11:31:12.016356+00:00",
+  "generatedAt": "2026-08-25T11:48:09.024532+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-25T11:28:35.082Z",
-      "eventCount": 1189,
-      "ageSeconds": 156,
-      "focus": "Senior JavaScript Engineer (all genders) | Jobs at ePages GmbH",
+      "lastSeen": "2026-08-25T11:47:50.568Z",
+      "eventCount": 1209,
+      "ageSeconds": 18,
+      "focus": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer",
       "recent": [
         {
-          "ts": "2026-08-25T11:28:20.383Z",
+          "ts": "2026-08-25T11:47:03.729Z",
           "kind": "browsing",
-          "detail": "Senior JavaScript Engineer (all genders) | Jobs at ePages GmbH"
+          "detail": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer"
         },
         {
-          "ts": "2026-08-25T11:28:07.957Z",
-          "kind": "browsing",
-          "detail": "https://epages-gmbh.jobs.personio.de/job/201909"
-        },
-        {
-          "ts": "2026-08-25T11:16:01.744Z",
+          "ts": "2026-08-25T11:46:33.742Z",
           "kind": "desktop",
-          "detail": "42 actions, 594s"
+          "detail": "34 actions, 318s"
         },
         {
-          "ts": "2026-08-25T11:15:41.253Z",
+          "ts": "2026-08-25T11:41:35.736Z",
           "kind": "browsing",
-          "detail": "Thank you for applying"
+          "detail": "Senior Software Engineer (all genders) | Jobs at Capmo"
         },
         {
-          "ts": "2026-08-25T11:14:00.445Z",
+          "ts": "2026-08-25T11:41:20.799Z",
           "kind": "browsing",
-          "detail": "https://mail.google.com/mail/u/0/"
+          "detail": "https://capmo.jobs.personio.de/job/421537"
         },
         {
-          "ts": "2026-08-25T11:06:12.437Z",
-          "kind": "browsing",
-          "detail": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004"
-        },
-        {
-          "ts": "2026-08-25T11:05:40.244Z",
+          "ts": "2026-08-25T11:40:45.984Z",
           "kind": "desktop",
-          "detail": "27 actions, 179s"
+          "detail": "42 actions, 432s"
         },
         {
-          "ts": "2026-08-25T11:02:51.295Z",
+          "ts": "2026-08-25T11:40:25.925Z",
           "kind": "browsing",
-          "detail": "Senior Frontend Developer (all genders) | Jobs at valantic DXA GmbH"
+          "detail": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Applied"
+        },
+        {
+          "ts": "2026-08-25T11:33:59.911Z",
+          "kind": "browsing",
+          "detail": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Application"
+        },
+        {
+          "ts": "2026-08-25T11:33:38.657Z",
+          "kind": "browsing",
+          "detail": "https://epilot.recruitee.com/o/senior-product-engineer-frontend"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://epages-gmbh.jobs.personio.de/job/201909/apply",
-          "title": "Senior JavaScript Engineer (all genders) | Jobs at ePages GmbH"
-        },
-        {
-          "url": "https://epages-gmbh.jobs.personio.de/job/201909",
+          "url": "https://chapter2.teamtailor.com/jobs/7869384-senior-product-engineer",
           "title": ""
         },
         {
-          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004/confirmation",
-          "title": "Thank you for applying"
+          "url": "https://capmo.jobs.personio.de/job/421537/apply",
+          "title": "Senior Software Engineer (all genders) | Jobs at Capmo"
         },
         {
-          "url": "https://mail.google.com/mail/u/0/",
+          "url": "https://capmo.jobs.personio.de/job/421537",
           "title": ""
         },
         {
-          "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004",
-          "title": ""
+          "url": "https://epilot.recruitee.com/o/senior-product-engineer-frontend/applied",
+          "title": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Applied"
+        },
+        {
+          "url": "https://epilot.recruitee.com/o/senior-product-engineer-frontend/c/new",
+          "title": "epilot GmbH - Senior/Staff Product Engineer (Frontend) (m/f/d) - Application"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 158096,
+      "ageSeconds": 159113,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 36707,
+      "ageSeconds": 37724,
       "focus": "Just a moment...",
       "recent": [
         {
