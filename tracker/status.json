@@ -1,14 +1,39 @@
 {
-  "generatedAt": "2026-08-25T03:18:08.235976+00:00",
+  "generatedAt": "2026-08-25T03:32:19.250676+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "recent",
-      "lastSeen": "2026-08-25T03:07:10.821Z",
-      "eventCount": 882,
-      "ageSeconds": 657,
-      "focus": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application",
+      "lastSeen": "2026-08-25T03:28:04.385Z",
+      "eventCount": 914,
+      "ageSeconds": 254,
+      "focus": "Lead Web Engineer | Genki | Jobs By Workable",
       "recent": [
+        {
+          "ts": "2026-08-25T03:28:04.385Z",
+          "kind": "browsing",
+          "detail": "Lead Web Engineer | Genki | Jobs By Workable"
+        },
+        {
+          "ts": "2026-08-25T03:25:16.489Z",
+          "kind": "desktop",
+          "detail": "15 actions, 184s"
+        },
+        {
+          "ts": "2026-08-25T03:24:52.924Z",
+          "kind": "browsing",
+          "detail": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+        },
+        {
+          "ts": "2026-08-25T03:24:39.559Z",
+          "kind": "browsing",
+          "detail": "https://join.com/companies/birdravecom/16079185/apply/authentication"
+        },
+        {
+          "ts": "2026-08-25T03:22:20.789Z",
+          "kind": "browsing",
+          "detail": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d"
+        },
         {
           "ts": "2026-08-25T03:07:10.821Z",
           "kind": "browsing",
@@ -23,34 +48,21 @@
           "ts": "2026-08-25T03:05:29.490Z",
           "kind": "browsing",
           "detail": "Senior Front End Engineer \u2013 Quantum-Systems GmbH \u2013 Gilching | Arbeitnow"
-        },
-        {
-          "ts": "2026-08-25T03:04:01.870Z",
-          "kind": "browsing",
-          "detail": "site:job-boards.greenhouse.io senior frontend engineer Berlin React TypeScript - Search"
-        },
-        {
-          "ts": "2026-08-25T03:02:46.871Z",
-          "kind": "browsing",
-          "detail": "https://www.google.com/search?q=site:jobs.lever.co+%22senior+frontend%22+Berlin+React+TypeScript"
-        },
-        {
-          "ts": "2026-08-25T03:02:05.349Z",
-          "kind": "browsing",
-          "detail": "https://duckduckgo.com/"
-        },
-        {
-          "ts": "2026-08-25T03:01:13.294Z",
-          "kind": "desktop",
-          "detail": "34 actions, 842s"
-        },
-        {
-          "ts": "2026-08-25T03:00:53.653Z",
-          "kind": "browsing",
-          "detail": "Senior Fullstack Developer"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://jobs.workable.com/view/aVx3Xr7cSQR24p2rNsrkLZ/remote-lead-web-engineer-in-germany-at-genki",
+          "title": "Lead Web Engineer | Genki | Jobs By Workable"
+        },
+        {
+          "url": "https://join.com/companies/birdravecom/16079185/apply/authentication",
+          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+        },
+        {
+          "url": "https://join.com/companies/birdravecom/16578265-senior-frontend-engineer-f-m-d",
+          "title": "BirdRave (Berlin): Senior Frontend Engineer (f/m/d)"
+        },
         {
           "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd/c/new",
           "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d) - Application"
@@ -58,18 +70,6 @@
         {
           "url": "https://career.quantum-systems.com/o/senior-front-end-engineer-mfd",
           "title": "Quantum-Systems GmbH - (Senior) Front End Engineer (m/f/d)"
-        },
-        {
-          "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-front-end-engineer-gilching-347638",
-          "title": "Senior Front End Engineer \u2013 Quantum-Systems GmbH \u2013 Gilching | Arbeitnow"
-        },
-        {
-          "url": "https://www.bing.com/search",
-          "title": "site:job-boards.greenhouse.io senior frontend engineer Berlin React TypeScript - Search"
-        },
-        {
-          "url": "https://www.google.com/sorry/index",
-          "title": "https://www.google.com/search?q=site:jobs.lever.co+%22senior+frontend%22+Berlin+React+TypeScript"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-23T15:36:15.234Z",
       "eventCount": 148,
-      "ageSeconds": 128513,
+      "ageSeconds": 129364,
       "focus": "SmartRecruiters",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 7123,
+      "ageSeconds": 7974,
       "focus": "Just a moment...",
       "recent": [
         {
