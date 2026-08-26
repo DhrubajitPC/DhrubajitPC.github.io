@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:47:40.555782+00:00",
+  "generatedAt": "2026-08-26T00:05:27.568569+00:00",
   "appliedCount": 44,
   "total": 132,
   "applications": [
@@ -13,7 +13,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -62,7 +62,7 @@
       "applied": true,
       "notes": "Teamtailor thanks page",
       "match_url": "7215922",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -75,7 +75,7 @@
       "applied": true,
       "notes": "Teamtailor thanks page",
       "match_url": "7869384",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -88,7 +88,7 @@
       "applied": true,
       "notes": "Greenhouse confirmation page",
       "match_url": "5748779004",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -100,7 +100,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -112,7 +112,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -124,7 +124,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -136,7 +136,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Recruitee /applied page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -148,7 +148,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Recruitee /applied page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -160,7 +160,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "jobs.idealo.com /applied page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -172,7 +172,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Thank you for applying page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -208,7 +208,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice added to submitted tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -220,7 +220,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Recruitee /applied page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -232,7 +232,7 @@
       "status": "applying",
       "applied": true,
       "notes": "Long Lever/apply session in progress",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -245,7 +245,7 @@
       "applied": true,
       "notes": "JOIN /apply/success page",
       "match_url": "15982556",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -293,7 +293,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -305,7 +305,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Lever /thanks page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -401,7 +401,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Breezy /apply/submitted page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -413,7 +413,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Alice",
@@ -425,7 +425,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Thank you for applying page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -473,7 +473,7 @@
       "status": "submitted",
       "applied": true,
       "notes": "Alice tally",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -1037,7 +1037,7 @@
       "status": "needs you",
       "applied": false,
       "notes": "join.com email link",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -1205,7 +1205,7 @@
       "status": "needs you",
       "applied": false,
       "notes": "SuccessFactors login",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -1577,7 +1577,7 @@
       "status": "applying",
       "applied": true,
       "notes": "On careers page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "agent": "Mike",
@@ -1589,7 +1589,7 @@
       "status": "applied",
       "applied": true,
       "notes": "SmartRecruiters success page",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     }
   ]
 }
