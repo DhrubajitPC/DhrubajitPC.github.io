@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T02:18:14.248629+00:00",
+  "generatedAt": "2026-08-26T02:34:59.680715+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
+      "status": "idle",
       "lastSeen": "2026-08-26T02:11:12.024Z",
       "eventCount": 1341,
-      "ageSeconds": 422,
+      "ageSeconds": 1427,
       "focus": "Senior Software Engineer (f/m/x) | Jobs at Tanso Technologies GmbH",
       "recent": [
         {
@@ -75,12 +75,17 @@
     },
     {
       "name": "Julie",
-      "status": "active",
-      "lastSeen": "2026-08-26T02:17:43.360Z",
-      "eventCount": 177,
-      "ageSeconds": 30,
+      "status": "recent",
+      "lastSeen": "2026-08-26T02:21:32.896Z",
+      "eventCount": 179,
+      "ageSeconds": 806,
       "focus": "https://jobs.lever.co/tracksuit-limited/cee931a3-7b01-4688-91b8-056dbc231fd2/apply",
       "recent": [
+        {
+          "ts": "2026-08-26T02:21:32.896Z",
+          "kind": "desktop",
+          "detail": "18 actions, 244s"
+        },
         {
           "ts": "2026-08-26T02:17:32.612Z",
           "kind": "browsing",
@@ -115,11 +120,6 @@
           "ts": "2026-08-23T15:35:26.523Z",
           "kind": "browsing",
           "detail": "Air New Zealand Senior Software Engineer (Front end) | SmartRecruiters"
-        },
-        {
-          "ts": "2026-08-23T15:35:07.091Z",
-          "kind": "browsing",
-          "detail": "We&#39;re sorry, we can&#39;t find the page you have requested. | Air New Zealand"
         }
       ],
       "recentUrls": [
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 89929,
+      "ageSeconds": 90935,
       "focus": "Just a moment...",
       "recent": [
         {
