@@ -1,16 +1,36 @@
 {
-  "generatedAt": "2026-08-26T02:02:00.264384+00:00",
+  "generatedAt": "2026-08-26T02:17:46.165381+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-08-26T02:00:47.174Z",
-      "eventCount": 1331,
-      "ageSeconds": 73,
-      "focus": "Senior Full-Stack Engineer (m/f/x) | hybrid",
+      "status": "recent",
+      "lastSeen": "2026-08-26T02:11:12.024Z",
+      "eventCount": 1341,
+      "ageSeconds": 394,
+      "focus": "Senior Software Engineer (f/m/x) | Jobs at Tanso Technologies GmbH",
       "recent": [
         {
-          "ts": "2026-08-26T02:00:47.174Z",
+          "ts": "2026-08-26T02:11:02.220Z",
+          "kind": "desktop",
+          "detail": "37 actions, 361s"
+        },
+        {
+          "ts": "2026-08-26T02:05:19.031Z",
+          "kind": "browsing",
+          "detail": "Senior Software Engineer (f/m/x) | Jobs at Tanso Technologies GmbH"
+        },
+        {
+          "ts": "2026-08-26T02:05:05.381Z",
+          "kind": "browsing",
+          "detail": "https://tanso.jobs.personio.de/job/2765034"
+        },
+        {
+          "ts": "2026-08-26T02:04:33.427Z",
+          "kind": "desktop",
+          "detail": "24 actions, 241s"
+        },
+        {
+          "ts": "2026-08-26T02:04:15.196Z",
           "kind": "browsing",
           "detail": "Senior Full-Stack Engineer (m/f/x) | hybrid"
         },
@@ -28,29 +48,21 @@
           "ts": "2026-08-26T01:51:34.767Z",
           "kind": "browsing",
           "detail": "Senior AI-Native Fullstack Engineer (m/w/d) | Jobs at zvoove"
-        },
-        {
-          "ts": "2026-08-26T01:51:21.397Z",
-          "kind": "browsing",
-          "detail": "https://zvoove.jobs.personio.de/job/2745218"
-        },
-        {
-          "ts": "2026-08-25T12:28:42.709Z",
-          "kind": "desktop",
-          "detail": "38 actions, 383s"
-        },
-        {
-          "ts": "2026-08-25T12:28:29.412Z",
-          "kind": "browsing",
-          "detail": "nyra health - Senior Product Engineer (AI-native) (m/f/x) - Applied"
-        },
-        {
-          "ts": "2026-08-25T12:22:23.807Z",
-          "kind": "browsing",
-          "detail": "https://nyrahealth.recruitee.com/o/senior-product-engineer-ai-native-mfx/c/new"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://tanso.jobs.personio.de/job/2765034/apply",
+          "title": "Senior Software Engineer (f/m/x) | Jobs at Tanso Technologies GmbH"
+        },
+        {
+          "url": "https://tanso.jobs.personio.de/job/2765034",
+          "title": ""
+        },
+        {
+          "url": "https://fleetster.breezy.hr/p/f4e2d3568c9a-senior-full-stack-engineer-m-f-x-hybrid/apply/submitted",
+          "title": "Senior Full-Stack Engineer (m/f/x) | hybrid"
+        },
         {
           "url": "https://fleetster.breezy.hr/p/f4e2d3568c9a-senior-full-stack-engineer-m-f-x-hybrid/apply",
           "title": "Senior Full-Stack Engineer (m/f/x) | hybrid"
@@ -58,29 +70,37 @@
         {
           "url": "https://fleetster.breezy.hr/p/f4e2d3568c9a-senior-full-stack-engineer-m-f-x-hybrid",
           "title": ""
-        },
-        {
-          "url": "https://zvoove.jobs.personio.de/job/2745218/apply",
-          "title": "Senior AI-Native Fullstack Engineer (m/w/d) | Jobs at zvoove"
-        },
-        {
-          "url": "https://zvoove.jobs.personio.de/job/2745218",
-          "title": ""
-        },
-        {
-          "url": "https://nyrahealth.recruitee.com/o/senior-product-engineer-ai-native-mfx/applied",
-          "title": "nyra health - Senior Product Engineer (AI-native) (m/f/x) - Applied"
         }
       ]
     },
     {
       "name": "Julie",
-      "status": "idle",
-      "lastSeen": "2026-08-23T15:36:15.234Z",
-      "eventCount": 148,
-      "ageSeconds": 210345,
-      "focus": "SmartRecruiters",
+      "status": "active",
+      "lastSeen": "2026-08-26T02:17:43.360Z",
+      "eventCount": 177,
+      "ageSeconds": 2,
+      "focus": "https://jobs.lever.co/tracksuit-limited/cee931a3-7b01-4688-91b8-056dbc231fd2/apply",
       "recent": [
+        {
+          "ts": "2026-08-26T02:17:32.612Z",
+          "kind": "browsing",
+          "detail": "https://jobs.lever.co/tracksuit-limited/cee931a3-7b01-4688-91b8-056dbc231fd2/apply"
+        },
+        {
+          "ts": "2026-08-26T02:17:17.350Z",
+          "kind": "desktop",
+          "detail": "43 actions, 480s"
+        },
+        {
+          "ts": "2026-08-26T02:09:30.319Z",
+          "kind": "browsing",
+          "detail": "Senior Engineers - Product &amp; Engineering @ Halter"
+        },
+        {
+          "ts": "2026-08-26T02:09:21.484Z",
+          "kind": "browsing",
+          "detail": "https://jobs.ashbyhq.com/halter/47506f11-a952-4b34-9672-75195b50566c"
+        },
         {
           "ts": "2026-08-23T15:36:15.234Z",
           "kind": "desktop",
@@ -100,29 +120,21 @@
           "ts": "2026-08-23T15:35:07.091Z",
           "kind": "browsing",
           "detail": "We&#39;re sorry, we can&#39;t find the page you have requested. | Air New Zealand"
-        },
-        {
-          "ts": "2026-08-23T15:35:04.044Z",
-          "kind": "browsing",
-          "detail": "https://careers.airnewzealand.co.nz/job/senior-software-engineer-front-end-in-auckland-nz-jid-901"
-        },
-        {
-          "ts": "2026-08-23T15:33:46.884Z",
-          "kind": "desktop",
-          "detail": "40 actions, 308s"
-        },
-        {
-          "ts": "2026-08-23T15:28:46.168Z",
-          "kind": "browsing",
-          "detail": "https://kami.bamboohr.com/careers/147"
-        },
-        {
-          "ts": "2026-08-23T15:26:56.387Z",
-          "kind": "desktop",
-          "detail": "3 actions, 49s"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://jobs.lever.co/tracksuit-limited/cee931a3-7b01-4688-91b8-056dbc231fd2/apply",
+          "title": ""
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/halter/47506f11-a952-4b34-9672-75195b50566c/application",
+          "title": "Senior Engineers - Product &amp; Engineering @ Halter"
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/halter/47506f11-a952-4b34-9672-75195b50566c",
+          "title": ""
+        },
         {
           "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da",
           "title": "SmartRecruiters"
@@ -130,18 +142,6 @@
         {
           "url": "https://jobs.smartrecruiters.com/AirNewZealand/08305968-9821-446d-97c1-cb707996f0da",
           "title": "Air New Zealand Senior Software Engineer (Front end) | SmartRecruiters"
-        },
-        {
-          "url": "https://careers.airnewzealand.co.nz/404",
-          "title": "We&#39;re sorry, we can&#39;t find the page you have requested. | Air New Zealand"
-        },
-        {
-          "url": "https://careers.airnewzealand.co.nz/job/senior-software-engineer-front-end-in-auckland-nz-jid-901",
-          "title": ""
-        },
-        {
-          "url": "https://kami.bamboohr.com/careers/147",
-          "title": ""
         }
       ]
     },
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 88955,
+      "ageSeconds": 89901,
       "focus": "Just a moment...",
       "recent": [
         {
