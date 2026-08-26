@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T05:31:19.617124+00:00",
-  "appliedCount": 45,
-  "total": 133,
+  "generatedAt": "2026-08-26T05:33:03.806123+00:00",
+  "appliedCount": 50,
+  "total": 138,
   "applications": [
     {
       "agent": "Alice",
@@ -452,6 +452,18 @@
       "notes": "Rejection received"
     },
     {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "Tanso",
+      "role": "Senior Software Engineer (f/m/x)",
+      "city": "",
+      "url": "https://tanso.jobs.personio.de/job/2765034/apply",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Personio apply page",
+      "date": "2026-08-26"
+    },
+    {
       "board": "Germany",
       "company": "TextCortex AI",
       "role": "Senior Frontend Engineer (React, TypeScript)",
@@ -498,6 +510,18 @@
       "agent": "Alice",
       "date": "",
       "notes": "Alice tally"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "zvoove",
+      "role": "Senior AI-Native Fullstack Engineer (m/w/d)",
+      "city": "",
+      "url": "https://zvoove.jobs.personio.de/job/2745218/apply",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Personio apply page",
+      "date": "2026-08-26"
     },
     {
       "board": "Germany",
@@ -1506,6 +1530,42 @@
       "agent": "Julie",
       "date": "2026-08-23",
       "notes": "Form filled; SmartRecruiters error"
+    },
+    {
+      "agent": "Julie",
+      "board": "New Zealand",
+      "company": "Halter",
+      "role": "Senior Engineers - Product & Engineering",
+      "city": "",
+      "url": "https://jobs.ashbyhq.com/halter/47506f11-a952-4b34-9672-75195b50566c/application",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Ashby application page",
+      "date": "2026-08-26"
+    },
+    {
+      "agent": "Julie",
+      "board": "New Zealand",
+      "company": "MYOB",
+      "role": "Senior Front End Developer - Data & AI",
+      "city": "",
+      "url": "https://jobs.lever.co/myob-2/f06346c0-0621-4101-ad2b-cbae3a8af56b/apply",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Lever apply page",
+      "date": "2026-08-26"
+    },
+    {
+      "agent": "Julie",
+      "board": "New Zealand",
+      "company": "Tracksuit",
+      "role": "Lever listing",
+      "city": "",
+      "url": "https://jobs.lever.co/tracksuit-limited/cee931a3-7b01-4688-91b8-056dbc231fd2/apply",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Lever apply page",
+      "date": "2026-08-26"
     },
     {
       "board": "New Zealand",
