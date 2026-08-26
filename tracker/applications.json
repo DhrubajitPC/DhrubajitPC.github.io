@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T02:17:46.210021+00:00",
-  "appliedCount": 44,
-  "total": 132,
+  "generatedAt": "2026-08-26T02:18:14.287366+00:00",
+  "appliedCount": 45,
+  "total": 133,
   "applications": [
     {
       "agent": "Alice",
@@ -136,6 +136,18 @@
       "status": "submitted",
       "applied": true,
       "notes": "Recruitee /applied page",
+      "date": "2026-08-26"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "fleetster",
+      "role": "Senior Full-Stack Engineer (m/f/x)",
+      "city": "",
+      "url": "https://fleetster.breezy.hr/p/f4e2d3568c9a-senior-full-stack-engineer-m-f-x-hybrid",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Breezy /apply/submitted page",
       "date": "2026-08-26"
     },
     {
