@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-27T04:19:17.561115+00:00",
+  "generatedAt": "2026-08-27T04:33:29.592020+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-27T02:33:31.346Z",
       "eventCount": 1387,
-      "ageSeconds": 6346,
+      "ageSeconds": 7198,
       "focus": "Thank you for applying",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-26T05:36:53.056Z",
       "eventCount": 191,
-      "ageSeconds": 81744,
+      "ageSeconds": 82596,
       "focus": "MYOB - Senior Front End Developer - Data &amp; AI",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 183593,
+      "ageSeconds": 184445,
       "focus": "Just a moment...",
       "recent": [
         {
