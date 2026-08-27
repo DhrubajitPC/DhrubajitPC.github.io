@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T05:03:59.755132+00:00",
+  "generatedAt": "2026-08-27T05:19:30.243963+00:00",
   "appliedCount": 51,
   "total": 139,
   "applications": [
@@ -1557,16 +1557,16 @@
       "date": "2026-08-27"
     },
     {
-      "agent": "Julie",
       "board": "New Zealand",
       "company": "MYOB",
-      "role": "Senior Front End Developer - Data & AI",
-      "city": "",
+      "role": "Senior Front End Developer Data & AI",
+      "city": "Auckland",
       "url": "https://jobs.lever.co/myob-2/f06346c0-0621-4101-ad2b-cbae3a8af56b/apply",
       "status": "applying",
       "applied": true,
-      "notes": "On Lever apply page",
-      "date": "2026-08-27"
+      "agent": "Julie",
+      "date": "2026-08-27",
+      "notes": "On Lever apply page"
     },
     {
       "agent": "Julie",
