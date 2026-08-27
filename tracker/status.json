@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-27T02:17:58.427433+00:00",
+  "generatedAt": "2026-08-27T02:30:58.990284+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-08-27T02:17:32.314Z",
-      "eventCount": 1368,
-      "ageSeconds": 26,
-      "focus": "Senior Software Engineer (f/m/x) | Jobs at Tanso Technologies GmbH",
+      "status": "recent",
+      "lastSeen": "2026-08-27T02:26:01.635Z",
+      "eventCount": 1381,
+      "ageSeconds": 297,
+      "focus": "https://job-boards.greenhouse.io/autoscout24/jobs/7544688003",
       "recent": [
+        {
+          "ts": "2026-08-27T02:26:01.635Z",
+          "kind": "browsing",
+          "detail": "https://job-boards.greenhouse.io/autoscout24/jobs/7544688003"
+        },
         {
           "ts": "2026-08-26T02:11:02.220Z",
           "kind": "desktop",
@@ -43,14 +48,13 @@
           "ts": "2026-08-26T01:55:24.802Z",
           "kind": "desktop",
           "detail": "25 actions, 252s"
-        },
-        {
-          "ts": "2026-08-26T01:51:34.767Z",
-          "kind": "browsing",
-          "detail": "Senior AI-Native Fullstack Engineer (m/w/d) | Jobs at zvoove"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://job-boards.greenhouse.io/autoscout24/jobs/7544688003",
+          "title": ""
+        },
         {
           "url": "https://tanso.jobs.personio.de/job/2765034/apply",
           "title": "Senior Software Engineer (f/m/x) | Jobs at Tanso Technologies GmbH"
@@ -66,10 +70,6 @@
         {
           "url": "https://fleetster.breezy.hr/p/f4e2d3568c9a-senior-full-stack-engineer-m-f-x-hybrid/apply",
           "title": "Senior Full-Stack Engineer (m/f/x) | hybrid"
-        },
-        {
-          "url": "https://fleetster.breezy.hr/p/f4e2d3568c9a-senior-full-stack-engineer-m-f-x-hybrid",
-          "title": ""
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-26T05:36:53.056Z",
       "eventCount": 191,
-      "ageSeconds": 74465,
+      "ageSeconds": 75245,
       "focus": "MYOB - Senior Front End Developer - Data &amp; AI",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 176314,
+      "ageSeconds": 177094,
       "focus": "Just a moment...",
       "recent": [
         {
