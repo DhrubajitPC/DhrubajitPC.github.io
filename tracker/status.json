@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-27T05:03:59.701457+00:00",
+  "generatedAt": "2026-08-27T05:19:30.195056+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-27T02:33:31.346Z",
       "eventCount": 1387,
-      "ageSeconds": 9028,
+      "ageSeconds": 9958,
       "focus": "Thank you for applying",
       "recent": [
         {
@@ -75,12 +75,17 @@
     },
     {
       "name": "Julie",
-      "status": "idle",
-      "lastSeen": "2026-08-26T05:36:53.056Z",
-      "eventCount": 191,
-      "ageSeconds": 84426,
-      "focus": "MYOB - Senior Front End Developer - Data &amp; AI",
+      "status": "active",
+      "lastSeen": "2026-08-27T05:18:07.741Z",
+      "eventCount": 197,
+      "ageSeconds": 82,
+      "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
+        {
+          "ts": "2026-08-27T05:17:26.016Z",
+          "kind": "browsing",
+          "detail": "Foodstuffs North Island - Full Stack Developer - Liquorland"
+        },
         {
           "ts": "2026-08-26T05:36:53.056Z",
           "kind": "desktop",
@@ -115,14 +120,13 @@
           "ts": "2026-08-26T02:09:21.484Z",
           "kind": "browsing",
           "detail": "https://jobs.ashbyhq.com/halter/47506f11-a952-4b34-9672-75195b50566c"
-        },
-        {
-          "ts": "2026-08-23T15:36:15.234Z",
-          "kind": "desktop",
-          "detail": "4 actions, 77s"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://jobs.lever.co/foodstuffs/8fd9b368-3e35-403d-8096-a03cf83fc0d8/apply",
+          "title": "Foodstuffs North Island - Full Stack Developer - Liquorland"
+        },
         {
           "url": "https://jobs.lever.co/myob-2/f06346c0-0621-4101-ad2b-cbae3a8af56b/apply",
           "title": "MYOB - Senior Front End Developer - Data &amp; AI"
@@ -138,10 +142,6 @@
         {
           "url": "https://jobs.ashbyhq.com/halter/47506f11-a952-4b34-9672-75195b50566c",
           "title": ""
-        },
-        {
-          "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/AirNewZealand/publication/08305968-9821-446d-97c1-cb707996f0da",
-          "title": "SmartRecruiters"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 186275,
+      "ageSeconds": 187205,
       "focus": "Just a moment...",
       "recent": [
         {
