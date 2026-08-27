@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T14:48:28.435743+00:00",
+  "generatedAt": "2026-08-27T00:04:07.551323+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
-      "lastSeen": "2026-08-26T13:41:16.020Z",
-      "eventCount": 1362,
-      "ageSeconds": 4032,
+      "lastSeen": "2026-08-26T16:07:00.862Z",
+      "eventCount": 1365,
+      "ageSeconds": 28626,
       "focus": "Senior Software Engineer (f/m/x) | Jobs at Tanso Technologies GmbH",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-26T05:36:53.056Z",
       "eventCount": 191,
-      "ageSeconds": 33095,
+      "ageSeconds": 66434,
       "focus": "MYOB - Senior Front End Developer - Data &amp; AI",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 134944,
+      "ageSeconds": 168283,
       "focus": "Just a moment...",
       "recent": [
         {
