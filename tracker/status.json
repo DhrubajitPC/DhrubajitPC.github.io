@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-27T05:19:50.730385+00:00",
+  "generatedAt": "2026-08-27T05:34:15.510984+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-27T02:33:31.346Z",
       "eventCount": 1387,
-      "ageSeconds": 9979,
+      "ageSeconds": 10844,
       "focus": "Thank you for applying",
       "recent": [
         {
@@ -75,12 +75,17 @@
     },
     {
       "name": "Julie",
-      "status": "active",
-      "lastSeen": "2026-08-27T05:18:07.741Z",
-      "eventCount": 197,
-      "ageSeconds": 102,
+      "status": "recent",
+      "lastSeen": "2026-08-27T05:26:26.599Z",
+      "eventCount": 199,
+      "ageSeconds": 468,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
+        {
+          "ts": "2026-08-27T05:26:26.599Z",
+          "kind": "desktop",
+          "detail": "42 actions, 549s"
+        },
         {
           "ts": "2026-08-27T05:17:26.016Z",
           "kind": "browsing",
@@ -115,11 +120,6 @@
           "ts": "2026-08-26T02:09:30.319Z",
           "kind": "browsing",
           "detail": "Senior Engineers - Product &amp; Engineering @ Halter"
-        },
-        {
-          "ts": "2026-08-26T02:09:21.484Z",
-          "kind": "browsing",
-          "detail": "https://jobs.ashbyhq.com/halter/47506f11-a952-4b34-9672-75195b50566c"
         }
       ],
       "recentUrls": [
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 187226,
+      "ageSeconds": 188091,
       "focus": "Just a moment...",
       "recent": [
         {
