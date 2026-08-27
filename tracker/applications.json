@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T02:46:29.440326+00:00",
-  "appliedCount": 50,
-  "total": 138,
+  "generatedAt": "2026-08-27T02:47:13.864416+00:00",
+  "appliedCount": 51,
+  "total": 139,
   "applications": [
     {
       "agent": "Alice",
@@ -38,6 +38,19 @@
       "agent": "Alice",
       "date": "",
       "notes": "You submitted (Ashby)"
+    },
+    {
+      "agent": "Alice",
+      "board": "Germany",
+      "company": "AutoScout24",
+      "role": "Senior Software Engineer / AI Enabler (m/f/d)",
+      "city": "",
+      "url": "https://job-boards.greenhouse.io/autoscout24/jobs/7544688003",
+      "status": "submitted",
+      "applied": true,
+      "notes": "Greenhouse confirmation page",
+      "match_url": "7544688003",
+      "date": "2026-08-27"
     },
     {
       "board": "Germany",
