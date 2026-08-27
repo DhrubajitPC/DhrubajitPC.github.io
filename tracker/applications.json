@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T05:19:30.243963+00:00",
-  "appliedCount": 51,
-  "total": 139,
+  "generatedAt": "2026-08-27T05:19:50.779583+00:00",
+  "appliedCount": 52,
+  "total": 140,
   "applications": [
     {
       "agent": "Alice",
@@ -1543,6 +1543,18 @@
       "agent": "Julie",
       "date": "2026-08-23",
       "notes": "Form filled; SmartRecruiters error"
+    },
+    {
+      "agent": "Julie",
+      "board": "New Zealand",
+      "company": "Foodstuffs North Island",
+      "role": "Full Stack Developer - Liquorland",
+      "city": "",
+      "url": "https://jobs.lever.co/foodstuffs/8fd9b368-3e35-403d-8096-a03cf83fc0d8/apply",
+      "status": "applying",
+      "applied": true,
+      "notes": "On Lever apply page",
+      "date": "2026-08-27"
     },
     {
       "agent": "Julie",
