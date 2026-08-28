@@ -1,14 +1,39 @@
 {
-  "generatedAt": "2026-08-28T11:03:20.308779+00:00",
+  "generatedAt": "2026-08-28T11:17:55.793681+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-08-28T11:03:09.888Z",
-      "eventCount": 1464,
-      "ageSeconds": 10,
-      "focus": "Senior Frontend Software Engineer - Typescript | React | NextJS ( Remote) | Trivelta | LinkedIn",
+      "status": "recent",
+      "lastSeen": "2026-08-28T11:05:27.105Z",
+      "eventCount": 1471,
+      "ageSeconds": 748,
+      "focus": "Malik P. | LinkedIn",
       "recent": [
+        {
+          "ts": "2026-08-28T11:04:28.823Z",
+          "kind": "browsing",
+          "detail": "Malik P. | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:04:20.922Z",
+          "kind": "browsing",
+          "detail": "David Ressler | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:04:01.660Z",
+          "kind": "browsing",
+          "detail": "Search | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:03:45.368Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer | FINN | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:03:29.290Z",
+          "kind": "browsing",
+          "detail": "(13) Senior Frontend Engineer React TypeScript Jobs in Munich, Bavaria, Germany | LinkedIn"
+        },
         {
           "ts": "2026-08-28T11:03:09.888Z",
           "kind": "browsing",
@@ -23,53 +48,28 @@
           "ts": "2026-08-28T11:02:32.291Z",
           "kind": "browsing",
           "detail": "(13) Senior Frontend Engineer React Jobs in Berlin, Germany | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:02:23.009Z",
-          "kind": "browsing",
-          "detail": "Senior Software Engineer, XR World Context | Google | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:02:16.604Z",
-          "kind": "browsing",
-          "detail": "(13) Senior Software Engineer Frontend React Jobs in Germany | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:01:59.707Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Engineer (Full-stack) | Soda | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:01:46.322Z",
-          "kind": "browsing",
-          "detail": "(13) Senior Fullstack Engineer React TypeScript Jobs in Berlin, Germany | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:01:18.648Z",
-          "kind": "browsing",
-          "detail": "\u2728 Senior Software Engineer (TypeScript) (m/f/d) in Munich \u20ac 78.000 - 92.000 / year \u2728 | TrioTech Recruitment | LinkedIn"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://www.linkedin.com/jobs/view/4413552895/",
-          "title": "Senior Frontend Software Engineer - Typescript | React | NextJS ( Remote) | Trivelta | LinkedIn"
+          "url": "https://www.linkedin.com/in/malik-p-b61a66120/",
+          "title": "Malik P. | LinkedIn"
         },
         {
-          "url": "https://www.linkedin.com/jobs/view/4422960667/",
-          "title": "Senior Software Engineer, GraphQL - API Platform | GetYourGuide | LinkedIn"
+          "url": "https://www.linkedin.com/in/davidcressler/",
+          "title": "David Ressler | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/search/results/people/",
+          "title": "Search | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/jobs/view/4404960076/",
+          "title": "Senior Frontend Engineer | FINN | LinkedIn"
         },
         {
           "url": "https://www.linkedin.com/jobs/search/",
-          "title": "(13) Senior Frontend Engineer React Jobs in Berlin, Germany | LinkedIn"
-        },
-        {
-          "url": "https://www.linkedin.com/jobs/view/4458618832/",
-          "title": "Senior Software Engineer, XR World Context | Google | LinkedIn"
-        },
-        {
-          "url": "https://www.linkedin.com/jobs/view/4452491705/",
-          "title": "Senior Frontend Engineer (Full-stack) | Soda | LinkedIn"
+          "title": "(13) Senior Frontend Engineer React TypeScript Jobs in Munich, Bavaria, Germany | LinkedIn"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 106613,
+      "ageSeconds": 107489,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 294235,
+      "ageSeconds": 295111,
       "focus": "Just a moment...",
       "recent": [
         {
