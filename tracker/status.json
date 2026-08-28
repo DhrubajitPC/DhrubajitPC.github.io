@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28T11:32:17.506413+00:00",
+  "generatedAt": "2026-08-28T11:50:17.910693+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-28T11:05:27.105Z",
       "eventCount": 1471,
-      "ageSeconds": 1610,
+      "ageSeconds": 2690,
       "focus": "Malik P. | LinkedIn",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 108350,
+      "ageSeconds": 109431,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -147,12 +147,37 @@
     },
     {
       "name": "Mike",
-      "status": "idle",
-      "lastSeen": "2026-08-25T01:19:24.410Z",
-      "eventCount": 186,
-      "ageSeconds": 295973,
-      "focus": "Just a moment...",
+      "status": "recent",
+      "lastSeen": "2026-08-28T11:46:22.816Z",
+      "eventCount": 194,
+      "ageSeconds": 235,
+      "focus": "Full Stack Engineer | Tata Consultancy Services | LinkedIn",
       "recent": [
+        {
+          "ts": "2026-08-28T11:46:22.816Z",
+          "kind": "desktop",
+          "detail": "48 actions, 481s"
+        },
+        {
+          "ts": "2026-08-28T11:44:17.206Z",
+          "kind": "browsing",
+          "detail": "Full Stack Engineer | Tata Consultancy Services | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:42:12.134Z",
+          "kind": "browsing",
+          "detail": "Front End Fullstack AI Engineers | Tata Consultancy Services | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:40:37.099Z",
+          "kind": "browsing",
+          "detail": "Frontend Developer | Tata Consultancy Services | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:38:42.947Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer | Tata Consultancy Services | LinkedIn"
+        },
         {
           "ts": "2026-08-25T01:19:24.410Z",
           "kind": "desktop",
@@ -167,53 +192,28 @@
           "ts": "2026-08-25T01:18:58.757Z",
           "kind": "browsing",
           "detail": "Full Stack Engineer at Tata Consultancy Services \u2014 Greater Sydney Area | LinkedIn Jobs"
-        },
-        {
-          "ts": "2026-08-25T01:18:27.912Z",
-          "kind": "browsing",
-          "detail": "Front End Fullstack AI Engineers at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
-        },
-        {
-          "ts": "2026-08-25T01:18:09.020Z",
-          "kind": "browsing",
-          "detail": "Sign Up | LinkedIn"
-        },
-        {
-          "ts": "2026-08-25T01:17:47.114Z",
-          "kind": "browsing",
-          "detail": "Frontend Developer at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
-        },
-        {
-          "ts": "2026-08-25T01:17:19.185Z",
-          "kind": "browsing",
-          "detail": "Sign in - Google Accounts"
-        },
-        {
-          "ts": "2026-08-25T01:16:33.811Z",
-          "kind": "browsing",
-          "detail": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-at-tata-consultancy-services-4447919366"
         }
       ],
       "recentUrls": [
         {
+          "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-tata-consultancy-services-4446720440/",
+          "title": "Full Stack Engineer | Tata Consultancy Services | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/jobs/view/front-end-fullstack-ai-engineers-at-tata-consultancy-services-4446728592/",
+          "title": "Front End Fullstack AI Engineers | Tata Consultancy Services | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/jobs/view/frontend-developer-at-tata-consultancy-services-4455638129/",
+          "title": "Frontend Developer | Tata Consultancy Services | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-at-tata-consultancy-services-4447919366/",
+          "title": "Senior Frontend Engineer | Tata Consultancy Services | LinkedIn"
+        },
+        {
           "url": "https://www.linkedin.com/signup/cold-join",
           "title": "Just a moment..."
-        },
-        {
-          "url": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-tata-consultancy-services-4446720440",
-          "title": "Full Stack Engineer at Tata Consultancy Services \u2014 Greater Sydney Area | LinkedIn Jobs"
-        },
-        {
-          "url": "https://au.linkedin.com/jobs/view/front-end-fullstack-ai-engineers-at-tata-consultancy-services-4446728592",
-          "title": "Front End Fullstack AI Engineers at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
-        },
-        {
-          "url": "https://au.linkedin.com/jobs/view/frontend-developer-at-tata-consultancy-services-4455638129",
-          "title": "Frontend Developer at Tata Consultancy Services \u2014 Sydney, New South Wales, Australia | LinkedIn Jobs"
-        },
-        {
-          "url": "https://accounts.google.com/v3/signin/identifier",
-          "title": "Sign in - Google Accounts"
         }
       ]
     }
