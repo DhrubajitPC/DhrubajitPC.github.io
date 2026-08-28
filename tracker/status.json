@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28T03:06:09.643157+00:00",
+  "generatedAt": "2026-08-28T03:17:29.964767+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-28T02:18:58.824Z",
       "eventCount": 1396,
-      "ageSeconds": 2830,
+      "ageSeconds": 3511,
       "focus": "Thank you for applying",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 77983,
+      "ageSeconds": 78663,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 265605,
+      "ageSeconds": 266285,
       "focus": "Just a moment...",
       "recent": [
         {
