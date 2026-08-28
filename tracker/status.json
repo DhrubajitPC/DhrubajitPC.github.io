@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28T11:17:55.793681+00:00",
+  "generatedAt": "2026-08-28T11:32:17.506413+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
+      "status": "idle",
       "lastSeen": "2026-08-28T11:05:27.105Z",
       "eventCount": 1471,
-      "ageSeconds": 748,
+      "ageSeconds": 1610,
       "focus": "Malik P. | LinkedIn",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 107489,
+      "ageSeconds": 108350,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 295111,
+      "ageSeconds": 295973,
       "focus": "Just a moment...",
       "recent": [
         {
