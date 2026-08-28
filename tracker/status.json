@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-28T10:50:09.312581+00:00",
+  "generatedAt": "2026-08-28T11:03:20.308779+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-08-28T10:49:52.844Z",
-      "eventCount": 1439,
-      "ageSeconds": 16,
-      "focus": "Feed | LinkedIn",
+      "lastSeen": "2026-08-28T11:03:09.888Z",
+      "eventCount": 1464,
+      "ageSeconds": 10,
+      "focus": "Senior Frontend Software Engineer - Typescript | React | NextJS ( Remote) | Trivelta | LinkedIn",
       "recent": [
         {
-          "ts": "2026-08-28T10:42:38.388Z",
+          "ts": "2026-08-28T11:03:09.888Z",
           "kind": "browsing",
-          "detail": "Feed | LinkedIn"
+          "detail": "Senior Frontend Software Engineer - Typescript | React | NextJS ( Remote) | Trivelta | LinkedIn"
         },
         {
-          "ts": "2026-08-28T10:41:06.009Z",
+          "ts": "2026-08-28T11:02:47.426Z",
           "kind": "browsing",
-          "detail": "Just a moment..."
+          "detail": "Senior Software Engineer, GraphQL - API Platform | GetYourGuide | LinkedIn"
         },
         {
-          "ts": "2026-08-28T10:40:32.027Z",
+          "ts": "2026-08-28T11:02:32.291Z",
           "kind": "browsing",
-          "detail": "LinkedIn: Log In or Sign Up"
+          "detail": "(13) Senior Frontend Engineer React Jobs in Berlin, Germany | LinkedIn"
         },
         {
-          "ts": "2026-08-28T10:40:22.192Z",
-          "kind": "tool",
-          "detail": "user-Gmail-search_threads"
-        },
-        {
-          "ts": "2026-08-27T02:33:21.555Z",
-          "kind": "desktop",
-          "detail": "45 actions, 445s"
-        },
-        {
-          "ts": "2026-08-27T02:33:07.734Z",
+          "ts": "2026-08-28T11:02:23.009Z",
           "kind": "browsing",
-          "detail": "Thank you for applying"
+          "detail": "Senior Software Engineer, XR World Context | Google | LinkedIn"
         },
         {
-          "ts": "2026-08-27T02:31:01.761Z",
+          "ts": "2026-08-28T11:02:16.604Z",
           "kind": "browsing",
-          "detail": "https://mail.google.com/mail/u/0/"
+          "detail": "(13) Senior Software Engineer Frontend React Jobs in Germany | LinkedIn"
         },
         {
-          "ts": "2026-08-27T02:26:01.635Z",
+          "ts": "2026-08-28T11:01:59.707Z",
           "kind": "browsing",
-          "detail": "https://job-boards.greenhouse.io/autoscout24/jobs/7544688003"
+          "detail": "Senior Frontend Engineer (Full-stack) | Soda | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:01:46.322Z",
+          "kind": "browsing",
+          "detail": "(13) Senior Fullstack Engineer React TypeScript Jobs in Berlin, Germany | LinkedIn"
+        },
+        {
+          "ts": "2026-08-28T11:01:18.648Z",
+          "kind": "browsing",
+          "detail": "\u2728 Senior Software Engineer (TypeScript) (m/f/d) in Munich \u20ac 78.000 - 92.000 / year \u2728 | TrioTech Recruitment | LinkedIn"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://www.linkedin.com/feed/",
-          "title": "Feed | LinkedIn"
+          "url": "https://www.linkedin.com/jobs/view/4413552895/",
+          "title": "Senior Frontend Software Engineer - Typescript | React | NextJS ( Remote) | Trivelta | LinkedIn"
         },
         {
-          "url": "https://www.linkedin.com/checkpoint/challenge/AgEhcUtS0GUhiAAAAaBH9QNHAlSjaNpuR_tfsLg0xfyZjPp_FanvzXPAdfZU8s3o5_hsahIvF1W6FhexmTKJp1-MQ4VsoQ",
-          "title": "Just a moment..."
+          "url": "https://www.linkedin.com/jobs/view/4422960667/",
+          "title": "Senior Software Engineer, GraphQL - API Platform | GetYourGuide | LinkedIn"
         },
         {
-          "url": "https://www.linkedin.com/",
-          "title": "LinkedIn: Log In or Sign Up"
+          "url": "https://www.linkedin.com/jobs/search/",
+          "title": "(13) Senior Frontend Engineer React Jobs in Berlin, Germany | LinkedIn"
         },
         {
-          "url": "https://job-boards.greenhouse.io/autoscout24/jobs/7544688003/confirmation",
-          "title": "Thank you for applying"
+          "url": "https://www.linkedin.com/jobs/view/4458618832/",
+          "title": "Senior Software Engineer, XR World Context | Google | LinkedIn"
         },
         {
-          "url": "https://mail.google.com/mail/u/0/",
-          "title": ""
+          "url": "https://www.linkedin.com/jobs/view/4452491705/",
+          "title": "Senior Frontend Engineer (Full-stack) | Soda | LinkedIn"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 105822,
+      "ageSeconds": 106613,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-25T01:19:24.410Z",
       "eventCount": 186,
-      "ageSeconds": 293444,
+      "ageSeconds": 294235,
       "focus": "Just a moment...",
       "recent": [
         {
