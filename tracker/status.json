@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-29T10:31:50.417707+00:00",
+  "generatedAt": "2026-08-29T10:47:53.328967+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-29T08:31:01.022Z",
       "eventCount": 1474,
-      "ageSeconds": 7249,
+      "ageSeconds": 8212,
       "focus": "Malik P. | LinkedIn",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 191123,
+      "ageSeconds": 192086,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-28T11:46:22.816Z",
       "eventCount": 194,
-      "ageSeconds": 81927,
+      "ageSeconds": 82890,
       "focus": "Full Stack Engineer | Tata Consultancy Services | LinkedIn",
       "recent": [
         {
