@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-30T09:01:07.405529+00:00",
+  "generatedAt": "2026-08-30T09:19:07.316626+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-08-29T17:30:42.154Z",
       "eventCount": 1475,
-      "ageSeconds": 55825,
+      "ageSeconds": 56905,
       "focus": "Malik P. | LinkedIn",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 272080,
+      "ageSeconds": 273160,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-29T17:11:40.423Z",
       "eventCount": 291,
-      "ageSeconds": 56966,
+      "ageSeconds": 58046,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
