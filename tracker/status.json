@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-31T13:46:48.888292+00:00",
+  "generatedAt": "2026-08-31T14:19:05.663682+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
-      "lastSeen": "2026-08-31T06:23:41.275Z",
-      "eventCount": 1476,
-      "ageSeconds": 26587,
+      "lastSeen": "2026-08-31T14:02:38.157Z",
+      "eventCount": 1482,
+      "ageSeconds": 987,
       "focus": "Malik P. | LinkedIn",
       "recent": [
+        {
+          "ts": "2026-08-31T14:02:24.937Z",
+          "kind": "tool",
+          "detail": "user-Gmail-search_threads"
+        },
         {
           "ts": "2026-08-28T11:04:28.823Z",
           "kind": "browsing",
@@ -43,11 +48,6 @@
           "ts": "2026-08-28T11:02:47.426Z",
           "kind": "browsing",
           "detail": "Senior Software Engineer, GraphQL - API Platform | GetYourGuide | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:02:32.291Z",
-          "kind": "browsing",
-          "detail": "(13) Senior Frontend Engineer React Jobs in Berlin, Germany | LinkedIn"
         }
       ],
       "recentUrls": [
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-08-27T05:26:26.599Z",
       "eventCount": 199,
-      "ageSeconds": 375622,
+      "ageSeconds": 377559,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -148,11 +148,21 @@
     {
       "name": "Mike",
       "status": "idle",
-      "lastSeen": "2026-08-29T17:11:40.423Z",
-      "eventCount": 291,
-      "ageSeconds": 160508,
+      "lastSeen": "2026-08-31T14:03:24.326Z",
+      "eventCount": 293,
+      "ageSeconds": 941,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
+        {
+          "ts": "2026-08-31T14:03:24.326Z",
+          "kind": "tool",
+          "detail": "user-Gmail-get_message"
+        },
+        {
+          "ts": "2026-08-31T14:03:08.311Z",
+          "kind": "tool",
+          "detail": "user-Gmail-search_threads"
+        },
         {
           "ts": "2026-08-29T17:11:17.509Z",
           "kind": "desktop",
@@ -182,16 +192,6 @@
           "ts": "2026-08-29T16:48:32.807Z",
           "kind": "browsing",
           "detail": "Senior Frontend Engineer - Design Editing Accessibility, Sydney, , Australia | Canva Careers"
-        },
-        {
-          "ts": "2026-08-29T16:37:36.999Z",
-          "kind": "browsing",
-          "detail": "Easy apply - Senior Frontend Engineer - Infrastructure (TypeScript, JavaScript) - Canva"
-        },
-        {
-          "ts": "2026-08-29T16:37:29.751Z",
-          "kind": "browsing",
-          "detail": "Deputy - Senior Frontend Engineer, Design Systems"
         }
       ],
       "recentUrls": [
