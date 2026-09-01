@@ -1,18 +1,33 @@
 {
-  "generatedAt": "2026-09-01T07:49:29.355446+00:00",
+  "generatedAt": "2026-09-01T08:04:02.959390+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "idle",
-      "lastSeen": "2026-09-01T06:18:14.196Z",
-      "eventCount": 1496,
-      "ageSeconds": 5475,
-      "focus": "Malik P. | LinkedIn",
+      "status": "recent",
+      "lastSeen": "2026-09-01T07:58:22.028Z",
+      "eventCount": 1510,
+      "ageSeconds": 340,
+      "focus": "Inbox (42) - dhrubajit1992@gmail.com - Gmail",
       "recent": [
         {
-          "ts": "2026-08-31T14:02:24.937Z",
+          "ts": "2026-09-01T07:57:49.205Z",
+          "kind": "tool",
+          "detail": "user-Gmail-get_draft"
+        },
+        {
+          "ts": "2026-09-01T07:57:35.186Z",
+          "kind": "tool",
+          "detail": "user-Gmail-list_drafts"
+        },
+        {
+          "ts": "2026-09-01T07:57:34.956Z",
           "kind": "tool",
           "detail": "user-Gmail-search_threads"
+        },
+        {
+          "ts": "2026-09-01T07:56:23.557Z",
+          "kind": "browsing",
+          "detail": "Inbox (42) - dhrubajit1992@gmail.com - Gmail"
         },
         {
           "ts": "2026-08-28T11:04:28.823Z",
@@ -33,24 +48,13 @@
           "ts": "2026-08-28T11:03:45.368Z",
           "kind": "browsing",
           "detail": "Senior Frontend Engineer | FINN | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:03:29.290Z",
-          "kind": "browsing",
-          "detail": "(13) Senior Frontend Engineer React TypeScript Jobs in Munich, Bavaria, Germany | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:03:09.888Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Software Engineer - Typescript | React | NextJS ( Remote) | Trivelta | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:02:47.426Z",
-          "kind": "browsing",
-          "detail": "Senior Software Engineer, GraphQL - API Platform | GetYourGuide | LinkedIn"
         }
       ],
       "recentUrls": [
+        {
+          "url": "https://mail.google.com/mail/u/0/",
+          "title": "Inbox (42) - dhrubajit1992@gmail.com - Gmail"
+        },
         {
           "url": "https://www.linkedin.com/in/malik-p-b61a66120/",
           "title": "Malik P. | LinkedIn"
@@ -66,10 +70,6 @@
         {
           "url": "https://www.linkedin.com/jobs/view/4404960076/",
           "title": "Senior Frontend Engineer | FINN | LinkedIn"
-        },
-        {
-          "url": "https://www.linkedin.com/jobs/search/",
-          "title": "(13) Senior Frontend Engineer React TypeScript Jobs in Munich, Bavaria, Germany | LinkedIn"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 6412,
+      "ageSeconds": 7286,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 63965,
+      "ageSeconds": 64838,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
