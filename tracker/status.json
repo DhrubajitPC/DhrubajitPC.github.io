@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-01T08:33:51.105011+00:00",
+  "generatedAt": "2026-09-01T08:46:58.887327+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-09-01T07:58:22.028Z",
       "eventCount": 1510,
-      "ageSeconds": 2129,
+      "ageSeconds": 2916,
       "focus": "Inbox (42) - dhrubajit1992@gmail.com - Gmail",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 9074,
+      "ageSeconds": 9862,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 66626,
+      "ageSeconds": 67414,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
