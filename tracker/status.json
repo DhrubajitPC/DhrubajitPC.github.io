@@ -1,28 +1,38 @@
 {
-  "generatedAt": "2026-09-01T09:03:50.955773+00:00",
+  "generatedAt": "2026-09-01T09:19:47.323758+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "idle",
-      "lastSeen": "2026-09-01T07:58:22.028Z",
-      "eventCount": 1510,
-      "ageSeconds": 3928,
-      "focus": "Inbox (42) - dhrubajit1992@gmail.com - Gmail",
+      "status": "active",
+      "lastSeen": "2026-09-01T09:19:42.759Z",
+      "eventCount": 1517,
+      "ageSeconds": 4,
+      "focus": "https://mail.google.com/mail/u/0/",
       "recent": [
         {
-          "ts": "2026-09-01T07:57:49.205Z",
-          "kind": "tool",
-          "detail": "user-Gmail-get_draft"
+          "ts": "2026-09-01T09:19:42.759Z",
+          "kind": "desktop",
+          "detail": "8 actions, 132s"
         },
         {
-          "ts": "2026-09-01T07:57:35.186Z",
+          "ts": "2026-09-01T09:17:34.636Z",
+          "kind": "browsing",
+          "detail": "https://mail.google.com/mail/u/0/"
+        },
+        {
+          "ts": "2026-09-01T09:16:41.575Z",
+          "kind": "tool",
+          "detail": "user-Gmail-search_threads"
+        },
+        {
+          "ts": "2026-09-01T09:16:31.699Z",
           "kind": "tool",
           "detail": "user-Gmail-list_drafts"
         },
         {
-          "ts": "2026-09-01T07:57:34.956Z",
+          "ts": "2026-09-01T07:57:49.205Z",
           "kind": "tool",
-          "detail": "user-Gmail-search_threads"
+          "detail": "user-Gmail-get_draft"
         },
         {
           "ts": "2026-09-01T07:56:23.557Z",
@@ -38,22 +48,12 @@
           "ts": "2026-08-28T11:04:20.922Z",
           "kind": "browsing",
           "detail": "David Ressler | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:04:01.660Z",
-          "kind": "browsing",
-          "detail": "Search | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:03:45.368Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Engineer | FINN | LinkedIn"
         }
       ],
       "recentUrls": [
         {
           "url": "https://mail.google.com/mail/u/0/",
-          "title": "Inbox (42) - dhrubajit1992@gmail.com - Gmail"
+          "title": ""
         },
         {
           "url": "https://www.linkedin.com/in/malik-p-b61a66120/",
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 10874,
+      "ageSeconds": 11830,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 68426,
+      "ageSeconds": 69382,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
