@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-09-01T09:19:47.323758+00:00",
+  "generatedAt": "2026-09-01T09:38:52.898150+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-09-01T09:19:42.759Z",
-      "eventCount": 1517,
-      "ageSeconds": 4,
+      "status": "recent",
+      "lastSeen": "2026-09-01T09:30:48.713Z",
+      "eventCount": 1527,
+      "ageSeconds": 484,
       "focus": "https://mail.google.com/mail/u/0/",
       "recent": [
         {
-          "ts": "2026-09-01T09:19:42.759Z",
-          "kind": "desktop",
-          "detail": "8 actions, 132s"
+          "ts": "2026-09-01T09:30:30.240Z",
+          "kind": "tool",
+          "detail": "user-Gmail-get_message"
         },
         {
-          "ts": "2026-09-01T09:17:34.636Z",
-          "kind": "browsing",
-          "detail": "https://mail.google.com/mail/u/0/"
-        },
-        {
-          "ts": "2026-09-01T09:16:41.575Z",
+          "ts": "2026-09-01T09:30:24.935Z",
           "kind": "tool",
           "detail": "user-Gmail-search_threads"
         },
         {
-          "ts": "2026-09-01T09:16:31.699Z",
+          "ts": "2026-09-01T09:30:25.026Z",
           "kind": "tool",
           "detail": "user-Gmail-list_drafts"
         },
         {
-          "ts": "2026-09-01T07:57:49.205Z",
+          "ts": "2026-09-01T09:30:19.079Z",
+          "kind": "desktop",
+          "detail": "6 actions, 86s"
+        },
+        {
+          "ts": "2026-09-01T09:28:55.933Z",
+          "kind": "browsing",
+          "detail": "https://mail.google.com/mail/u/0/"
+        },
+        {
+          "ts": "2026-09-01T09:28:17.499Z",
+          "kind": "tool",
+          "detail": "user-Gmail-send_message"
+        },
+        {
+          "ts": "2026-09-01T09:19:56.360Z",
           "kind": "tool",
           "detail": "user-Gmail-get_draft"
         },
         {
-          "ts": "2026-09-01T07:56:23.557Z",
-          "kind": "browsing",
-          "detail": "Inbox (42) - dhrubajit1992@gmail.com - Gmail"
-        },
-        {
-          "ts": "2026-08-28T11:04:28.823Z",
-          "kind": "browsing",
-          "detail": "Malik P. | LinkedIn"
-        },
-        {
-          "ts": "2026-08-28T11:04:20.922Z",
-          "kind": "browsing",
-          "detail": "David Ressler | LinkedIn"
+          "ts": "2026-09-01T09:19:42.759Z",
+          "kind": "desktop",
+          "detail": "8 actions, 132s"
         }
       ],
       "recentUrls": [
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 11830,
+      "ageSeconds": 12976,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 69382,
+      "ageSeconds": 70528,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
