@@ -1,23 +1,38 @@
 {
-  "generatedAt": "2026-09-01T14:31:44.247444+00:00",
+  "generatedAt": "2026-09-01T15:02:13.273709+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "idle",
-      "lastSeen": "2026-09-01T09:30:48.713Z",
-      "eventCount": 1527,
-      "ageSeconds": 18055,
-      "focus": "https://mail.google.com/mail/u/0/",
+      "status": "active",
+      "lastSeen": "2026-09-01T15:01:57.179Z",
+      "eventCount": 1558,
+      "ageSeconds": 16,
+      "focus": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH",
       "recent": [
+        {
+          "ts": "2026-09-01T15:01:24.555Z",
+          "kind": "tool",
+          "detail": "user-Gmail-search_threads"
+        },
+        {
+          "ts": "2026-09-01T14:55:37.450Z",
+          "kind": "browsing",
+          "detail": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH"
+        },
+        {
+          "ts": "2026-09-01T14:55:01.811Z",
+          "kind": "browsing",
+          "detail": "| Jobs at Kertos"
+        },
+        {
+          "ts": "2026-09-01T14:54:53.401Z",
+          "kind": "browsing",
+          "detail": "| Jobs at Yoummday GmbH"
+        },
         {
           "ts": "2026-09-01T09:30:30.240Z",
           "kind": "tool",
           "detail": "user-Gmail-get_message"
-        },
-        {
-          "ts": "2026-09-01T09:30:24.935Z",
-          "kind": "tool",
-          "detail": "user-Gmail-search_threads"
         },
         {
           "ts": "2026-09-01T09:30:25.026Z",
@@ -33,43 +48,28 @@
           "ts": "2026-09-01T09:28:55.933Z",
           "kind": "browsing",
           "detail": "https://mail.google.com/mail/u/0/"
-        },
-        {
-          "ts": "2026-09-01T09:28:17.499Z",
-          "kind": "tool",
-          "detail": "user-Gmail-send_message"
-        },
-        {
-          "ts": "2026-09-01T09:19:56.360Z",
-          "kind": "tool",
-          "detail": "user-Gmail-get_draft"
-        },
-        {
-          "ts": "2026-09-01T09:19:42.759Z",
-          "kind": "desktop",
-          "detail": "8 actions, 132s"
         }
       ],
       "recentUrls": [
         {
+          "url": "https://impower.jobs.personio.com/job/2554635/apply",
+          "title": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH"
+        },
+        {
+          "url": "https://impower.jobs.personio.com/job/2554635",
+          "title": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH"
+        },
+        {
+          "url": "https://kertos.jobs.personio.de/job/2331015",
+          "title": "| Jobs at Kertos"
+        },
+        {
+          "url": "https://yoummday-gmbh.jobs.personio.de/job/2627305",
+          "title": "| Jobs at Yoummday GmbH"
+        },
+        {
           "url": "https://mail.google.com/mail/u/0/",
           "title": ""
-        },
-        {
-          "url": "https://www.linkedin.com/in/malik-p-b61a66120/",
-          "title": "Malik P. | LinkedIn"
-        },
-        {
-          "url": "https://www.linkedin.com/in/davidcressler/",
-          "title": "David Ressler | LinkedIn"
-        },
-        {
-          "url": "https://www.linkedin.com/search/results/people/",
-          "title": "Search | LinkedIn"
-        },
-        {
-          "url": "https://www.linkedin.com/jobs/view/4404960076/",
-          "title": "Senior Frontend Engineer | FINN | LinkedIn"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 30547,
+      "ageSeconds": 32376,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 88099,
+      "ageSeconds": 89928,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
