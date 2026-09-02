@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T05:19:01.974049+00:00",
+  "generatedAt": "2026-09-02T05:33:19.009620+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "recent",
+      "status": "idle",
       "lastSeen": "2026-09-02T05:10:46.666Z",
       "eventCount": 1673,
-      "ageSeconds": 495,
+      "ageSeconds": 1352,
       "focus": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 83785,
+      "ageSeconds": 84642,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 141337,
+      "ageSeconds": 142194,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
