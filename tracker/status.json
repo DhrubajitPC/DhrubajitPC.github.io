@@ -1,14 +1,39 @@
 {
-  "generatedAt": "2026-09-01T15:02:13.273709+00:00",
+  "generatedAt": "2026-09-02T00:38:23.887999+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-09-01T15:01:57.179Z",
-      "eventCount": 1558,
-      "ageSeconds": 16,
-      "focus": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH",
+      "status": "idle",
+      "lastSeen": "2026-09-01T16:16:43.653Z",
+      "eventCount": 1629,
+      "ageSeconds": 30100,
+      "focus": "Search results - dhrubajit1992@gmail.com - Gmail",
       "recent": [
+        {
+          "ts": "2026-09-01T16:16:43.653Z",
+          "kind": "browsing",
+          "detail": "Search results - dhrubajit1992@gmail.com - Gmail"
+        },
+        {
+          "ts": "2026-09-01T15:08:03.526Z",
+          "kind": "browsing",
+          "detail": "Applied to Senior Full-Stack Engineer (Berlin/hybrid)"
+        },
+        {
+          "ts": "2026-09-01T15:06:39.742Z",
+          "kind": "browsing",
+          "detail": "Senior Full-Stack Engineer (Berlin/hybrid) - ETERNO"
+        },
+        {
+          "ts": "2026-09-01T15:06:07.273Z",
+          "kind": "browsing",
+          "detail": "Senior Full-Stack Developer (f/m/x) | Jobs at D4L data4life gGmbH"
+        },
+        {
+          "ts": "2026-09-01T15:02:33.438Z",
+          "kind": "browsing",
+          "detail": "Directory listing for /uploads/"
+        },
         {
           "ts": "2026-09-01T15:01:24.555Z",
           "kind": "tool",
@@ -23,53 +48,28 @@
           "ts": "2026-09-01T14:55:01.811Z",
           "kind": "browsing",
           "detail": "| Jobs at Kertos"
-        },
-        {
-          "ts": "2026-09-01T14:54:53.401Z",
-          "kind": "browsing",
-          "detail": "| Jobs at Yoummday GmbH"
-        },
-        {
-          "ts": "2026-09-01T09:30:30.240Z",
-          "kind": "tool",
-          "detail": "user-Gmail-get_message"
-        },
-        {
-          "ts": "2026-09-01T09:30:25.026Z",
-          "kind": "tool",
-          "detail": "user-Gmail-list_drafts"
-        },
-        {
-          "ts": "2026-09-01T09:30:19.079Z",
-          "kind": "desktop",
-          "detail": "6 actions, 86s"
-        },
-        {
-          "ts": "2026-09-01T09:28:55.933Z",
-          "kind": "browsing",
-          "detail": "https://mail.google.com/mail/u/0/"
         }
       ],
       "recentUrls": [
         {
-          "url": "https://impower.jobs.personio.com/job/2554635/apply",
-          "title": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH"
-        },
-        {
-          "url": "https://impower.jobs.personio.com/job/2554635",
-          "title": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH"
-        },
-        {
-          "url": "https://kertos.jobs.personio.de/job/2331015",
-          "title": "| Jobs at Kertos"
-        },
-        {
-          "url": "https://yoummday-gmbh.jobs.personio.de/job/2627305",
-          "title": "| Jobs at Yoummday GmbH"
-        },
-        {
           "url": "https://mail.google.com/mail/u/0/",
-          "title": ""
+          "title": "Search results - dhrubajit1992@gmail.com - Gmail"
+        },
+        {
+          "url": "https://careers.eterno.group/en/jobs/8010384-senior-full-stack-engineer-berlin-hybrid/applications/7a668217-c993-48d3-a770-fb4ec5be1b26/thanks/00d02ce810ac0b26b90a6d3bdc20026040bcb4ac9b7325fe9cd5442eda6e4b9d",
+          "title": "Applied to Senior Full-Stack Engineer (Berlin/hybrid)"
+        },
+        {
+          "url": "https://careers.eterno.group/en/jobs/8010384-senior-full-stack-engineer-berlin-hybrid/applications/new",
+          "title": "Senior Full-Stack Engineer (Berlin/hybrid) - ETERNO"
+        },
+        {
+          "url": "https://data4life.jobs.personio.de/job/2574892/apply",
+          "title": "Senior Full-Stack Developer (f/m/x) | Jobs at D4L data4life gGmbH"
+        },
+        {
+          "url": "https://data4life.jobs.personio.de/job/2574892",
+          "title": "Senior Full-Stack Developer (f/m/x) | Jobs at D4L data4life gGmbH"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 32376,
+      "ageSeconds": 66947,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 89928,
+      "ageSeconds": 124499,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
