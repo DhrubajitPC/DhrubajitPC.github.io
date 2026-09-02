@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-02T03:38:51.419861+00:00",
+  "generatedAt": "2026-09-02T03:50:11.437339+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "active",
-      "lastSeen": "2026-09-02T03:38:02.153Z",
-      "eventCount": 1650,
-      "ageSeconds": 49,
+      "lastSeen": "2026-09-02T03:50:10.345Z",
+      "eventCount": 1662,
+      "ageSeconds": 1,
       "focus": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH",
       "recent": [
+        {
+          "ts": "2026-09-02T03:50:10.345Z",
+          "kind": "browsing",
+          "detail": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH"
+        },
         {
           "ts": "2026-09-02T03:38:02.153Z",
           "kind": "tool",
           "detail": "user-Gmail-search_threads"
-        },
-        {
-          "ts": "2026-09-02T03:31:52.423Z",
-          "kind": "browsing",
-          "detail": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH"
         },
         {
           "ts": "2026-09-01T16:16:43.653Z",
@@ -43,16 +43,15 @@
           "ts": "2026-09-01T15:02:33.438Z",
           "kind": "browsing",
           "detail": "Directory listing for /uploads/"
-        },
-        {
-          "ts": "2026-09-01T14:55:37.450Z",
-          "kind": "browsing",
-          "detail": "Senior Frontend Engineer (m/f/d) \u2013 Munich | Jobs at Impower GmbH"
         }
       ],
       "recentUrls": [
         {
           "url": "https://countx.jobs.personio.com/job/2683959/apply",
+          "title": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH"
+        },
+        {
+          "url": "https://countx.jobs.personio.com/job/2683959",
           "title": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH"
         },
         {
@@ -66,10 +65,6 @@
         {
           "url": "https://careers.eterno.group/en/jobs/8010384-senior-full-stack-engineer-berlin-hybrid/applications/new",
           "title": "Senior Full-Stack Engineer (Berlin/hybrid) - ETERNO"
-        },
-        {
-          "url": "https://data4life.jobs.personio.de/job/2574892/apply",
-          "title": "Senior Full-Stack Developer (f/m/x) | Jobs at D4L data4life gGmbH"
         }
       ]
     },
@@ -78,7 +73,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 77774,
+      "ageSeconds": 78455,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +145,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 135327,
+      "ageSeconds": 136007,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
