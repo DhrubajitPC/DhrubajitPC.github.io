@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-09-04T11:23:09.697936+00:00",
+  "generatedAt": "2026-09-04T11:36:39.263878+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "active",
-      "lastSeen": "2026-09-04T11:22:44.458Z",
-      "eventCount": 1710,
-      "ageSeconds": 25,
-      "focus": "Senior Software Engineer (Full-Stack) - Healthcare Applications | Jobs at",
+      "status": "recent",
+      "lastSeen": "2026-09-04T11:31:31.153Z",
+      "eventCount": 1714,
+      "ageSeconds": 308,
+      "focus": "Error response",
       "recent": [
+        {
+          "ts": "2026-09-04T11:27:24.721Z",
+          "kind": "browsing",
+          "detail": "Error response"
+        },
+        {
+          "ts": "2026-09-04T11:27:06.649Z",
+          "kind": "browsing",
+          "detail": "Directory listing for /"
+        },
         {
           "ts": "2026-09-04T11:22:44.458Z",
           "kind": "browsing",
@@ -38,19 +48,21 @@
           "ts": "2026-09-01T15:08:03.526Z",
           "kind": "browsing",
           "detail": "Applied to Senior Full-Stack Engineer (Berlin/hybrid)"
-        },
-        {
-          "ts": "2026-09-01T15:06:39.742Z",
-          "kind": "browsing",
-          "detail": "Senior Full-Stack Engineer (Berlin/hybrid) - ETERNO"
-        },
-        {
-          "ts": "2026-09-01T15:06:07.273Z",
-          "kind": "browsing",
-          "detail": "Senior Full-Stack Developer (f/m/x) | Jobs at D4L data4life gGmbH"
         }
       ],
       "recentUrls": [
+        {
+          "url": "http://127.0.0.1:8899/Cover_Letter_Snke_Dhrubajit.pdf",
+          "title": "Error response"
+        },
+        {
+          "url": "http://127.0.0.1:8899/home/box/Downloads/",
+          "title": "Error response"
+        },
+        {
+          "url": "http://127.0.0.1:8899/",
+          "title": "Directory listing for /"
+        },
         {
           "url": "https://snke.jobs.personio.de/job/2749471/apply",
           "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications | Jobs at"
@@ -58,18 +70,6 @@
         {
           "url": "https://countx.jobs.personio.com/job/2683959/apply",
           "title": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH"
-        },
-        {
-          "url": "https://countx.jobs.personio.com/job/2683959",
-          "title": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH"
-        },
-        {
-          "url": "https://mail.google.com/mail/u/0/",
-          "title": "Search results - dhrubajit1992@gmail.com - Gmail"
-        },
-        {
-          "url": "https://careers.eterno.group/en/jobs/8010384-senior-full-stack-engineer-berlin-hybrid/applications/7a668217-c993-48d3-a770-fb4ec5be1b26/thanks/00d02ce810ac0b26b90a6d3bdc20026040bcb4ac9b7325fe9cd5442eda6e4b9d",
-          "title": "Applied to Senior Full-Stack Engineer (Berlin/hybrid)"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 278433,
+      "ageSeconds": 279242,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 335985,
+      "ageSeconds": 336794,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
