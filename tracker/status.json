@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-09-04T11:13:38.381368+00:00",
+  "generatedAt": "2026-09-04T11:23:09.697936+00:00",
   "agents": [
     {
       "name": "Alice",
-      "status": "idle",
-      "lastSeen": "2026-09-04T08:18:11.566Z",
-      "eventCount": 1689,
-      "ageSeconds": 10526,
-      "focus": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH",
+      "status": "active",
+      "lastSeen": "2026-09-04T11:22:44.458Z",
+      "eventCount": 1710,
+      "ageSeconds": 25,
+      "focus": "Senior Software Engineer (Full-Stack) - Healthcare Applications | Jobs at",
       "recent": [
+        {
+          "ts": "2026-09-04T11:22:44.458Z",
+          "kind": "browsing",
+          "detail": "Senior Software Engineer (Full-Stack) - Healthcare Applications | Jobs at"
+        },
         {
           "ts": "2026-09-04T08:18:00.442Z",
           "kind": "tool",
@@ -47,6 +52,10 @@
       ],
       "recentUrls": [
         {
+          "url": "https://snke.jobs.personio.de/job/2749471/apply",
+          "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications | Jobs at"
+        },
+        {
           "url": "https://countx.jobs.personio.com/job/2683959/apply",
           "title": "Senior Product Engineer (f/m/d) | Jobs at CountX GmbH"
         },
@@ -61,10 +70,6 @@
         {
           "url": "https://careers.eterno.group/en/jobs/8010384-senior-full-stack-engineer-berlin-hybrid/applications/7a668217-c993-48d3-a770-fb4ec5be1b26/thanks/00d02ce810ac0b26b90a6d3bdc20026040bcb4ac9b7325fe9cd5442eda6e4b9d",
           "title": "Applied to Senior Full-Stack Engineer (Berlin/hybrid)"
-        },
-        {
-          "url": "https://careers.eterno.group/en/jobs/8010384-senior-full-stack-engineer-berlin-hybrid/applications/new",
-          "title": "Senior Full-Stack Engineer (Berlin/hybrid) - ETERNO"
         }
       ]
     },
@@ -73,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 277861,
+      "ageSeconds": 278433,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -145,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 335414,
+      "ageSeconds": 335985,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
