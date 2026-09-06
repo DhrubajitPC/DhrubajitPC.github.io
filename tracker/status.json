@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-06T09:18:04.388924+00:00",
+  "generatedAt": "2026-09-06T09:38:50.439774+00:00",
   "agents": [
     {
       "name": "Alice",
       "status": "idle",
       "lastSeen": "2026-09-05T12:58:13.378Z",
       "eventCount": 1715,
-      "ageSeconds": 73191,
+      "ageSeconds": 74437,
       "focus": "Error response",
       "recent": [
         {
@@ -78,7 +78,7 @@
       "status": "idle",
       "lastSeen": "2026-09-01T06:02:36.426Z",
       "eventCount": 207,
-      "ageSeconds": 443727,
+      "ageSeconds": 444974,
       "focus": "Foodstuffs North Island - Full Stack Developer - Liquorland",
       "recent": [
         {
@@ -150,7 +150,7 @@
       "status": "idle",
       "lastSeen": "2026-08-31T14:03:24.326Z",
       "eventCount": 293,
-      "ageSeconds": 501280,
+      "ageSeconds": 502526,
       "focus": "Full Stack Developer - Sydney Australia - Careers | Infosys",
       "recent": [
         {
